@@ -1,0 +1,315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<HTML>
+<HEAD>
+	<TITLE>TEI-Version der Edition "Der jungen Goethe in seiner Zeit</TITLE>
+</HEAD>
+
+<BODY>
+<H2>Der junge Goethe in seiner Zeit.<BR> 
+Zur TEI-konformen Fassung des Textes</h2>
+
+<H3>Inhalt</h3>
+1. Warum TEI?<BR>
+2. Inhalt des Unterverzeichnisses \tei<BR>
+3. Darstellung der Texte<BR>
+4. Folio- und TEI-Version<BR>
+5. Zusammenf&uuml;hren der Einzeldateien in eine gr&ouml;&szlig;ere Datei<BR>
+6. Tags und Attribute<BR>
+
+<h3>1. Warum TEI?</h3>
+<p>Die Verwendungszeit elektronischer Editionen wird von mehreren 
+Faktoren verk&uuml;rzt: der kurzen Lebensdauer der Programme, die zu 
+ihrer Darstellung verwendet werden, der etwas l&auml;ngeren der 
+Betriebssysteme, unter denen die Darstellungsprogramme laufen, 
+der logischen Einrichtung des Datentr&auml;gers, auf dem sich die 
+Edition befindet, und dessen physischer Dauer. Elektronische 
+Editionen teilen diese Probleme mit allen digitalisierten Texten.
+Um wenigstens die Abh&auml;ngigkeit von einem bestimmten Programm und
+einem bestimmten Betriebssystem zu vermeiden, wurde bereits 
+1986 ein Standard zur Definition von Textauszeichnungssystemen
+verabschiedet: SGML (Standard Generalized Markup Language).(1)
+SGML ist selbst kein Textauszeichnungssystem (wie z.B. RTF, 
+HTML oder das interne Format von Winword-Dateien), sondern 
+ist eine Metasprache, mit der man Textauszeichnungssysteme 
+definieren kann. Der Vorteil besteht darin, daﬂ man mit SGML-
+konformen Programmen alle so ausgezeichneten Texte lesen kann. 
+Der Anwender ist also f&uuml;r die Darstellung und Analyse seiner 
+Texte nicht auf ein bestimmtes Programm angewiesen, sondern kann
+frei unter allen Programmen w&auml;hlen, die SGML-Daten verarbeiten
+k&ouml;nnen. Beispiele f&uuml;r solche aufgrund von SGML definierten 
+Textauszeichnungssysteme sind HTML (die Seitenbeschreibungssprache
+des Internets) und TEI, die philologische Textbeschreibungssprache
+der Text Encoding Initiative. 
+<P>TEI stellt dem Textwissenschaftler mehrere hundert Auszeichner (tags) 
+zur Verf&uuml;gung, um nahezu jeden gew&uuml;nschten Aspekt eines Textes
+mit Zusatzinformationen zu versehen. Die exzellenten Handb&uuml;cher,
+herausgegeben von den Lou Burnard und Michael Sperberg-
+McQueen, und auch die 'Grammatik'-Dateien (DTDs) selbst sind 
+im Internet verf&uuml;gbar. (2)
+<P>Daten, die entsprechend den TEI-Richtlinien ausgezeichnet worden sind, 
+k&ouml;nnen mit jedem Programm, das SGML-Daten verarbeiten kann, 
+dargestellt, umgewandelt oder durchsucht werden. Vor allem k&ouml;nnen
+verschiedene Editionen, wenn sie TEI zur Auszeichnung verwendet
+haben, vom Anwender zur Recherche zu einem Korpus
+zusammengeschlossen werden. Wissenschaftler k&ouml;nnen also, wenn sie sich
+an diesen Richtlinien orientieren, die f&uuml;r ihre Belange geschaffen wurden 
+und auch neueren Anforderungen angepaﬂt werden k&ouml;nnen, ihre Daten 
+langfristig und unabh&auml;ngig von einzelnen Firmen archivieren und dem
+Anwender zur Nutzung zug&auml;nglich machen. 
+<P>Verwendet wurde f&uuml;r die Auszeichnung der vorliegenden Edition 'teilite', 
+eine Teilmenge des gesamten Auszeichnungssystems TEI, die auf 
+einige von dessen komplexeren Merkmale verzichtet und deshalb auch 
+eine einfache Konvertierung der Daten zu neueren Metasprachen 
+f&uuml;r Auszeichnungssysteme wie XML, einer Teilmenge von SGML, 
+erm&ouml;glicht.
+<P>SGML-Programme mit der Leistungsf&auml;higkeit von Folio Views sind 
+z.Zt. noch relativ teuer, daher wurde f&uuml;r die vorliegende 
+Edition der Weg gew&auml;hlt, den Text doppelt auf die CD zu legen: 
+Einmal f&uuml;r die sofortige Nutzung mit einer komfortablen 
+Oberfl&auml;che und einmal ohne Software in einem Format, das seine 
+langfristige Verwendbarkeit wahrscheinlicher macht. 
+Das Nachstehende soll einige Hinweise zur Einrichtung der TEI-
+Dateien geben, um deren weitere Verwendung zu erleichtern. 
+
+
+
+<h3>2. Inhalt des Unterverzeichnisses \tei</h3>
+<p>Die TEI-Version dieser Ausgabe der Werke des jungen Goethe 
+liegt im Verzeichnis "\tei" auf der CD. In den Verzeichnissen 
+unterhalb von \tei liegen die notwendigen Grafiken. Das 
+Verzeichnis \tei ist selbst&auml;ndig, d.h. es werden keine weiteren 
+Grafik- oder Textdateien ben&ouml;tigt, au&szlig;er denen, die in \tei 
+liegen, um den Text mit einem SGML-konformen Programm 
+verarbeiten zu k&ouml;nnen. 
+
+<table cellspacing="2" cellpadding="2">
+<tr>
+    <td>jgoethe0.sgm - jgoethe23.sgm</td>
+    <td>die Textdateien</td>
+</tr>
+<tr>
+    <td>jgoethe0.ent - jgoethe23.ent</td>
+    <td>die zugeh&ouml;rigen Entities</td>
+</tr>
+<tr>
+    <td>teilite.dtd</td>
+    <td>die verwendete TEI-DTD</td>
+</tr>
+<tr>
+    <td>usermod.ent</td>
+    <td>Modifikation der TEI-DTD (3)</td>
+</tr>
+<tr>
+    <td>iso-*.ent</td>
+    <td>Definitionen der Sonderzeichen</td>
+</tr>
+<tr>
+    <td>catalog</td>
+    <td>Zuordnung von public identifiern zu Systemdateiein</td>
+</tr>
+<tr>
+    <td>readme.txt, readme.htm</td>
+    <td>die Datei, die sie gerade lesen</td>
+</tr>
+<tr>
+    <td>jgoethe.ssh</td>
+    <td>Ein Stylesheet f&uuml;r die Darstellung der Dateien in Softquads Panorama Pro</td>
+</tr>
+<tr>
+    <td>jgoethe.nav</td>
+    <td>Navigationsinformationen f&uuml;r Softquads Panorama Pro</td>
+</tr>
+<tr>
+    <td>nav.ssh</td>
+    <td>Stylesheet f&uuml;r das Navigationsfenster f&uuml;r Softquads Panorama Pro </td>
+</tr>
+</table>
+<p>
+
+
+<h3>3. Darstellung der Texte</h3>
+<p>TEI ist ein Auszeichnungssystem, um die Struktur von Texten zu 
+beschreiben. Es legt die Art der Darstellung auf dem Bildschirm 
+oder dem Papier nicht fest. Die meisten SGML-Programme 
+verwenden propriet&auml;re Stylesheet-Formate, um das Ausgabeformat 
+des Textes zu bestimmen. Als Beispiel f&uuml;r ein solches 
+stylesheet liegen die Dateien jgoethe.ssh und jgoethe.nav bei, 
+die die Bildschirmpr&auml;sentation im Programm Softquad Panorama 
+Pro steuern. Es handelt  sich um einfache Textdateien, die 
+einen Eindruck vermitteln sollen, wie die 
+Auszeichnungsinformationen zur Gestaltung der Darstellung 
+verwendet werden k&ouml;nnen. Ein &Uuml;berblick &uuml;ber die wichtigsten 
+verwendeten Attribute und ihre Werte findet sich am Ende dieser 
+Datei. 
+
+
+<h3>4. Folio- und TEI-Version</h3>
+<p>Bis auf einige geringf&uuml;gige Korrekturen sind die beiden 
+elektronischen Texte textidentisch. Die Record-Z&auml;hlung der 
+Folio-Edition wurde als Wert des Attributs 'id' in den 
+Elementen DIV1-7, LG oder P notiert. Der Zahl ist stets ein 
+'jg' vorangestellt (Bsp.: id="jg2345"). Die Record-Ids der 
+Folio Edition sind jedoch nicht identisch mit den angezeigten
+Record-Nummern, sondern werden nur sichtbar, wenn man einen
+Textabschnitt exportiert und in den Export Optionen den 
+Schalter "Eintrags-IDs schreiben" aktiviert hat. Die Folio
+IDs sind Hexadezimal-Zahlen, die TEI-IDs Dezimalzahlen.
+
+Die Gruppensuche von Folio basiert auf einer Auszeichnung der 
+Records mit einer Gruppeninformation. Diese Auszeichnung wurde 
+in das Element MILESTONE &uuml;bernommen. Die entsprechenden 
+MILESTONE-Elemente haben als Attributwert f&uuml;r 'ed' 
+"foliogruppe". Der Wert des Attributs 'unit' enth&auml;lt die 
+Gruppeninformation. Bs: &lt;MILESTONE ed="foliogruppe" 
+unit="JGoethe 1765-68"&gt;
+<p>Es wurden nicht alle programmtechnischen Besonderheiten der 
+Folio-Edition in der TEI-Auszeichnung ber&uuml;cksichtigt. Folio 
+Views erm&ouml;glicht sogenannte Query-Links, also Hyperlinks, die 
+keine feste Zieladresse haben, sondern einen spezifizierten 
+Suchlauf starten. Diese Query-Links k&ouml;nnten zwar in die Syntax 
+von XREF-Verweisen &uuml;bersetzt werden, da dort auch ein pattern 
+als Ziel angegeben werden kann; der Mangel an Software, die 
+diese Verweistechnik unterst&uuml;tzt, lie&szlig; aber den 
+Konvertierungsaufwand in diesem Punkt ungerechtfertigt 
+erscheinen. 
+
+
+<h3>5. Zusammenf&uuml;hren der Einzeldateien in eine einzige Datei</h3>
+Der Text ist f&uuml;r eine einfachere Verwendung mit kleineren 
+Leseprogrammen in 24 Einzeldateien zerlegt worden. Will man die 
+Gesamtdatei wiederherstellen, mu&szlig; man den TEI-Header in allen 
+Dateien au&szlig;er der ersten entfernen; ebenso die Schlu&szlig;tags am 
+Ende aller Dateien au&szlig;er der letzten. (&lt;/BODY&gt;&lt;/TEXT&gt;&lt;/TEI.2&gt;). 
+Au&szlig;erdem m&uuml;ssen die Dateiangaben in den Zielangaben der 
+Hyperlinks angepa&szlig;t werden. Da sie alle das Format "JGOETHE" 
+gefolgt von einer Zahl haben, ist dies leicht zu 
+bewerkstelligen 
+Au&szlig;erdem m&uuml;ssen die Entityangaben, die zur Zeit getrennt nach 
+Dateien vorliegen (in den Dateien mit der Endung .ent) in eine 
+Datei zusammengef&uuml;hrt und der Verweis auf diese Entitydatei am 
+Kopf der neuen Text-Datei angepa&szlig;t werden. 
+
+
+<h3>6. Tags und Attribute</h3>
+<p>Umlaute, frz. Akzente, griechische Buchstaben usw. sind durch 
+die entsprechenden Entities ersetzt (siehe zum Schl&uuml;ssel die 
+beiliegenden Dateien iso*.ent). 
+<p>Folgende Tags wurden in der Textauszeichnung (also nicht im 
+Header) verwendet: </p>
+
+<p>Die Schreibweise der Attribut-Namen wechselt zwischen Klein- 
+und Gro&szlig;schreibung. 
+<p>Angaben in [] sind im folgenden als Platzhalter zu verstehen. 
+<p>
+<code>
+&lt;ANCHOR id="[Zielangabe f&uuml;r XREF]"&gt;<BR>
+&lt;AUTHOR&gt;<BR>
+&lt;BODY&gt;<BR>
+&lt;CELL&gt;<BR>
+&lt;DATE&gt;<BR>
+&lt;DIV1 type="&Uuml;berschrift1"&gt;<BR>
+&lt;DIV2 type="&Uuml;berschrift2"&gt;<BR>
+&lt;DIV3 type="&Uuml;berschrift2"&gt;<BR>
+&lt;DIV3 type="&Uuml;berschrift3" &gt;<BR>
+&lt;DIV3 type="&Uuml;berschrift3"&gt;<BR>
+&lt;DIV4 type="&Uuml;berschrift4"&gt;<BR>
+&lt;DIV5 type="&Uuml;berschrift5"&gt;<BR>
+&lt;DIV6 type="&Uuml;berschrift6"&gt;<BR>
+&lt;DIV7 type="&Uuml;berschrift7"&gt;<BR>
+&lt;EMPH&gt;<BR>
+&lt;FIGURE entity="[Entityname]" rend="extern"&gt;<BR>
+&lt;HEAD&gt;<BR>
+&lt;HI&gt;<BR>
+&lt;L&gt;<BR>
+&lt;L n="[Zeilenzahl]"&gt;<BR>
+&lt;L rend="Absatzhaengend"&gt;<BR>
+&lt;L rend="Bibelvers" &gt;<BR>
+&lt;L rend="ErlaeuterungenKlein"&gt;<BR>
+&lt;L&gt;<BR>
+&lt;LB&gt;<BR>
+&lt;LG&gt;<BR>
+&lt;LG rend="Versrede" type="Verse"&gt;<BR>
+&lt;LG type="Bibelverse"&gt;<BR>
+&lt;LG type="Strophe" &gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1749-65"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1765-68"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1768-70"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1770-71"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1771- Mai 72"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1772 Juni-Sept."&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1772, Okt., - 73"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1774/1 Jan-Juni"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1774/2 Juli-Aug"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1774/3 Aug-Dez"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1775/1 Jan-Mai"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1775/2 Mai-Juli"&gt;<BR>
+&lt;MILESTONE ed="foliogruppe" unit="JGoethe 1775/3 ab Juli"&gt;<BR>
+&lt;NAME&gt;<BR>
+&lt;NAME type="Dramenfigur"&gt;<BR>
+&lt;NAME type="Namenglossar"&gt;<BR>
+&lt;NAME type="Sprecher im Gedicht"&gt;<BR>
+&lt;NOTE&gt;<BR>
+&lt;NOTE type="Bild"&gt;<BR>
+&lt;NOTE type="bild"&gt;<BR>
+&lt;P&gt;<BR>
+&lt;P  rend="Dramenprosa"&gt;<BR>
+&lt;P rend="Absatzhaengend"&gt;<BR>
+&lt;P rend="BinnenTrennZeichen"&gt;<BR>
+&lt;P rend="Dramenprosa"&gt;<BR>
+&lt;P rend="Erlaeuterungen"&gt;<BR>
+&lt;P rend="ErlaeuterungenKlein"&gt;<BR>
+&lt;P rend="ErlaeuterungenKleinLyrik"&gt;<BR>
+&lt;P rend="ErlaeuterungenMitErsteinzug"&gt;<BR>
+&lt;P rend="ErlaeuterungenOhneLeereinzug"&gt;<BR>
+&lt;P rend="ErlaeuterungenZitat"&gt;<BR>
+&lt;P rend="Liste"&gt;<BR>
+&lt;P rend="Nachwort"&gt;<BR>
+&lt;P rend="ProsaMitErsteinzug"&gt;<BR>
+&lt;P rend="ProsaOhneLeereinzug"&gt;<BR>
+&lt;P rend="Prosatext"&gt;<BR>
+&lt;PB ed="Buchausgabe" n="[Band Seitenzahl]"&gt;<BR>
+&lt;PB ed="Goetz" n=[gz Seitenzahl]&gt;<BR>
+&lt;PB ed="Werther" n=[wt Seitenzahl]&gt;<BR>
+&lt;ROW&gt;<BR>
+&lt;SEG&gt;<BR>
+&lt;SEG Type="Sprecher"&gt;<BR>
+&lt;SEG type="Fremde Hand"&gt;<BR>
+&lt;SEG type="Grafikverweis"&gt;<BR>
+&lt;SEG type="altgriechisch"&gt;<BR>
+&lt;SP&gt;<BR>
+&lt;SP rend="Dramenprosa"&gt;<BR>
+&lt;SP rend="Absatzhaengend"&gt;<BR>
+&lt;SP rend="Dramenprosa"&gt;<BR>
+&lt;SP rend="ProsaMitErsteinzug"&gt;<BR>
+&lt;SPEAKER&gt;<BR>
+&lt;STAGE&gt;<BR>
+&lt;TABLE&gt;<BR>
+&lt;TEXT&gt;<BR>
+&lt;TITLE type="Goethewerk"&gt;<BR>
+&lt;TITLE&gt;<BR>
+&lt;XREF DOC="JGOETHE[0-23]" FROM="id ([id des Anchor-Elements im 
+Ziel])"&gt;<BR>
+</code>
+<p>Abschlie&szlig;end sei noch einmal auf die Webseite f&uuml;r diese Edition 
+verwiesen:
+<p><a href="http://www.jgoethe.uni-muenchen.de">http://www.jgoethe.uni-muenchen.de</a>
+
+<HR>
+<p>(1) Alle Handb&uuml;cher, DTDs und eine Beschreibung der TEI sind im 
+Internet unter der Adresse <a href="http://www.uic.edu:80/orgs/tei/">http://www.uic.edu:80/orgs/tei/</a> 
+einzusehen. 
+
+<p>(2) Ausf&uuml;hrliche Informationen zu SGML einschlie&szlig;lich eines 
+Verweises auf eine Liste mit SGML-Programmen findet man unter 
+<a href="http://www.sgmlopen.org/">http://www.sgmlopen.org/</a>. Ein sehr gute Einf&uuml;hrung bietet: 
+Wolfgang Rieger: SGML f&uuml;r die Praxis. Ansatz und Einsatz von 
+ISO 8879. Springer: Heidelberg 1995. 
+
+<p>(3) Die Datei teilite.dtd wurde bis auf einen Punkt unver&auml;ndert 
+&uuml;bernommen: Die Notation f&uuml;r das Grafikformat GIF wurde auskommentiert
+und eine neue Notations-Anweisung in der Datei usermod.ent definiert.
+
+</BODY>
+</HTML>
+

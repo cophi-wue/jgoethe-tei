@@ -1,0 +1,1003 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.6 //EN" 
+[ 
+<?TAGLINK xref "TEI-P3"> 
+<!ENTITY % entities SYSTEM "jgoethe21.ent"> 
+%entities; 
+]><TEI.2>
+<TEIHEADER>
+   <FILEDESC>
+	<TITLESTMT>
+		<TITLE>Der junge Goethe in seiner Zeit. Texte und Kontexte. </TITLE>		<AUTHOR>Johann Wolfgang Goethe</AUTHOR>
+		<RESPSTMT>
+			<RESP>Herausgegeben von </RESP>
+			<NAME>Karl Eibl, Fotis Jannidis, Marianne Willems</NAME>
+		</RESPSTMT>
+	</TITLESTMT>
+	<EDITIONSTMT>
+		<EDITION>Erste Ausgabe 
+			<DATE>1998</DATE>
+		</EDITION>
+	</EDITIONSTMT>
+	<PUBLICATIONSTMT><P>Der junge Goethe in seiner Zeit</P>
+		<P>Herausgegeben von Karl Eibl, Fotis Jannidis und Marianne Willems</P>
+		<P>Erste Auflage 1998</P>
+		<P>ISBN	gebunden 3-458-16914-8</P>
+		<P>Taschenbuch 3-458-33800-4</P>
+		<P>Insel Verlag Frankfurt/Main</P>
+		<P>Weitere Informationen: http://www.jgoethe.uni-muenchen.de/</P>
+	</PUBLICATIONSTMT>
+	<SOURCEDESC><P>Die Texte des Jungen Goethe entstammen, so weit nicht anders angegeben, der Ausgabe: Der junge Goethe. Neu bearb. 3. Ausgabe. 5 Bde. und 1 Reg.-Bd. Hrsg. v. Hanna Fischer-Lamberg. Berlin bzw. Bd. 5 und Reg.-Bd. Berlin und New York 1963 - 1974. (Sigle FL). Das N&auml;here jeweils im Kommentar. Die Herkunft der anderen Vorlagen wird jeweils unter dem Titel genannt. Wo kein spezieller Herkunftsvermerk steht, war das Original die Vorlage.</P>
+	</SOURCEDESC>
+   </FILEDESC>
+   <ENCODINGDESC>
+	<PROJECTDESC>
+		<P>Die TEI-Dateien wurden durch Konvertierung der Folio Flat Files gewonnen. Zur besseren Handhabung mit SGML-Browsern wurden die Daten in 24 Dateien gespeichert: jgoethe0.sgm - jgoethe23.sgm. Die zugeh&ouml;rigen Entities befinden sich in den gleichnamigen Dateien mit der Endung .ent. Das Tag milestone wurde zweckentfremdet, um Informationen zum Entstehungszeitraum nicht zu verlieren (genaueres in der readme.txt). </P>
+	</PROJECTDESC>
+	<EDITORIALDECL>
+		<P>Die editorischen Prinzipien der Ausgabe sind im Nachwort (Teil des Textes) nachzulesen. Eine Beschreibung der Tags und zur Formatierung wesentlicher Attribute befindet sich in der beiliegenden readme.txt</P>
+	</EDITORIALDECL>
+   </ENCODINGDESC>
+</TEIHEADER>
+<TEXT>
+<BODY>
+<DIV1 type="&Uuml;berschrift1" id="jg80614"><HEAD><ANCHOR id="Bibliographie">Bibliographie</HEAD>
+<P id="jg80615"><XREF DOC="JGOETHE0" FROM="id (Anfang)"></XREF><FIGURE entity=PFEILOB rend=intern></FIGURE></P>
+<P id="jg80616"></P>
+<DIV2 type="&Uuml;berschrift2">
+<DIV3 type="&Uuml;berschrift3">
+<DIV4 type="&Uuml;berschrift4" id="jg80617"><HEAD><ANCHOR id="TocDBAFXGGIB">Sprache und Bildung der Zeit</HEAD>
+<P id="jg80618" rend="Absatzhaengend"></P>
+<P id="jg80619" rend="Absatzhaengend">Adelung, Johann Christoph: Versuch eines vollst&auml;ndigen grammatisch-kritischen W&ouml;rterbuchs der hochdeutschen Mundart. 5 Bde. Leipzig 1774-1786. Neudruck der zweiten Auflage (4 Bde., Leipzig 1793-1801) Hildesheim 1970.</P>
+<P id="jg80620" rend="Absatzhaengend">B&auml;chtold-St&auml;ubli, Hanns: Handw&ouml;rterbuch des deutschen Aberglaubens. 10 Bde. Berlin 1927-1942. Neudruck Berlin 1987.</P>
+<P id="jg80621" rend="Absatzhaengend">Beutin, Wolfgang: Das Weiterleben alter Wortbedeutungen in der neueren deutschen Literatur bis gegen 1800. Hamburg 1972.</P>
+<P id="jg80622" rend="Absatzhaengend">Binder, Wolfgang: "Genu&szlig;" in der deutschen Dichtung und Philosophie des 17. und 18. Jahrhunderts. In: Archiv f&uuml;r Begriffsgeschichte 17 (1973) S. 66-92.</P>
+<P id="jg80623" rend="Absatzhaengend">Campe, Joachim Heinrich: W&ouml;rterbuch der deutschen Sprache. 6 Bde. Braunschweig 1807-1813. Neudruck Hildesheim 1969/70.</P>
+<P id="jg80624" rend="Absatzhaengend">Ersch, Johann Samuel / Gruber, Johann Georg: Allgemeine Enzyklop&auml;die der Wissenschaften und der K&uuml;nste. 167 Bde. Leipzig 1818-1889.</P>
+<P id="jg80625" rend="Absatzhaengend">Fischer, Paul: Goethe-Wortschatz. Leipzig 1929.</P>
+<P id="jg80626" rend="Absatzhaengend">Grimm, Jacob und Wilhelm (Hrsg. bzw. Begr&uuml;nder): Deutsches W&ouml;rterbuch. 33 Bde. Leipzig 1854-1962. Neudruck M&uuml;nchen 1984.</P>
+<P id="jg80627" rend="Absatzhaengend">Hederich, Benjamin: Gr&uuml;ndliches mythologisches Lexikon [...]. Neu hrsg. von Johann Joachim Schwabe. Leipzig 1770. Neudruck Darmstadt 1996.</P>
+<P id="jg80628" rend="Absatzhaengend">Heyse, Christian August: Allgemeines Fremdw&ouml;rterbuch. 2 Bde. Hannover 71835.</P>
+<P id="jg80629" rend="Absatzhaengend">Kr&uuml;nitz, Johann Georg: &Ouml;konomisch-technologische Enzyklop&auml;die. 242 Bde. Berlin 1773-1858.</P>
+<P id="jg80630" rend="Absatzhaengend">Langen, August: Der Wortschatz des deutschen Pietismus. T&uuml;bingen 1954.</P>
+<P id="jg80631" rend="Absatzhaengend">Luther, Martin: Werke. Weimar 1910.</P>
+<P id="jg80632" rend="Absatzhaengend">Pretzel, Ulrich: Wortbedeutungsprobleme in Goethes Sprache, in: U. Pretzel, Kleine Schriften, Berlin 1979, S. 264-278.</P>
+<P id="jg80633" rend="Absatzhaengend">R&ouml;hrich, Lutz: Lexikon der sprichw&ouml;rtlichen Redensarten. 5 Bde. Freiburg, Basel, Wien 21994.</P>
+<P id="jg80634" rend="Absatzhaengend">Sulzer, Johann Georg: Allgemeine Theorie der Sch&ouml;nen K&uuml;nste. In einzelnen, nach alphabetischer Ordnung der Kunstw&ouml;rter auf einanderfolgenden Artikeln abgehandelt. 4 Theile. - 2. Ausg. Leipzig, 1792-1799. Nachdruck Hildesheim 1967-1970.</P>
+<P id="jg80635" rend="Absatzhaengend">Zedler, Johann Heinrich (Hrsg.): Gro&szlig;es vollst&auml;ndiges Universal-Lexicon aller Wissenschaften und K&uuml;nste. 64 Bde. und 4 Suppl.-Bde. Halle 1732-1754.</P>
+</DIV4>
+<DIV4 type="&Uuml;berschrift4" id="jg80636"><HEAD><ANCHOR id="TocDBAFXGGIC">Goethe: Texte und Zeugnisse</HEAD>
+<DIV5 type="&Uuml;berschrift5" id="jg80637"><HEAD>Goethes Gesamtausgaben</HEAD>
+<P id="jg80638" rend="Absatzhaengend"></P>
+<P id="jg80639" rend="Absatzhaengend">Hagen, Waltraud u. a.: Quellen und Zeugnisse zur Druckgeschichte von Goethes Werken. 4 Bde. Berlin 1966-86.<LB></P>
+<P id="jg80640" rend="Absatzhaengend">S: Goethe's Schriften. 8 Bde. Leipzig (G&ouml;schen) 1787-1790.</P>
+<P id="jg80641" rend="Absatzhaengend">N: Goethe's neue Schriften. 7 Bde. Berlin (Unger) 1792-1800.</P>
+<P id="jg80642" rend="Absatzhaengend">A: Goethes Werke. 13 Bde. Stuttgart und T&uuml;bingen (Cotta) 1806-1810.</P>
+<P id="jg80643" rend="Absatzhaengend">B: Goethe's Werke. 20 Bde. Stuttgart und T&uuml;bingen (Cotta) 1815-1819.</P>
+<P id="jg80644" rend="Absatzhaengend">C: Goethe's Werke. Vollst&auml;ndige Ausgabe letzter Hand. 40 Bde. Stuttgart und T&uuml;bingen (Cotta) 1827-1830. Erg&auml;nzt durch: Goethe's Nachgelassene Werke. Hrsg. von Johann Peter Eckermann und Friedrich Wilhelm Riemer. 20 Bde. [Bd. 41-60 der Ausgabe letzter Hand] 1832-1842.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80645"><HEAD>Posthume Gesamtausgaben</HEAD>
+<P id="jg80646" rend="Absatzhaengend"></P>
+<P id="jg80647" rend="Absatzhaengend">Q: Goethes poetische und prosaische Werke in zwei B&auml;nden (in 4 Teilen). Hrsg. v. Johann Peter Eckermann und Friedrich Wilhelm Riemer. Stuttgart und T&uuml;bingen (Cotta) 1836/37. (Quartausgabe.)</P>
+<P id="jg80648" rend="Absatzhaengend">WA: Goethes Werke. Hrsg. im Auftrage der Gro&szlig;herzogin Sophie von Sachsen. 133 Bde. Weimar 1887-1919 (Nachdruck: M&uuml;nchen 1987) - Abt. I: Werke; Abt. II: Naturwissenschaftliche Schriften; Abt. III: Tageb&uuml;cher; Abt. IV: Briefe (Weimarer Ausgabe). - Goethes Werke. Weimarer Ausgabe. Nachtr&auml;ge und Register zur IV. Abt.: Briefe. Hrsg. v. Paul Raabe. 3 Bde. M&uuml;nchen 1990.</P>
+<P id="jg80649" rend="Absatzhaengend">JA: Goethes S&auml;mtliche Werke. Jubil&auml;ums-Ausgabe in 40 B&auml;nden und 1 Reg.-Bd. Hrsg. v. Eduard von der Hellen. Stuttgart und Berlin 1902-1912 (Jubil&auml;ums-Ausgabe).</P>
+<P id="jg80650" rend="Absatzhaengend">HA: Goethes Werke. Hamburger Ausgabe in 14 B&auml;nden. Hrsg. v. Erich Trunz. Hamburg 1948-1964 (Hamburger Ausgabe).</P>
+<P id="jg80651" rend="Absatzhaengend">GA: Johann Wolfgang von Goethe. Gedenkausgabe der Werke. Briefe und Gespr&auml;che. 28. August 1949. 24 Bde. Hrsg. v. Ernst Beutler. Z&uuml;rich 1948-1954 und 3 Erg.-Bde. Z&uuml;rich und Stuttgart 1960-1971 (Gedenkausgabe, Artemisausgabe). - Bd. 4: Der junge Goethe. Hrsg. von Ernst Beutler. 1953.</P>
+<P id="jg80652" rend="Absatzhaengend">Akademie-Ausgabe: Werke Goethes. Hrsg. vom Institut f&uuml;r Deutsche Sprache und Literatur der Akademie der Wissenschaften zu Berlin. Berlin 1952ff. - Als historisch-kritische Ausgabe in Einzelb&auml;nden konzipiert, ohne Numerierung. Die Werke des jungen Goethe sind erschienen, aber nur die Texte, ohne Kommentarb&auml;nde. - Faksimile des Urfaust in: Faust. 1. Urfaust. Faust. Ein Fragment. Hrsg. von ErnstGrumach.</P>
+<P id="jg80653" rend="Absatzhaengend">BA: Goethe. Berliner Ausgabe. 22 Bde. und 1 Supplementband. Hrsg. vom Aufbau Verlag. Lektorat Deutsches Erbe unter der Leitung von Siegfried Seidel. Berlin und Weimar 1956-1978 (Berliner Ausgabe). </P>
+<P id="jg80654" rend="Absatzhaengend">MA: Johann Wolfgang Goethe. S&auml;mtliche Werke nach Epochen seines Schaffens. M&uuml;nchner Ausgabe. 21 Bde. in 26. Hrsg. v. Karl Richter. Herbert G. G&ouml;pfert. Norbert Miller und Gerhard Sauder. M&uuml;nchen 1985 ff. (M&uuml;nchner Ausgabe). - Werke des jungen Goethe in Bd. 1/1 und 1/2. Hrsg. von Gerhard Sauder.</P>
+<P id="jg80655" rend="Absatzhaengend">FA: Johann Wolfgang Goethe. S&auml;mtliche Werke. Briefe. Tageb&uuml;cher und Gespr&auml;che. 40 Bde. in 45. Frankfurt a. M. 1985 ff. - I. Abt.: S&auml;mtliche Werke; II. Abt.: Briefe. Tageb&uuml;cher und Gespr&auml;che (Frankfurter Ausgabe). - Texte des jungen Goethe in Bd. I/1 (Gedichte, hrsg. von Karl Eibl), I/4 (Dramen, hrsg. von Dieter Borchmeyer), I/7 (Faust, hrsg. von Albrecht Sch&ouml;ne), I/8 (Prosa, hrsg. von Waltraud Wieth&ouml;lter), II/1 (Briefe und Gespr&auml;che, hrsg. von Wilhelm Gro&szlig;e).</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80656"><HEAD>Der Junge Goethe</HEAD>
+<P id="jg80657" rend="Absatzhaengend"></P>
+<P id="jg80658" rend="Absatzhaengend">Der junge Goethe. 3 Bde. Hrsg. v. Salomon Hirzel. Leipzig 1875.</P>
+<P id="jg80659" rend="Absatzhaengend">Morris: Der junge Goethe. Neu bearb. 2. Ausgabe. 6 Bde. Hrsg. v. Max Morris. Leipzig 1909- 1912.</P>
+<P id="jg80660" rend="Absatzhaengend">FL: Der junge Goethe. Neu bearb. 3. Ausgabe. 5 Bde. und 1 Reg.-Bd. Hrsg. v. Hanna Fischer-Lamberg. Berlin bzw. Bd. 5 und Reg.-Bd. Berlin und New York 1963 - 1974.</P>
+<P id="jg80661" rend="Absatzhaengend">Wolff, Eugen (Hrsg.): Der junge Goethe. Oldenburg und Leipzig 1907. [Nur die Gedichte!].</P>
+<P id="jg80662" rend="Absatzhaengend">Der Rokoko-Goethe. Hrsg. v. Heinz Kindermann. Leipzig 1932 (Deutsche Literatur in Entwicklungsreihen. Reihe Irrationalismus. 2).</P>
+<P id="jg80663" rend="Absatzhaengend">Frankfurter gelehrte Anzeigen. Auswahl. Hrsg. von Hans-Dietrich Dahnke und Peter M&uuml;ller. Leipzig 1971.<LB></P>
+<P id="jg80664" rend="Absatzhaengend">Annette, Leipzig 1767. [Faksimile:] Von Ernst Wolfgang Behrisch geschriebene Liedersammlung des Leipziger Studenten Goethe. Leipzig 1923. 2. Aufl. 1965.</P>
+<P id="jg80665" rend="Absatzhaengend">Volkslieder von Goethe im Elsa&szlig; gesammelt mit Melodien und Varianten aus Lothringen und dem Faksimiledruck der Stra&szlig;burger Goethe-Handschrift. Von Louis Pinck. Metz 1932.</P>
+<P id="jg80666" rend="Absatzhaengend">Volkslieder gesammelt von Johann Wolfgang Goethe. Hrsg. von Hermann Strohbach. [Faksimile der Weimarer Handschrift] Weimar 1982. (Schriften der Goethe-Gesellschaft</P>
+<P id="jg80667" rend="Absatzhaengend">Aus Goethes Archiv. Die erste Weimarer Gedichtsammlung in Faksimile-Wiedergabe. Hrsg. von Bernhard Suphan und Julius Wahle. Weimar 1908. (Schriften der Goethe-Gesellschaft 22.)</P>
+<P id="jg80668" rend="Absatzhaengend">Goethes Rede zum Sh&auml;kespears Tag. Wiedergabe der Handschrift. Mit einem Geleitwort von Ernst Beutler. Weimar 1938 (Schriften der Goethe-Gesellschaft 50.)</P>
+<P id="jg80669" rend="Absatzhaengend">(Siehe auch: Akademie-Ausgabe, Faust)</P>
+<P id="jg80670" rend="Absatzhaengend">Sch&ouml;ll, Adolf (Hrsg.): Briefe und Aufs&auml;tze von Goethe aus den Jahren 1766-1786. Weimar 21857.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80671"><HEAD>Briefe, Tageb&uuml;cher</HEAD>
+<P id="jg80672" rend="Absatzhaengend"></P>
+<P id="jg80673" rend="Absatzhaengend">Goethes Briefe. Ausgew&auml;hlt und in chronologischer Folge mit Anmerkungen. 6 Bde. Hrsg. v. Eduard von der Hellen. Stuttgart 1901-1913.</P>
+<P id="jg80674" rend="Absatzhaengend">HA. Briefe: Goethes Briefe. Hamburger Ausgabe in 4 B&auml;nden. Hrsg. v. Karl Robert Mandelkow und Bodo Morawe. Hamburg 1962-1967.</P>
+<P id="jg80675" rend="Absatzhaengend">HA. Briefe an Goethe: Briefe an Goethe. Hamburger Ausgabe in 2 B&auml;nden. Hrsg. v. Karl Robert Mandelkow. Hamburg 1965 und 1969 (2. durchges. und verb. Aufl. M&uuml;nchen 1982; 31988).</P>
+<P id="jg80676" rend="Absatzhaengend">Briefe an Goethe. Gesamtausgabe in Regestform. Hrsg. v. Karl-Heinz Hahn. Weimar 1980ff.<LB></P>
+<P id="jg80677" rend="Absatzhaengend">Goethes Schweizer Reise von 1775. Zeichnungen und Niederschriften. Hrsg. v. Karl Koetschau und Max Morris. Weimar 1907.</P>
+<P id="jg80678" rend="Absatzhaengend">Goethe. Tagebuch der ersten Schweizer Reise 1775. Mit den Zeichnungen des Autors und einem vollst&auml;ndigen Faksimile der Handschrift. Hrsg. v. Hans-Georg Dewitz. Frankfurt/Main 1980.</P>
+<P id="jg80679" rend="Absatzhaengend">Goethes Schweizerreisen. Tageb&uuml;cher. Briefe. Gedichte. Handzeichnungen. Hrsg. v. Hans Wahl. Gotha 1921.</P>
+<P id="jg80680" rend="Absatzhaengend">Von Z&uuml;rich nach Weimar. Goethes Tagebuch 1775. Hrsg. von Karl-Heinz Hahn. Weimar 21988.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80681"><HEAD>Sammlungen der Gespr&auml;che und Lebenszeugnisse </HEAD>
+<P id="jg80682" rend="Absatzhaengend"></P>
+<P id="jg80683" rend="Absatzhaengend">Amelung, Heinz (Hrsg.): Goethe als Pers&ouml;nlichkeit. Berichte und Briefe von Zeitgenossen. Bd. 1. M&uuml;nchen 1914.</P>
+<P id="jg80684" rend="Absatzhaengend">Biedermann, Flodoard Freiherr von / Herwig, Wolfgang (Hrsg.): Goethes Gespr&auml;che. Eine Sammlung zeitgen&ouml;ssischer Berichte aus seinem Umgang. 5 Bde. in 6. Z&uuml;rich und Stuttgart 1965 - 1987.</P>
+<P id="jg80685" rend="Absatzhaengend">Bode, Wilhelm (Hrsg.): Goethe in vertraulichen Briefen seiner Zeitgenossen. Auch eine Lebensgeschichte. 3 Bde. Berlin 1921.</P>
+<P id="jg80686" rend="Absatzhaengend">Braun, Julius W. (Hrsg.): Goethe im Urtheile seiner Zeitgenossen. Zeitungskritiken, Berichte, Notizen, Goethe und sein Werk betreffend, aus den Jahren 1773-1812. 3 Bde. Berlin 1883-1885. Reprint Hildesheim 1969.</P>
+<P id="jg80687" rend="Absatzhaengend">Goethe in vertraulichen Briefen seiner Zeitgenossen. Zusammengestellt von Wilhelm Bode. Neu herausgegeben von Regine Otto und Paul Gerhard Wenzlaff. 3 Bde. M&uuml;nchen 1982.</P>
+<P id="jg80688" rend="Absatzhaengend">Goethe, Johann Caspar: Liber domesticus. Rationum Sumtuarium sive Rerum Oeconomicarum fere omnium Liber. Hrsg. von Helmuth Holtzhauer unter Mitarbeit von Irmgard M&ouml;ller. Bern und Frankfurt 1973. [Ausgabenbuch von Goethes Vater.] </P>
+<P id="jg80689" rend="Absatzhaengend">Gr&auml;f, Hans Gerhard (Hrsg.): Goethe &uuml;ber seine Dichtungen. 3 Teile in 9 B&auml;nden, Frankfurt a. M. 1901-14. Neudruck Darmstadt 1967-68.</P>
+<P id="jg80690" rend="Absatzhaengend">Grumach, Ernst und Renate (Hrsg.): Begegnungen und Gespr&auml;che. Bd. 1ff. Berlin 1965ff.</P>
+<P id="jg80691" rend="Absatzhaengend">Mandelkow, Karl R. (Hrsg.): Goethe im Urteil seiner Kritiker. Dokumente zur Wirkungsgeschichte Goethes in Deutschland. 4 Bde. M&uuml;nchen 1975-1984.</P>
+<P id="jg80692" rend="Absatzhaengend">Neubert, Franz: Goethe und sein Kreis. Leipzig 1922.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80693"><HEAD>Goethe-Handb&uuml;cher, -Chroniken, -Bibliographien, -Bildb&auml;nde</HEAD>
+<P id="jg80694" rend="Absatzhaengend"></P>
+<P id="jg80695" rend="Absatzhaengend">Goethe Bibliographie. 2 Bde. Begr. v. Hans Pyritz. Fortgef. v. Heinz Nicolai und Gerhard Burkhardt. Heidelberg 1965-1968. </P>
+<P id="jg80696" rend="Absatzhaengend">Goethe-Bibliographie. Literatur zum dichterischen Werk. Zusammengestellt von Helmut G. Hermann. Stuttgart 1991 (Reclam UB 8692).</P>
+<P id="jg80697" rend="Absatzhaengend">Laufende Bibliographie in: Goethe-Jahrbuch.<LB></P>
+<P id="jg80698" rend="Absatzhaengend">Goethe-Handbuch. 3 Bde. Hrsg. v. Julius Zeitler. Stuttgart 1916-1918.</P>
+<P id="jg80699" rend="Absatzhaengend">Goethe Handbuch. Hrsg. v. Alfred Zastrau. Bd. 1. Stuttgart 1961. Bd. 4. ebd. 1956.</P>
+<P id="jg80700" rend="Absatzhaengend">Goethe-Handbuch. Hrsg. von Bernd Witte u. a. 3 Bde. Stuttgart und Weimar 1996ff.<LB></P>
+<P id="jg80701" rend="Absatzhaengend">G&ouml;tting, Franz: Chronik von Goethes Leben. Wiesbaden 1949. Neuausg. Frankfurt a. M. 1963.</P>
+<P id="jg80702" rend="Absatzhaengend">Nicolai, Heinz: Zeittafel zu Goethes Leben und Werk. M&uuml;nchen 1977.</P>
+<P id="jg80703" rend="Absatzhaengend">Zischka, Gert A.: Goethe. Tageskonkordanz der Begebenheiten. Tageb&uuml;cher. Briefe und Gespr&auml;che. Bd. 1 ff. Wien 1980 ff.</P>
+<P id="jg80704" rend="Absatzhaengend">Steiger, Robert: Goethes Leben von Tag zu Tag. Eine dokumentarische Chronik. Z&uuml;rich und M&uuml;nchen 1982ff.</P>
+<P id="jg80705" rend="Absatzhaengend">Bachmaier, Helmut (u. a.): Goethe und seine Zeit. Eine biographisch-synoptische Darstellung. Salzburg 1982.<LB></P>
+<P id="jg80706" rend="Absatzhaengend">Goethe-Wortschatz. Hrsg. v. Paul Fischer. Leipzig 1929.</P>
+<P id="jg80707" rend="Absatzhaengend">Goethe W&ouml;rterbuch. Hrsg. v. der Akademie der Wissenschaften der DDR, der Akademie der Wissenschaften in G&ouml;ttingen und der Heidelberger Akademie der Wissenschaften. Stuttgart/Berlin/K&ouml;ln und Mainz 1978 ff. (GWb).<LB></P>
+<P id="jg83455" rend="Absatzhaengend">Femmel: Corpus der Goethezeichnungen. Hrsg. von Gerhard Femmel. 7  Bde. Leipzig 1958-1975.</P>
+<P id="jg80708" rend="Absatzhaengend">Goethes Leben in Bilddokumenten. Hrsg. von J&ouml;rn G&ouml;res. M&uuml;nchen 1981.</P>
+<P id="jg80709" rend="Absatzhaengend">Goethe. Sein Leben in Bildern und Texten. Hrsg. von Christoph Michel. Frankfurt a. M. 1982 [u. &ouml;.].</P>
+<P id="jg80710" rend="Absatzhaengend">Paul Ortwin Rave. Das geistige Deutschland im Bildnis. Das Jahrhundert Goethes. Berlin 1949.</P>
+<P id="jg80711" rend="Absatzhaengend">Goethe-Museum. Werk, Leben und Zeit Goethes in Dokumenten. Hrsg. von Helmut Holtzhauer. Berlin und Weimar o. J. (1969)</P>
+<P id="jg80712" rend="Absatzhaengend">Goethe und seine Welt. Hrsg. von Hans Wahl und Anton Kippenberg. Leipzig 1932.</P>
+<P id="jg80713" rend="Absatzhaengend">Ludwig M&uuml;nz: Goethes Zeichnungen und Radierungen. Hrsg. im Auftrage der &Ouml;sterreichischen Bundesregierung. Wien 1949.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80714"><HEAD>Personen</HEAD>
+<P id="jg80715"></P>
+<P id="jg80716" rend="Absatzhaengend">Beutler, Ernst: Essays um Goethe. Leipzig 1941 u. &ouml;. <LB></P>
+<P id="jg80717" rend="Absatzhaengend">Knetsch, Karl: Goethes <HI>Ahnen</HI>. Leipzig 1908.</P>
+<P id="jg80718" rend="Absatzhaengend">Hos&auml;us, Wilhelm: Ernst Wolfgang <HI>Behrisch</HI>. Ein Bild aus Goethes Freundeskreis. In: Mitteilungen des Vereins f&uuml;r Anhaltische Geschichte und Altertumskunde 3 (1883) S. 492-547. Auch als Sonderdruck Dessau 1883.</P>
+<P id="jg80719" rend="Absatzhaengend">Kohnt, Adolf: Ernst Wolfgang <HI>Behrisch</HI> als Dichter. In: Zeitschrift f&uuml;r B&uuml;cherfreunde. N. F. 2 (1910) S. 238-247.</P>
+<P id="jg80720" rend="Absatzhaengend">Einundzwanzig Briefe Goethes an <HI>Behrisch</HI>. Oktober 1766-Mai 1768. In: Goethe Jahrbuch 7 (1886) S. 76-151. Dazu Otto Hoffmann. Nachtr&auml;ge und Berichtigungen. In: Goethe Jahrbuch 8 (1887) S. 235-237.</P>
+<P id="jg80721" rend="Absatzhaengend">Heinrich Christian <HI>Boie</HI>. Briefe aus Berlin 1768/70. Hrsg. v. Gerhard Hay. Hildesheim 1970.</P>
+<P id="jg80722" rend="Absatzhaengend">Briefe von und an Gottfried <HI>B&uuml;rger</HI>. Ein Beitrag zur Literaturgeschichte seiner Zeit. Aus dem Nachlasse B&uuml;rgers und anderen, meist handschriftlichen Quellen. Hrsg. v. Adolf Strodtmann. 4 Bde. Berlin 1874.</P>
+<P id="jg80723" rend="Absatzhaengend">R&ouml;sch, Siegfried: Die Familie <HI>Buff</HI>. M&uuml;nchen 1953.</P>
+<P id="jg80724" rend="Absatzhaengend">Siebke, Rolf: <HI>Claudius</HI> und Goethe. Eine Skizze ihrer Beziehungen. In: Jahresschriften der Claudius-Gesellschaft 4 (1995) S. 4-18.</P>
+<P id="jg80725" rend="Absatzhaengend">Baumann, Melanie u. a. (Hg.): <HI>Cornelia</HI> Goethe. Briefe und Correspondance Secr&egrave;te 1767-1769. Freiburg 1990.</P>
+<P id="jg80726" rend="Absatzhaengend">Damm, Sigrid: <HI>Cornelia</HI> Goethe. Frankfurt/Main 1988.</P>
+<P id="jg80727" rend="Absatzhaengend">Prokop, Ulrike: <HI>Cornelia</HI> Goethe. Die Melancholie der Cornelia Goethe. In: Schwestern ber&uuml;hmter M&auml;nner. Hrsg. v. Luise F. Pusch. Frankfurt/Main 1985. S. 49-122.</P>
+<P id="jg80728" rend="Absatzhaengend">Prokop, Ulrike: Die Illusion vom Gro&szlig;en Paar. Das Tagebuch der Cornelia Goethe. Frankfurt/Main 1991.</P>
+<P id="jg80729" rend="Absatzhaengend">Johann Caspar Goethe/<HI>Cornelia</HI> Goethe/Catharina Elisabeth Goethe. Briefe aus dem Elternhaus. Erster Erg&auml;nzungsband der Goethe Gedenkausgabe. Hrsg. v. Wolfgang Pfeiffer-Belli. Z&uuml;rich und Stuttgart 1960.</P>
+<P id="jg80730" rend="Absatzhaengend">Mentzel, Elisabeth: Wolfgang und <HI>Cornelia</HI> Goethes Lehrer. Ein Beitrag zu Goethes Entwicklungsgeschichte. Leipzig 1909.</P>
+<P id="jg80731" rend="Absatzhaengend">F&uuml;nfzehn Briefe Goethes an seine Schwester. Hrsg. und kommentiert v. Ludwig Geiger. In: Goethe Jahrbuch 7 (1886) S. 3-75 und S. 118-142; Nachtrag: Goethe Jahrbuch 8 (1887) S. 235-237.</P>
+<P id="jg80732" rend="Absatzhaengend">Goethe an <HI>Cornelia</HI>. Die dreizehn Briefe an seine Schwester. Hrsg. v. Andr&eacute; Banuls. Hamburg 1986.</P>
+<P id="jg80733" rend="Absatzhaengend">Bach, Adolf: Goethes Dechant <HI>Dumeiz</HI>. Ein rheinischer Pr&auml;lat der Aufkl&auml;rungs-Zeit. Heidelberg 1964.</P>
+<P id="jg80734" rend="Absatzhaengend">Ley, Stephan: Goethe und <HI>Friederike</HI>. Versuch einer kritischen Schlu&szlig;betrachtung. Bonn 1947.</P>
+<P id="jg80735" rend="Absatzhaengend">Spriegel, Liese: Der Leipziger Goethe und <HI>Gellert</HI>. Diss. T&uuml;bingen 1931.</P>
+<P id="jg80736" rend="Absatzhaengend">Hering, Robert: Heinrich Wilhelm von <HI>Gerstenberg</HI> und sein Freundeskreis. In: Jahrbuch des Freien Deutschen Hochstifts 1909. S. 372-407.</P>
+<P id="jg80737" rend="Absatzhaengend">Price, Lawrence M.: <HI>Goldsmith</HI>, Sesenheim and Goethe. In: Germanic Review 4 (1929) S. 237-247.</P>
+<P id="jg80738" rend="Absatzhaengend">Vi&euml;tor, Karl: Goethe, <HI>Goldsmith</HI> und Merck. In: Jahrbuch des Freien Deutschen Hochstifts 1921. S. 78-94.</P>
+<P id="jg80739" rend="Absatzhaengend">Stockum, Theodorus Cornelis van: Goethe und <HI>Hamann</HI>. Prolegomena zu einer Monographie. In: Neophilologus 42 (1958) S. 300-308.</P>
+<P id="jg80740" rend="Absatzhaengend">Gillies, Alexander: <HI>Herder</HI> and Goethe. In: German Studies. Presented to Leonard Ashley Willoughby. Oxford 1952. S. 82-97.</P>
+<P id="jg80741" rend="Absatzhaengend">Sauder, Gerhard (Hg.): Johann Gottfried <HI>Herder</HI> 1744-1803. Hamburg 1987.</P>
+<P id="jg80742" rend="Absatzhaengend">Kohlschmidt, Werner: Die Begegnung Goethes mit <HI>Herder</HI> in Stra&szlig;burg. In: Revue d'Allemagne. 3 (1971) S. 155-164.</P>
+<P id="jg80743" rend="Absatzhaengend">Sauder, Gerhard (Hg.): Johann Gottfried <HI>Herder</HI> 1744-1803. Hamburg 1987.</P>
+<P id="jg80744" rend="Absatzhaengend">Johann Gottfried Herder. Briefe. Gesamtausgabe 1763-1803. Unter Leitung von Karl-Heinz Hahn. Hrsg. v. den nationalen Forschungs- und Gedenkst&auml;tten der klassischen deutschen Literatur in Weimar. 1. Bd.: April 1763-April 1771 2. Bd.: Mai 1771-April 1773. Bearbeitet v. Wilhelm Dobbek und G&uuml;nter Arnold. Weimar 1977.</P>
+<P id="jg80745" rend="Absatzhaengend">Schadewaldt, Wolfgang: Goethe und <HI>Homer</HI>. In: Trivium 7 (1949) S. 200-232.</P>
+<P id="jg80746" rend="Absatzhaengend">Pallmann, Heinrich: Johann Adam <HI>Horn</HI>. Goethes Jugendfreund. Leipzig 1908.</P>
+<P id="jg80747" rend="Absatzhaengend">Strauss, Ludwig: Zur Geschichte des jungen Goethe und des "<HI>Iris</HI>"-Kreises. In: Zeitschrift f&uuml;r deutsche Philologie 57 (1932) S. 45-55.</P>
+<P id="jg80748" rend="Absatzhaengend">Christ, Kurt: "Antinomien der &Uuml;berzeugung " oder "Wunderlicher Zwiespalt". Ein Beitrag zur Freundschaftsbeziehung zwischen Goethe und <HI>Jacobi</HI> und ihrer R&uuml;ckwirkung auf das Werk Goethes. In: Euphorion 88 (1994) S. 390-405.</P>
+<P id="jg80749" rend="Absatzhaengend">G&ouml;res, J&ouml;rn: Ver&auml;nderungen 1774-1794. Goethe, <HI>Jacobi</HI> und der Kreis von M&uuml;nster. In: Peter Berglar (Hg.): Staat und Gesellschaft im Zeitalter Goethes. Festschrift f&uuml;r Hans T&uuml;mmler. K&ouml;ln und Wien 1977. S. 273-284.</P>
+<P id="jg80750" rend="Absatzhaengend">Nicolai, Heinz: Goethe und <HI>Jacobi</HI>. Stuttgart 1965.</P>
+<P id="jg80751" rend="Absatzhaengend">Briefwechsel zwischen Goethe und Friedrich Heinrich <HI>Jacobi</HI>. Hrsg. v. Max Jacobi. Leipzig 1846.</P>
+<P id="jg80752" rend="Absatzhaengend">Friedrich Heinrich <HI>Jacobi</HI>. Briefwechsel. Gesamtausgabe hg. v. Michael Br&uuml;ggen und Siegfried Sudhof. Stuttgart und Bad Cannstadt 1981 ff.</P>
+<P id="jg80753" rend="Absatzhaengend">Kaulitz-Niedeck, Jericke: Goethe und <HI>Jerusalem</HI>. Gie&szlig;en 1908.</P>
+<P id="jg80754" rend="Absatzhaengend">Ulrich, Oskar: Charlotte <HI>Kestner</HI>. Bielefeld 1921.</P>
+<P id="jg80755" rend="Absatzhaengend">Goethe, <HI>Kestner</HI> und <HI>Lotte</HI>. Hrsg. v. Eduard Behrend. M&uuml;nchen 1914.</P>
+<P id="jg80756" rend="Absatzhaengend">Die sch&ouml;ne Seele. Bekenntnisse. Schriften und Briefe der Susanna Katharina von <HI>Klettenberg</HI>. Hrsg. v. Heinrich Funck. Leipzig 1912.</P>
+<P id="jg80757" rend="Absatzhaengend">Friedrich Gottlieb <HI>Klopstock</HI>. Werke und Briefe. Historisch-kritische Ausgabe. Begr&uuml;ndet v. Adolf Beck. Hrsg. v. Horst Gronemeyer, Elisabeth H&ouml;pker-Herberg. Klaus Hurlebusch und Rose-Marie Hurlebusch. Berlin und New York 1974ff.</P>
+<P id="jg80758" rend="Absatzhaengend">Briefwechsel zwischen Goethe und <HI>Knebel</HI> 1774-1832. 2 Bde. Hrsg. v. Gottschalk Eduard Guhrauer. Leipzig 1851.</P>
+<P id="jg80759" rend="Absatzhaengend">Zimmermann, Paul: Ernst Theodor <HI>Langer</HI>. Bibliothekar in Wolfenb&uuml;ttel. Wolfenb&uuml;ttel 1885.</P>
+<P id="jg80760" rend="Absatzhaengend">Goethes Briefe an E. Th. <HI>Langer</HI>. Hrsg. v. Paul Zimmermann. Wolfenb&uuml;ttel 1922.</P>
+<P id="jg80761" rend="Absatzhaengend">Bach, Adolf: Goethes Rheinreise mit <HI>Lavater</HI> und <HI>Basedow</HI> im Sommer 1774. Z&uuml;rich 1923; auch in: Adolf Bach. Aus Goethes rheinischem Lebensraum. Menschen und Begebenheiten. Gesammelte Untersuchungen und Berichte. Neu&szlig; 1968. S. 135-230.</P>
+<P id="jg80762" rend="Absatzhaengend">Fliedl, Ilsebill Barta: <HI>Lavater</HI>. Goethe und der Versuch einer Physiognomik als Wissenschaft. In: Goethe und die Kunst. Hrsg. v. Sabine Schulze. Frankfurt/Main 1994. S. 192-203.</P>
+<P id="jg80763" rend="Absatzhaengend">G&ouml;tting, Franz: Die Christusfrage in der Freundschaft zwischen Goethe und <HI>Lavater</HI>. In: Goethe 19 (1957) S. 28-49.</P>
+<P id="jg80764" rend="Absatzhaengend">Pestalozzi, Karl: <HI>Lavaters</HI> Hoffnung auf Goethe. In: K. P. (Hrsg.): Das Antlitz Gottes im Antlitz des Menschen. Zug&auml;nge zu Johann Caspar Lavater. G&ouml;ttingen 1994. S. 260-279.</P>
+<P id="jg80765" rend="Absatzhaengend">Goethe und <HI>Lavater</HI>. Briefe und Tageb&uuml;cher. Hrsg. v. Heinrich Funck. Weimar 1901.</P>
+<P id="jg80766" rend="Absatzhaengend">Froitzheim, Johannes: <HI>Lenz</HI> und Goethe. Mit ungedruckten Briefen von Lenz, Herder, Lavater, R&ouml;derer, Luise K&ouml;nig. Stuttgart/Leipzig/Berlin/Wien 1891.</P>
+<P id="jg80767" rend="Absatzhaengend">Briefe von und an J. M. R. <HI>Lenz</HI>. Ges. und hg. v. Karl Freye und Wolfgang Stammler. 3 Bde. Leipzig 1918.</P>
+<P id="jg80768" rend="Absatzhaengend">Albrecht, Wolfgang: "Wenn Ihr <HI>Lessingen</HI> seht, so sagt ihm, da&szlig; ich auf ihn gerechnet h&auml;tte." Zur Auseinandersetzung des jungen Goethe mit dem Dramatiker Lessing. In: Impulse 6 (1983) S. 148-193.</P>
+<P id="jg80769" rend="Absatzhaengend">Schulz, G&uuml;nter: Lessing und Goethe - Goethe und <HI>Lessing</HI>. In: Goethe Jahrbuch 96 (1979) S. 206-220.</P>
+<P id="jg80770" rend="Absatzhaengend">Wilkie, John R.: Goethe's English Friend <HI>Lupton</HI>. In: German Life and Letters 9 (1955/56) S. 29-39.</P>
+<P id="jg80771" rend="Absatzhaengend">Br&auml;uning-Oktavio, Hermann: Goethe und Johann Heinrich <HI>Merck</HI>. Die Geschichte einer Freundschaft. In: Goethe 12 (1950) S. 177-217, und Goethe 14/15 (1952/53) S. 209-244.</P>
+<P id="jg80772" rend="Absatzhaengend">Br&auml;uning-Oktavio, Hermann: Johann Heinrich <HI>Merck</HI> und <HI>Herder</HI>. Die Geschichte einer Freundschaft. Darmstadt 1969.</P>
+<P id="jg80773" rend="Absatzhaengend">Br&auml;uning-Oktavio, Hermann: Wetterleuchten der literarischen Revolution. Johann Heinrich <HI>Merck</HI> und seine Mitarbeiter an den Frankfurter gelehrten Anzeigen 1772 in Bild und Wort. Darmstadt 1972.</P>
+<P id="jg80774" rend="Absatzhaengend">Johann Heinrich <HI>Merck</HI>. Schriften und Briefwechsel. Hrsg. v. Kurt Wolff. Leipzig 1909.</P>
+<P id="jg80775" rend="Absatzhaengend">Johann Heinrich <HI>Merck</HI>. Briefe. Hrsg. v. Herbert Kraft. Frankfurt/Main 1968.</P>
+<P id="jg80776" rend="Absatzhaengend">D&uuml;rr, Alphons: Adam Friedrich <HI>Oeser</HI>. Ein Beitrag zur Kunstgeschichte des 18. Jahrhunderts. Leipzig 1879.</P>
+<P id="jg80777" rend="Absatzhaengend">Goethes Briefe an Adam Friedrich Oeser und seine Tochter Friederike. Leipzig 1913.</P>
+<P id="jg80778" rend="Absatzhaengend">Plato, Karl Theo: Sophie <HI>La Roche</HI> in Koblenz-Ehrenbreitstein. Koblenz 1978.</P>
+<P id="jg80779" rend="Absatzhaengend">Milch, Werner: Sophie <HI>La Roche</HI>. Frankfurt/Main 1935.</P>
+<P id="jg80780" rend="Absatzhaengend">St&ouml;ber, August: Johann Gottfried <HI>R&ouml;derer</HI> und seine Freunde. Kolmar 21874.</P>
+<P id="jg80781" rend="Absatzhaengend">Volz, G&uuml;nter: Sophie Henriette von <HI>Roussillon</HI> (1727-1773). Hofdame in Bergzabern, "Urania" der Darmst&auml;dter Empfindsamen, "Fr&auml;ulein von B." in Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Mitteilungen des Historischen Vereins der Pfalz 91 (1993) S. 249-260.</P>
+<P id="jg80782" rend="Absatzhaengend">Metz, Adolf: Die f&uuml;nf Goethe-Briefe an <HI>Salzmann</HI> aus der Stra&szlig;burger Zeit. In: Euphorion 2 (1895) S. 346-351.</P>
+<P id="jg80783" rend="Absatzhaengend">Jacobi Heinrich: Goethes <HI>Lila</HI> [Luise von Ziegler]. Bad Homburg 1957.</P>
+<P id="jg80784" rend="Absatzhaengend">Beutler, Ernst: <HI>Lili</HI>. Wiederholte Spiegelungen. In: E. Beutler. Essays um Goethe. Bd. 2. Wiesbaden 1947. S. 1-160.</P>
+<P id="jg80785" rend="Absatzhaengend">Die Briefe der Elise von T&uuml;rckheim geb. <HI>Sch&ouml;nemann</HI>. Goethes <HI>Lili</HI>. Hrsg. v. John Ries. Frankfurt/Main 1924.</P>
+<P id="jg80786" rend="Absatzhaengend"><HI>Lili</HI> <HI>Schoenemann</HI> Baronne de Turckheim. Lettres inedites, journal intime et extraits des papiers de famille. Hrsg. v. Jules Keller. Bern/Frankfurt/New York 1987.</P>
+<P id="jg80787" rend="Absatzhaengend">Prang, Helmut: Goethes <HI>Mutter</HI>. M&uuml;nchen 1949.</P>
+<P id="jg80788" rend="Absatzhaengend">Vogel, Julius: K&auml;thchen <HI>Sch&ouml;nkopf</HI>. Leipzig 1920.</P>
+<P id="jg80789" rend="Absatzhaengend">Goethes Briefe an Christian Gottlob <HI>Sch&ouml;nkopf</HI> und seine Tochter K&auml;thchen. Leipzig 1913.</P>
+<P id="jg80790" rend="Absatzhaengend">Schumann, Detlev W.: Goethe and the <HI>Stolbergs</HI>. A Friendship of the Storm and Stress. In: Journal of English and Germanic Philology 48 (1949) S. 483-504.</P>
+<P id="jg80791" rend="Absatzhaengend">Janssen, Johannes: Friedrich Leopold Graf zu <HI>Stolberg</HI> bis zu seiner R&uuml;ckkehr zur Katholischen Kirche 1750- 1800. Bd. 1. Bern 1970 (Nachdruck der Ausgabe: Freiburg 1877).</P>
+<P id="jg80792" rend="Absatzhaengend">Sudhof, Siegfried: Goethe und <HI>Stolberg</HI>. In: Festschrift f&uuml;r Detlev W. Schumann. Hrsg. v. Albert Schmitt. M&uuml;nchen 1970. S. 97-109.</P>
+<P id="jg80793" rend="Absatzhaengend">Friedrich Leopold Graf zu <HI>Stolberg</HI>. Briefe. Hrsg. v. J&uuml;rgen Behrens. Neum&uuml;nster 1966.</P>
+<P id="jg80794" rend="Absatzhaengend">Rainalter, Erwin: Goethe und Auguste zu <HI>Stolberg</HI>. In: Xenien 6,1 (1913) S. 18-30.</P>
+<P id="jg80795" rend="Absatzhaengend">Schumann, Detlev W. Briefe aus Auguste <HI>Stolbergs</HI> Jugend. In: Goethe 19 (1957) S. 240-297.</P>
+<P id="jg80796" rend="Absatzhaengend">Johann Wolfgang Goethe. Briefe an Auguste Gr&auml;fin zu <HI>Stolberg</HI>. Hrsg. v. J&uuml;rgen Behrens. Bad Homburg/Berlin/Z&uuml;rich 1968; zweite, neu durchgesehene Auflage. Frankfurt a. M. 1993.</P>
+<P id="jg80797" rend="Absatzhaengend">Sengle, Friedrich: <HI>Wieland</HI> und Goethe. In: F.S.: Arbeiten zur deutschen Literatur 1750-1850. Stuttgart 1965. S. 24-45.</P>
+<P id="jg80798" rend="Absatzhaengend">Gaehtgens, Thomas (Hg.): Johann Joachim <HI>Winckelmann</HI> 1717-1768. Hamburg 1986.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80799"><HEAD>Personengruppen, Orte</HEAD>
+<P id="jg80800"></P>
+<P id="jg80801" rend="Absatzhaengend">Grappin, Pierre: Goethe en <HI>Alsace</HI>: Nature et Sciences de la nature. In: Revue d'Allemagne 3 (1971) S. 187-197.</P>
+<P id="jg80802" rend="Absatzhaengend">Geiger, Ludwig: Goethe und die <HI>arkadische Gesellschaft</HI>. In: Goethe Jahrbuch 24 (1903) S. 248-252.<LB></P>
+<P id="jg80803" rend="Absatzhaengend"><HI>Darmstadt</HI> zur Goethezeit. Ausstellung der Darmst&auml;dter Goethe-Gesellschaft. Darmstadt 1963.</P>
+<P id="jg80804" rend="Absatzhaengend">Goethe in <HI>Darmstadt</HI>. Ausstellungskatalog. Darmstadt 1982.</P>
+<P id="jg80805" rend="Absatzhaengend">Gunzert, Walter: <HI>Darmstadt</HI> und Goethe. Darmstadt 1949.</P>
+<P id="jg80806" rend="Absatzhaengend">Sauder, Gerhard: Der empfindsame Kreis in <HI>Darmstadt</HI>. In: Darmstadt in der Zeit des Barock und Rokoko. Ausstellungskatalog. Bd. 1. Darmstadt 1980.S. 167-175.<LB></P>
+<P id="jg80807" rend="Absatzhaengend">Bothe, Friedrich: Geschichte der Stadt <HI>Frankfurt</HI> am Main. Frankfurt/Main 1913.</P>
+<P id="jg80808" rend="Absatzhaengend">Hering, Robert: Aus dem Frankfurt des jungen Goethe nach der Francofurtensiensammlung seines Vaters. In: JbFDH 1916/25. S. 188-230.</P>
+<P id="jg80809" rend="Absatzhaengend">Hopp, Doris: Goethe in <HI>Frankfurt</HI> am Main: 14. August 1771 bis 3. November 1775. In: Sturm und Drang. Ausstellung im Frankfurter Goethe-Museum [...]. Hrsg. von Christoph Perels. Frankfurt a. M. 1988. S. 137-152.</P>
+<P id="jg80810" rend="Absatzhaengend">Die Stadt Goethes. <HI>Frankfurt</HI> am Main im XVIII. Jahrhundert. Hrsg. v. der Stadt Frankfurt am Main durch Heinrich Voelcker. Frankfurt/Main 1932.</P>
+<P id="jg80811" rend="Absatzhaengend">Kl&ouml;tzer, Wolfgang: <HI>Frankfurt</HI> am Main zur Zeit des jungen Goethe. In: W. Kl&ouml;tzer. "Wahrlich eine sch&ouml;ne und lebendige Stadt." Kleine Schriften zur Frankfurter Kulturgeschichte. Frankfurt/Main 1985.<LB></P>
+<P id="jg80812" rend="Absatzhaengend">Biedermann, Woldemar von: Goethe und <HI>Leipzig</HI>. 2 Bde. Leipzig 1865.{}</P>
+<P id="jg80813" rend="Absatzhaengend">Jericke, Alfred:. es ist ein Klein Paris. Die Wirkung der Stadt <HI>Leipzig</HI> auf Pers&ouml;nlichkeit und Werk Goethes. Weimar und K&ouml;ln 1965.</P>
+<P id="jg80814" rend="Absatzhaengend">Sauder, Gerhard: Der junge Goethe und <HI>Leipzig</HI>. In: Zentren der Aufkl&auml;rung III. Leipzig. Aufkl&auml;rung und B&uuml;rgerlichkeit. Hrsg. v. Wolfgang Martens. Heidelberg 1990. S. 233-246.</P>
+<P id="jg80815" rend="Absatzhaengend">Schaper, Christine (Hg.): Goethe in <HI>Leipzig</HI>. Bruchst&uuml;cke einer Konfession. Dokumentiert in Briefen und Selbstzeugnissen. Frankfurt/Main 1991.</P>
+<P id="jg80816" rend="Absatzhaengend">Vogel, Julius: Goethes <HI>Leipziger</HI> Studentenjahre. Leipzig 41922.<LB></P>
+<P id="jg80817" rend="Absatzhaengend">Behringer, August: Goethe und der <HI>Mannheimer</HI> Antikensaal. In: Goethe Jahrbuch 28 (1907) S. 150-159.</P>
+<P id="jg80818" rend="Absatzhaengend">Der Antikensaal in der <HI>Mannheimer</HI> Zeichnungsakademie 1766-1803. Ausstellung des Arch&auml;ologischen Seminars der Universit&auml;t Mannheim. Begleitende Vortr&auml;ge. Hrsg. v. Wolfgang Schiering. Mannheim 1984.</P>
+<P id="jg80819" rend="Absatzhaengend">Schiering, Wolfgang: Der <HI>Mannheimer</HI> Antikensaal. In: Antikensammlungen im 18. Jahrhundert. Hrsg. v. Herbert Beck/Peter C. Bol/Wolfram Prinz/Hans von Steuben. Berlin 1981. S. 257-272.<LB></P>
+<P id="jg80820" rend="Absatzhaengend">Zirkler, Alwin: Goethes <HI>Saarbr&uuml;cker</HI> Reise im Juni 1770. In: Zeitschrift f&uuml;r die Geschichte der Saargegend 8 (1958) S. 156-170.<LB></P>
+<P id="jg80821" rend="Absatzhaengend">Binder, Wolfgang: Das Ungeheure und das Geordnete. Die <HI>Schweiz</HI> in Goethes Werk. Z&uuml;rich und M&uuml;nchen 1979.</P>
+<P id="jg80822" rend="Absatzhaengend">Bode, Wilhelm: Die <HI>Schweiz</HI>, wie Goethe sie sah. 133 Tafeln. Leipzig 1922.</P>
+<P id="jg80823" rend="Absatzhaengend">Bode, Wilhelm: Goethes <HI>Schweizer</HI> Reisen. Leipzig 1922.</P>
+<P id="jg80824" rend="Absatzhaengend">Fr&auml;nkel, Jonas: Goethes Erlebnis der <HI>Schweiz</HI>. St. Gallen 1949.</P>
+<P id="jg80825" rend="Absatzhaengend">Ruetz, Roethe / M&uuml;ller, Matthias. Mit Goethe durch die <HI>Schweiz</HI>. Stuttgart und Z&uuml;rich 1979.</P>
+<P id="jg80826" rend="Absatzhaengend">Schnyder-Seidel, Schmidt: Goethe in der <HI>Schweiz</HI>: anders zu lesen. Von der Wahrheit in der Dichtung letztem Teil. Bern und Stuttgart 1989.</P>
+<P id="jg80827" rend="Absatzhaengend">Strich, Fritz: Goethe und die <HI>Schweiz</HI>. Z&uuml;rich 1949.</P>
+<P id="jg80828" rend="Absatzhaengend">Ziehen, Eduard: Die deutsche <HI>Schweiz</HI>begeisterung in den Jahren 1750-1815. Frankfurt a. M. 1922.<LB></P>
+<P id="jg80829" rend="Absatzhaengend">Bracht, Edgar: Wakefield in <HI>Sesenheim</HI>: Zur Interpretation des 10. und 11. Buches von Goethes <TITLE type="Goethewerk">Aus meinem Leben. Dichtung und Wahrheit</TITLE>. In: Euphorion. Bd. 83. Heidelberg 1989. S. 261-280.</P>
+<P id="jg80830" rend="Absatzhaengend">Guggenb&uuml;hl, Willy: <HI>Sessenheim.</HI> Saverne 1961.</P>
+<P id="jg80831" rend="Absatzhaengend">Grappin, Pierre: Goethe in <HI>Stra&szlig;burg</HI>. In: Goethe 31 (1969) S. 1-14.</P>
+<P id="jg80832" rend="Absatzhaengend">Traumann, Ernst: Goethe der <HI>Stra&szlig;burger</HI> Student. Leipzig 21923.</P>
+<P id="jg80833" rend="Absatzhaengend">Glo&euml;l, Heinrich: Goethes Wetzlarer Zeit. Berlin 1911.<LB></P>
+<P id="jg80834" rend="Absatzhaengend">Zollinger, Friedrich: Goethe in <HI>Z&uuml;rich</HI>. Z&uuml;rich und Berlin 1932.</P>
+</DIV5>
+</DIV4>
+<DIV4 type="&Uuml;berschrift4" id="jg80835"><HEAD><ANCHOR id="TocDBAFXGGID">Untersuchungen und Darstellungen</HEAD>
+<DIV5 type="&Uuml;berschrift5" id="jg80836"><HEAD>Allgemeines und Vermischtes</HEAD>
+<P id="jg80837"></P>
+<P id="jg80838" rend="Absatzhaengend">Abeken, Bernhard: Goethe in den Jahren 1771 bis 1775. Hannover 1861. 21865.</P>
+<P id="jg80839" rend="Absatzhaengend">Atkins, Stuart: The apprentice novelist. Goethe's letters. 1765-1767. In: The modern Language Quarterly 10 (1949) S. 290- 306.</P>
+<P id="jg80840" rend="Absatzhaengend">Barner, Wilfried: Goethes Bild von der deutschen Literatur der Aufkl&auml;rung. Zum siebten Buch von <TITLE type="Goethewerk">Dichtung und Wahrheit</TITLE>. In: Wolfgang Fr&uuml;hwald und Alberto Martino (Hrsg.): Zwischen Aufkl&auml;rung und Restauration: Sozialer Wandel in der deutschen Literatur des 18. Jahrhunderts (1700-1848). Festschrift f&uuml;r Wolfgang Martens. T&uuml;bingen 1989. S. 283-305.</P>
+<P id="jg80841" rend="Absatzhaengend">Bartscherer, Agnes: Zur Kenntnis des jungen Goethe. Dortmund 1912.</P>
+<P id="jg80842" rend="Absatzhaengend">Baioni, Giuliano: Il giovane Goethe. Turin 1996.</P>
+<P id="jg80843" rend="Absatzhaengend">Beutler, Ernst: Goethes Jugendbriefe. In: E. Beutler. Wiederholte Spiegelungen. Drei Essays &uuml;ber Goethe. G&ouml;ttingen 1957. S. 5-30.</P>
+<P id="jg80844" rend="Absatzhaengend">Boyle, Nicolas: Goethe. Der Dichter in seiner Zeit. Bd. 1 1749-1790. M&uuml;nchen 1995.</P>
+<P id="jg80845" rend="Absatzhaengend">Chiarloni, Anna: Goethe und der Pietismus. In: Goethe Jahrbuch 106 (1989) S. 133-159.</P>
+<P id="jg80846" rend="Absatzhaengend">Dreyfus, Francois-G.: L'Universit&eacute; protestante de Strasbourg dans la s&eacute;conde moitie du XVIIIIe si&egrave;cle. In: Revue d'Allemagne 3 (1971) S. 84-97.</P>
+<P id="jg80847" rend="Absatzhaengend">Ehrlich, Godfrey: Goethe, Freiheit und Sturm und Drang. In: Publications of the Modern Language Association 59 (1944) S. 792-812.</P>
+<P id="jg80848" rend="Absatzhaengend">Eibl, Karl: Die Entstehung der Poesie. Frankfurt a. M. 1995.</P>
+<P id="jg80849" rend="Absatzhaengend">Einem, Herbert von: Die bildende Kunst im Leben und Schaffen Goethes. In: Jahrbuch des Wiener Goethe-Vereins 86/88 (1982/84) S. 29-65; 89/91 (1985/87) S. 89-112.</P>
+<P id="jg80850" rend="Absatzhaengend">Engel, Heinz: Goethe in seinem Verh&auml;ltnis zur franz&ouml;sischen Sprache. G&ouml;ttingen 1937.</P>
+<P id="jg80851" rend="Absatzhaengend">Fairley, Barker: Inspiration and Letter Writing. A note on Goethe's beginnings as a poet. In: The Germanic Review 24 (1949) S 161-167.</P>
+<P id="jg80852" rend="Absatzhaengend">Federmann, Arnold: Der junge Goethe und England. Essays. M&uuml;nchen 1949.</P>
+<P id="jg80853" rend="Absatzhaengend">Fink, Gonthier-Louis: Le jeune Goethe et la tradition populaire. In: Revue d'Allemagne 3 (1971) S. 198-222.</P>
+<P id="jg80854" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Das Bibelzitat beim jungen Goethe. In: Gedenkschrift f&uuml;r Ferdinand Josef Schneider (1879-1954). Hrsg. v. Karl Bischoff. Weimar 1956. S. 201-221.</P>
+<P id="jg80855" rend="Absatzhaengend">Fleischer, Regina: Der wirkungspoetische Aspekt in den literaturtheoretischen &Auml;u&szlig;erungen Goethes zwischen 1770 und 1787. Diss. Potsdam 1979.</P>
+<P id="jg80856" rend="Absatzhaengend">Fricke, Gerhard: Goethes Stra&szlig;burger Wandlung. In: Gerhard Fricke. Studien und Interpretationen. Frankfurt/ Main 1956. S. 119-140.</P>
+<P id="jg80857" rend="Absatzhaengend">Fuchs, Albert: Goethe et la langue fran&ccedil;aise. In: Goethe et l'esprit fran&ccedil;ais. Publication de la Facult&eacute; des Lettres de l'Universit&eacute; de Strasbourg. Paris 1958. S. 7-14.</P>
+<P id="jg80858" rend="Absatzhaengend">Fuchs, Albert: Goethe. Un homme face a la vie. Essai de biographie interieure. I. La jeunesse (1749-1775). Paris 1946.</P>
+<P id="jg80859" rend="Absatzhaengend">Goethe et l'Alsace. Paris 1971. </P>
+<P id="jg80860" rend="Absatzhaengend">Goethe und die Tradition. Hrsg. von Hans S. Reiss. Frankfurt a. M. 1972.</P>
+<P id="jg80861" rend="Absatzhaengend">Golz, Jochen: Maskenfeste Goethes. Zur Lebenssituation des Dichters vor dem Aufbruch nach Weimar, in: Impulse 7 (1984) S. 32-55.</P>
+<P id="jg80862" rend="Absatzhaengend">G&ouml;tting, Franz: Die Bibliothek von Goethes Vater. In: Nassauische Annalen 64. Wiesbaden 1953. S. 23-69.</P>
+<P id="jg80863" rend="Absatzhaengend">Grenzmann, Wilhelm: Der junge Goethe. Interpretationen. Paderborn 1964.</P>
+<P id="jg80864" rend="Absatzhaengend">Grumach, Ernst: Goethe und die Antike. Berlin 1949.</P>
+<P id="jg80865" rend="Absatzhaengend">Hartlaub, Gustav F.: Goethe als Alchimist. In: Euphorion 48 (1954) S. 19-40.</P>
+<P id="jg80866" rend="Absatzhaengend">Henel, Heinrich: Der junge Goethe. In: Monatshefte f&uuml;r den deutschsprachigen Unterricht 41 (1949) S. 129-169.</P>
+<P id="jg80867" rend="Absatzhaengend">Henkel, Arthur: Der deutsche Pindar. Zur Nachahmungsproblematik im 18. Jahrhundert. In: A. Henkel: Goethe-Erfahrungen. Studien und Vortr&auml;ge. Stuttgart 1982. S. 43 -60.</P>
+<P id="jg80868" rend="Absatzhaengend">Hinck, Walter (Hrsg.): Sturm und Drang. Frankfurt a. M. 21989. </P>
+<P id="jg80869" rend="Absatzhaengend">Ibel, Rudolf: Der junge Goethe. Leben und Dichtung 1765-1775. Bremen 1949.</P>
+<P id="jg80870" rend="Absatzhaengend">Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982.</P>
+<P id="jg80871" rend="Absatzhaengend">K&ouml;ppe, Else: Das Verh&auml;ltnis des jungen Goethe zum Christentum. Marburg 1939 (Diss. Masch.)</P>
+<P id="jg80872" rend="Absatzhaengend">Leitzmann, Albert: Dodds "Beauties of Shakespeare" als Quelle f&uuml;r Goethe und Herder. In: Jahrbuch der deutschen Shakespeare-Gesellschaft 55 (1919) S. 57-74.</P>
+<P id="jg80873" rend="Absatzhaengend">Leidner, Alan C.: The impatient muse. Germany and the Sturm und Drang. Chapel Hill 1994.</P>
+<P id="jg80874" rend="Absatzhaengend">Loiseau, Hippolyte: Contribution a l'&eacute;tude de la langue de jeune Goethe d'apr&eacute;s sa correspondance de 1764 &agrave; 1775. Paris 1911.</P>
+<P id="jg80875" rend="Absatzhaengend">Maisak, Petra: Der Zeichner Goethe oder "die practische Liebhaberey in den K&uuml;nsten". In: Goethe und die Kunst. Hrsg. v. Sabine Schulze. Frankfurt/Main 1994. S. 104-112.</P>
+<P id="jg80876" rend="Absatzhaengend">Maisak, Petra: Natur-Gef&uuml;hl-Genie. In: Goethe und die Kunst. Hrsg. v. Sabine Schulze. Frankfurt/Main 1994. S. 220-229.</P>
+<P id="jg80877" rend="Absatzhaengend">Maler, Anselm: Goethes Jugendlekt&uuml;re. In: J. W. Goethe - F&uuml;nf Studien zu seinem Werk. Hrsg. von Anselm Maler. Frankfurt a. M./Bern/New York 1983. S. 1-29.</P>
+<P id="jg80878" rend="Absatzhaengend">Mattenklott, Gert: Goethe als Physiognomiker. In: Goethe. Vortr&auml;ge aus Anla&szlig; seines 150. Todestages. Hrsg. v. Thomas Clasen und Erwin Leibfried. Frankfurt a. M./Bern/New York 1984. S. 125-141.</P>
+<P id="jg80879" rend="Absatzhaengend">Minor, Jacob, und August Sauer: Studien zur Goethe-Philologie. Wien 1880.</P>
+<P id="jg80880" rend="Absatzhaengend">M&ouml;bus, Gerhard: Die Christusfrage in Goethes Leben und Werk. Osnabr&uuml;ck 1964.</P>
+<P id="jg80881" rend="Absatzhaengend">Perels, Christoph (Hg.): Sturm und Drang-Katalog der Ausstellung im Frankfurter Goethe-Museum. Frankfurt a. Main 1988.</P>
+<P id="jg80882" rend="Absatzhaengend">Pascal, Roy: Der Sturm und Drang. Stuttgart 1963. </P>
+<P id="jg80883" rend="Absatzhaengend">Rasch, Wolfdietrich: Der junge Goethe und die Aufkl&auml;rung. In: Reinhold Grimm u. Conrad Wiedemann (Hg.): Literatur und Geistesgeschichte. Festgabe f&uuml;r Heinz Otto Burger. Literatur und Geschichte. Berlin 1968. S. 127-139. -Wiederabdruck in: Sturm und Drang. Hrsg. von Manfred Wacker. Darmstadt 1985. S. 96-111.</P>
+<P id="jg80884" rend="Absatzhaengend">Rasch, Wolfdietrich: Der junge Goethe und die Aufkl&auml;rung. Berlin 1968. S. 127-139.</P>
+<P id="jg80885" rend="Absatzhaengend">Robson-Scott: William Douglas. The younger Goethe and the visual Arts. Cambridge 1981.</P>
+<P id="jg80886" rend="Absatzhaengend">R&uuml;diger, Horst: Goethe und Europa. Essays und Aufs&auml;tze 1944-1984. Berlin 1990.</P>
+<P id="jg80887" rend="Absatzhaengend">Scherer, Wilhelm (u. a.): Aus Goethes Fr&uuml;hzeit. Bruchst&uuml;cke eines Commentares zum jungen Goethe. Stra&szlig;burg 1879.</P>
+<P id="jg80888" rend="Absatzhaengend">Schmidt, Jochen: Die Geschichte des Geniegedankens in der deutschen Literatur. Philosophie und Politik 1750-1945. Darmstadt 1985. Bd. I. S. 193-353.</P>
+<P id="jg80889" rend="Absatzhaengend">Schreiber, Theodore: Zum Begriff des Jungen Goethe. In: Publications of the Modern Language Association 50 (1935) S. 1144-54.</P>
+<P id="jg80890" rend="Absatzhaengend">Schubert, Hans von: Goethes religi&ouml;se Jugendentwicklung. Leipzig 1925.</P>
+<P id="jg80891" rend="Absatzhaengend">Sommerfeldt, Gustav: Goethes Studienausflug nach Dresden 1768. In: Euphorion 23 (1921) S. 581-584.</P>
+<P id="jg80892" rend="Absatzhaengend">Spaethling, Robert: Music and Mozart in the Life of Goethe. Columbia (S. Carolina) 1987.</P>
+<P id="jg80893" rend="Absatzhaengend">Uhlig, Ludwig: Griechenland als Ideal: Winckelmann und seine Rezeption in Deutschland. T&uuml;bingen 1988.</P>
+<P id="jg80894" rend="Absatzhaengend">Vi&euml;tor, Karl: Der junge Goethe. Leipzig 1930. Neuausg. Bern 1950.</P>
+<P id="jg80895" rend="Absatzhaengend">Wei&szlig;enfels, Richard: Goethe im Sturm und Drang. 1. Bd. [mehr nicht erschienen] Halle 1894.</P>
+<P id="jg80896" rend="Absatzhaengend">Wilkinson, Elisabeth M./Willoughby, Leonard A.: Goethe to Herder. July 1772. Some problems of pedagogic presentation. In: German Life and Letters 15 (1961/62) S. 110-122.</P>
+<P id="jg80897" rend="Absatzhaengend">Willoughby, Leonard A.: Goethe looks at the English. In: The Modern Language Review 50 (1955) S. 464-484.</P>
+<P id="jg80898" rend="Absatzhaengend">Wolff, Hans M.: Goethes Weg zur Humanit&auml;t. M&uuml;nchen 1951.</P>
+<P id="jg80899" rend="Absatzhaengend">Zimmermann, Rolf Christian: "Der junge Goethe" von Max Morris in der Neubearbeitung durch Hanna Fischer-Lamberg. In: Zeitschrift f&uuml;r deutsche Philologie 95 (1976) S. 526-567.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80900"><HEAD>Ideen</HEAD>
+<P id="jg80901"></P>
+<P id="jg80902" rend="Absatzhaengend">Albrecht, Wolfgang: Sch&ouml;nheit, Natur, Wahrheit. Einige Hauptaspekte der &Auml;sthetik des jungen Goethe bis 1770 im Verh&auml;ltnis zu ihren zeitgen&ouml;ssischen Traditionen (Winckelmann, Oeser, Lessing). In: Goethe Jahrbuch 100 (1983) S. 163-170.</P>
+<P id="jg80903" rend="Absatzhaengend">Baeumler, Alfred: Das Irrationalit&auml;tsproblem in der &Auml;sthetik und Logik des 18. Jahrhunderts bis zur Kritik der Urteilskraft. T&uuml;bingen 21967.</P>
+<P id="jg80904" rend="Absatzhaengend">Beck, Adolf: Griechisch-deutsche Begegnung. Das deutsche Griechenerlebnis im Sturm und Drang. Stuttgart 1947.</P>
+<P id="jg80905" rend="Absatzhaengend">Bieber, Lothar: Die religi&ouml;se Entwicklung des jungen Goethe. Diss. M&uuml;nster 1954.</P>
+<P id="jg80906" rend="Absatzhaengend">Bollacher, Martin: Der junge Goethe und Spinoza. Studien zur Geschichte des Spinozismus in der Epoche des Sturm und Drang. T&uuml;bingen 1969.</P>
+<P id="jg80907" rend="Absatzhaengend">Braungart, Wolfgang: Naturverh&auml;ltnisse. Zur Reflexion eines Aufkl&auml;rungsproblems beim jungen Goethe. In: Idealismus und Aufkl&auml;rung. Hrsg. von Christoph Jamme [...]. Stuttgart 1988. S. 13-34.</P>
+<P id="jg80908" rend="Absatzhaengend">Eibl, Karl: Consensus. Eine Denkfigur des 18. Jahrhunderts als Kompositionsprinzip Goethescher Gedichtsammlungen. In: Literarhistorische Begegnungen. Festschrift zum sechzigsten Geburtstag von Bernhard K&ouml;nig. Hrsg. v. Andreas Kablitz und Ulrich Schulz-Buschhaus. T&uuml;bingen 1993. S. 29-41.</P>
+<P id="jg80909" rend="Absatzhaengend">Flitner, Wilhelm: Die religi&ouml;se Jugendentwicklung Goethes. In: W. F.: Goethe im Sp&auml;twerk. Glaube, Weltsicht, Ethos. Hamburg 1947. S. 19-56.</P>
+<P id="jg80910" rend="Absatzhaengend">Grosser, Alfred: Le jeune Goethe et le pi&eacute;tisme. In: Etudes germaniques 4 (1949) S. 203-212.</P>
+<P id="jg80911" rend="Absatzhaengend">J&uuml;rgen Teller: Der Prometheus des Eins-und-Alles. Zum Spinoza-Verst&auml;ndnis des jungen Goethe. In: Impulse 8 (1985) S. 25-42.</P>
+<P id="jg80912" rend="Absatzhaengend">Mahnke, Dietrich: Goethe und Leibniz. Die Harmonie ihrer Weltanschauungen. Erfurt 1924.</P>
+<P id="jg80913" rend="Absatzhaengend">Mommsen, Momme: Goethes Verh&auml;ltnis zu Christus und Spinoza. Blick auf die Wertherzeit. In: Deutsche Weltliteratur. Von Goethe bis Ingeborg Bachmann. Festgabe f&uuml;r Alan Pfeffer. Hrsg. v. Klaus Jonas. T&uuml;bingen 1972. S. 1-27.</P>
+<P id="jg80914" rend="Absatzhaengend">Teller, J&uuml;rgen: Der Prometheus des Eins-und-Alles. Zum Spinoza-Verst&auml;ndnis des jungen Goethe. In: Impulse 8 (1985) S. 25-42.</P>
+<P id="jg80915" rend="Absatzhaengend">Timm, Hermann: Gott und die Freiheit. Studien zur Religionsphilosophie der Goethezeit. Bd. I: Die Spinozarenaissance. Frankfurt a. M. 1974.</P>
+<P id="jg80916" rend="Absatzhaengend">Willems, Marianne: Das Problem der Individualit&auml;t als Herausforderung an die Semantik des Sturm und Drang: Studien zu Goethes <TITLE type="Goethewerk">Brief des Pastors zu *** an den neuen Pastor zu ***</TITLE>, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> und <TITLE type="Goethewerk">Clavigo</TITLE>. T&uuml;bingen 1995.</P>
+<P id="jg80917" rend="Absatzhaengend">Zimmermann, Rolf Christian: Das Weltbild des jungen Goethe. Studien zur hermetischen Tradition des deutschen 18. Jahrhunderts. 2 Bde. M&uuml;nchen 1969-1979.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80918"><HEAD>Sprache und Vers</HEAD>
+<P id="jg80919"></P>
+<P id="jg80920" rend="Absatzhaengend">Boucke, Ewald: Wort und Bedeutung in Goethes Sprache. Berlin 1901. </P>
+<P id="jg80921" rend="Absatzhaengend">Burdach, Konrad: Die Sprache des jungen Goethe. In: Burdach, Konrad: Vorspiel. Bd. 2: Goethe und sein Zeitalter. Halle 1926. S. 38-60.</P>
+<P id="jg80922" rend="Absatzhaengend">Chisholm, David: Goethe's Knittelvers. A Prosodic Analysis. Bonn 1975.</P>
+<P id="jg80923" rend="Absatzhaengend">Feise, Ernst: Der Knittelvers des jungen Goethe. Leipzig 1909.</P>
+<P id="jg80924" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Das Bibelzitat beim jungen Goethe. In: Gedenkschrift f&uuml;r Ferdinand Josef Schneider. Hrsg. von Karl Bischoff. Weimar 1956. S. 201-221.</P>
+<P id="jg80925" rend="Absatzhaengend">Heun, Hans Georg: Der Satzbau in der Prosa des jungen Goethe. Leipzig 1930.</P>
+<P id="jg80926" rend="Absatzhaengend">Heusler, Andreas: Goethes Verskunst. In: A. H.: Kleine Schriften. [Bd. 1.] Berlin 1943. Repr. 1969. S. 462-482.</P>
+<P id="jg80927" rend="Absatzhaengend">Kr&uuml;ger, Karl Joachim: Die Bedeutung der Musik f&uuml;r Goethes Wortkunst. In: Goethe 1 (1936) S. 204-222.</P>
+<P id="jg80928" rend="Absatzhaengend">Mackensen, Lutz: Gnade und Verh&auml;ngnis. Bemerkungen zu Goethes Sprachkunst. In: Muttersprache 59 (1949) S. 193-207.</P>
+<P id="jg80929" rend="Absatzhaengend">Martini, Fritz: Goethes verschiedene Sprachen. In: Etudes germaniques 22 (1967) S. 190-215.</P>
+<P id="jg80930" rend="Absatzhaengend">Maurer, Friedrich: Die Sprache Goethes im Rahmen seiner menschlichen und k&uuml;nstlerischen Entwicklung. Erlangen 1932. - Wiederabdruck in: F. M.: Volkssprache. D&uuml;sseldorf 1964. S. 115-138.</P>
+<P id="jg80931" rend="Absatzhaengend">Pniower, Otto: Goethe als Wortsch&ouml;pfer. In: Euphorion 31 (1930) S. 362-383.</P>
+<P id="jg80932" rend="Absatzhaengend">Regler, Gustav: Die Ironie im Werke Goethes. Leipzig 1923.</P>
+<P id="jg80933" rend="Absatzhaengend">Schweizer, Hans Rudolf: Goethe und das Problem der Sprache. Bern 1959.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80934"><HEAD>Motive</HEAD>
+<P id="jg80935"></P>
+<P id="jg80936" rend="Absatzhaengend">Daemmrich, Horst S.: Die Motivreihe Nebel-Licht im Werk Goethes. In: Publications of the English Goethe Society N.S. 42 (1972) S. 65-89.</P>
+<P id="jg80937" rend="Absatzhaengend">Gray, Ronald D.: Goethe the Alchimist. A Study of Alchemical Symbolism in Goethe's Literary and Scientific Works. Cambridge (Engl.) 1952.</P>
+<P id="jg80938" rend="Absatzhaengend">H&ouml;llinger, Eva: Das Motiv des Gartenraumes in Goethes Dichtung. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 35 (1961) S. 184-215.</P>
+<P id="jg80939" rend="Absatzhaengend">Japp, Uwe: Lesen und Schreiben im Drama des Sturm und Drang, insbesondere bei Goethe und Lenz. In: Lesen und Schreiben im 17. und 18. Jahrhundert. Studien zu ihrer Bewertung in Deutschland, England, Frankreich. Hrsg. Paul Goetsch. T&uuml;bingen 1994. S. 265-276.</P>
+<P id="jg80940" rend="Absatzhaengend">Krogmann, Willy: Das Friederikenmotiv in den Dichtungen Goethes. Eine Motivanalyse. Berlin 1932. Repr. Nendeln 1967.</P>
+<P id="jg80941" rend="Absatzhaengend">Landfester, Ulrike: Der Dichtung Schleier. Zur poetischen Funktion von Kleidung in Goethes Fr&uuml;hwerk. Freiburg i. Br. 1994.</P>
+<P id="jg80942" rend="Absatzhaengend">Plate, Ralf: Allegorische "Bilderjagd". Abschiedsmotiv und Klopstocks Einflu&szlig; in Goethes Oden an Behrisch. In: Jahrbuch der Deutschen Schillergesellschaft 31 (1987) S. 72-103.</P>
+<P id="jg80943" rend="Absatzhaengend">Rehder, Helmut: Das Symbol der H&uuml;tte bei Goethe. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 15 (1937) S. 403-427.</P>
+<P id="jg80944" rend="Absatzhaengend">Schmidlin, Bruno: Das Motiv des Wanderns bei Goethe. Winterthur 1963.</P>
+<P id="jg80945" rend="Absatzhaengend">Schrimpf, Hans Joachim: Gestaltung und Deutung des Wandermotivs bei Goethe. In: Wirkendes Wort 3 (1952/53) S. 11-23.</P>
+<P id="jg80946" rend="Absatzhaengend">Schumann, Detlev W.: Motive der Seefahrt beim jungen Goethe. In: German Quarterly 32 (1959) S. 105-120.</P>
+<P id="jg80947" rend="Absatzhaengend">Willoughby, Leonard A.: The Image of the Horse and Charioteer in Goethe's Poetry. In: Publications of the English Goethe Society. N. F. 15 (1946) S. 47-70.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80948"><HEAD>Lyrik allgemein und &uuml;bergreifend</HEAD>
+<P id="jg80949"></P>
+<P id="jg80950" rend="Absatzhaengend">Bab, Julius: Goethes Briefgedichte. In: Goethe Kalender 23 (1930) S. 90-136.</P>
+<P id="jg80951" rend="Absatzhaengend">Baumgart, Hermann: Goethes lyrische Dichtung in ihrer Entwicklung und Bedeutung. [Nachla&szlig; 1926.] 3 Bde Heidelberg 1931-39.</P>
+<P id="jg80952" rend="Absatzhaengend">Boyd, James: Notes to Goethe's Poems. 2 Bde. Oxford 1944-49.</P>
+<P id="jg80953" rend="Absatzhaengend">Cambridge Lecture Series 1981: The Spectrum of Goethe's Poetry. Ed. by Roger Paulin. In: German Life and Letters 36 (1982/83) S. 3-115.</P>
+<P id="jg80954" rend="Absatzhaengend">Conrady, Karl Otto: &Uuml;ber "Sturm und Drang"-Gedichte Goethes. In: K. O. C.: Literatur und Germanistik als Herausforderung. Frankfurt a. M. 1974. S. 125-153. -Wiederabdruck u. d. T.: Zur Bedeutung von Goethes Lyrik im Sturm und Drang. In: Sturm und Drang. Hrsg. von Walter Hinck. Kronberg 1978. S. 97-116.</P>
+<P id="jg80955" rend="Absatzhaengend">Dietze, Walter: Poesie der Humanit&auml;t. Anspruch und Leistung im lyrischen Werk Johann Wolfgang Goethes. Berlin 1985.</P>
+<P id="jg80956" rend="Absatzhaengend">D&uuml;ntzer, Heinrich: Goethe's lyrische Gedichte. F&uuml;r gebildete Leser erl&auml;utert. 2 Bde. Elberfeld 1858. - 3., neu bearb. Aufl. 5 Bde. Leipzig 1896-98.</P>
+<P id="jg80957" rend="Absatzhaengend">Eibl, Karl: "Ich komme! Ich komme! Wohin? Ach wohin?" Hymnendichtung als Problem des jungen Goethe. In: Sturm und Drang. Ausstellung im Frankfurter Goethe-Museum. Hrsg. von Christoph Perels. Frankfurt a. M. 1988. S. 338-349.</P>
+<P id="jg80958" rend="Absatzhaengend">Karl Eibl: Ist die "Erste Weimarer Gedichtsammlung" die "Gedichtsammlung f&uuml;r Charlotte von Stein"? In: Goethe Jahrbuch 111 (1994) S. 269-275.</P>
+<P id="jg80959" rend="Absatzhaengend">Enders, Horst: Stil und Rhythmus. Studien zum freien Rhythmus bei Goethe. Marburg a.d.L. 1962.</P>
+<P id="jg80960" rend="Absatzhaengend">Geschichte der deutschen Lyrik. Hrsg. von Walter Hinderer. Stuttgart 1983.</P>
+<P id="jg80961" rend="Absatzhaengend">H&uuml;bner, G&ouml;tz: Kirchenliedrezeption und Rezeptionswegforschung. Zum &uuml;berlieferungskritischen Verst&auml;ndnis einiger Gedichte von B&uuml;rger, Goethe, Claudius. T&uuml;bingen 1969.</P>
+<P id="jg80962" rend="Absatzhaengend">Kaiser, Gerhard: Geschichte der deutschen Lyrik von Goethe bis zur Gegenwart. Bd. 1: Von Goethe bis Heine. Frankfurt a. M. 1988.</P>
+<P id="jg80963" rend="Absatzhaengend">Keipert, Hans: Die Wandlung Goethescher Gedichte zum klassischen Stil. Die Umarbeitungen f&uuml;r die Gesamtausgabe 1789. Jena 1933.</P>
+<P id="jg80964" rend="Absatzhaengend">Kennedy, Kevin K.: Der junge Goethe in der Tradition des Petrarkismus. New York u. a. 1995.</P>
+<P id="jg80965" rend="Absatzhaengend">Landwehr, J&uuml;rgen: Von der Pluralit&auml;t der Subjekte und der Unumg&auml;nglichkeit des Autors. Goethes Sturm-und- Drang-Lyrik. In: Vielfalt der Perspektiven. Wissenschaft und Kunst in der Auseinandersetzung mit Goethes Werk. Hrsg. von Hans-Werner Eroms [...]. Passau 1984. S. 123-147.</P>
+<P id="jg80966" rend="Absatzhaengend">Laufh&uuml;tte, Hartmut: Die deutsche Kunstballade. Grundlegung einer Gattungsgeschichte. Heidelberg 1979.</P>
+<P id="jg80967" rend="Absatzhaengend">Morris, Max: K&ouml;rperbewegung als Lebenssymbol von Goethes Jugendlyrik. In: Goethe Jahrbuch 26 (1905) S. 159-171.</P>
+<P id="jg80968" rend="Absatzhaengend">Reuter, Hans-Heinrich: Goethes Lyrik 1771 bis 1775. In: Weimarer Beitr&auml;ge 17 (1971) H.11. S. 72-94.</P>
+<P id="jg80969" rend="Absatzhaengend">Richter, Hans: Die Stimme der Frau in Goethes Gedicht. In: Ansichten der deutschen Klassik. Festschrift f&uuml;r U. Wertheim. Hrsg. von Helmut Brandt. Berlin 1981. S. 158-181. - Wiederabdruck in: H. R.: Verwandeltes Dasein. Berlin 1987. S. 324-346, 378f.</P>
+<P id="jg80970" rend="Absatzhaengend">Schadewaldt, Wolfgang: Mond und Sterne in Goethes Lyrik. Ein Beitrag zu Goethes erlebtem Platonismus. In: Goethe und die Tradition. Hrsg. von Hans S. Reiss. Frankfurt a. M. 1972. S. 58 bis 83.</P>
+<P id="jg80971" rend="Absatzhaengend">Segebrecht, Wulf: Goethes Theorie und Praxis des Gelegenheitsgedichts. In: W. S.: Das Gelegenheitsgedicht. Stuttgart 1977. S. 287-328, 396-405.</P>
+<P id="jg80972" rend="Absatzhaengend">Trumpke, Ulrike: Balladendichtung um 1770. Ihre soziale und religi&ouml;se Thematik. Stuttgart 1975.</P>
+<P id="jg80973" rend="Absatzhaengend">Trunz, Erich: Goethes lyrische Kurzgedichte, 1771-1832. In: Goethe 26 (1964) S. 1-37.</P>
+<P id="jg80974" rend="Absatzhaengend">Vi&euml;tor, Karl: Geschichte der deutschen Ode. M&uuml;nchen 1923. Repr. Darmstadt 1961.</P>
+<P id="jg80975" rend="Absatzhaengend">Volkelt, Johannes: Lebens- und Weltgef&uuml;hle in der Lyrik des jungen Goethe. In: J.V.: Zwischen Dichtung und Philosophie. M&uuml;nchen 1908. S. 1-27.</P>
+<P id="jg80976" rend="Absatzhaengend">Weimar, Klaus: Goethes Gedichte 1769-1775. Interpretationen zu einem Anfang. Paderborn 1982. 21984.</P>
+<P id="jg80977" rend="Absatzhaengend">Wellbery, David E.: The Specular Moment. Goethe's Early Lyric and the Begin of Romanticism. Stanford 1996.</P>
+<P id="jg80978" rend="Absatzhaengend">W&uuml;nsch, Marianne: Der Strukturwandel in der Lyrik Goethes. Die systemimmanente Relation der Kategorien "Literatur" und "Realit&auml;t". Stuttgart 1975.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80979"><HEAD>Fr&uuml;he Gedichte</HEAD>
+<P id="jg80980"></P>
+<P id="jg80981" rend="Absatzhaengend">Anger, Alfred: <TITLE type="Goethewerk">Annette an ihren Geliebten</TITLE>. Ein Gedicht Goethes aus der Leipziger Zeit. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 37 (1963) S. 439-462.</P>
+<P id="jg80982" rend="Absatzhaengend">Baldensperger, Fernand: L'anacr&eacute;ontisme du jeune Goethe et la "Po&eacute;sie fugitive" fran&ccedil;aise. [1933.] - Wiederabdruck in: F.B.: Etudes d'histoire litt&eacute;raire. 4e s&eacute;rie. Paris 1939. S. 185-203.</P>
+<P id="jg80983" rend="Absatzhaengend">Castle, Eduard: Leipziger Bildergedichte. In: Chronik des Wiener Goethe-Vereins 37 (1932) S. 27-32. [Zu <TITLE type="Goethewerk">Hochzeitlied</TITLE>.]</P>
+<P id="jg80984" rend="Absatzhaengend">Dietze, Walter: Episode oder Prolog? Goethes Leipziger Lyrik. Leipzig 1966. - Wiederabdruck in: Dietze, Walter: Kleine Welt, gro&szlig;e Welt. Aufs&auml;tze &uuml;ber Goethe. Berlin 1982. S. 9-37, 163-165.</P>
+<P id="jg80985" rend="Absatzhaengend">Leitzmann, Albert: Zu Goethes Liederbuch "Annette". In: Euphorion 4 (1897) S. 794-804.</P>
+<P id="jg80986" rend="Absatzhaengend">Nordheim, Werner von: Goethes Buch "Annette" - Nach 200 Jahren. &Uuml;ber Goethes dichterische Anf&auml;nge und die Eigenart seiner sch&ouml;pferischen Phantasie. In: Jahrbuch des Freien Deutschen Hochstifts 1967. S. 57-129. - Teilabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 7-27.</P>
+<P id="jg80987" rend="Absatzhaengend">Perels, Christoph: Studien zur Aufnahme und Kritik der Rokokolyrik zwischen 1740 und 1760. G&ouml;ttingen 1974.</P>
+<P id="jg80988" rend="Absatzhaengend">Plate, Ralf: Allegorische "Bilderjagd", Abschiedsmotiv und Klopstocks Einflu&szlig; in Goethes Oden an Behrisch (1767). In: Jahrbuch der Deutschen Schillergesellschaft 31 (1987) S. 72-103.</P>
+<P id="jg80989" rend="Absatzhaengend">Schenk, Erich: Breitkopfs Musik zum Leipziger Liederbuch und ihre Beziehung zu Hiller und zu Goethe. In: E. Sch.: Ausgew&auml;hlte Aufs&auml;tze, Reden und Vortr&auml;ge. Graz, Wien, K&ouml;ln 1967. S. 73-85.</P>
+<P id="jg80990" rend="Absatzhaengend">Schirokauer, Arno: Luna bricht die Nacht der Eichen. In: Monatshefte f&uuml;r den deutschen Unterricht (Universit&auml;t Wisconsin) 36 (1944) S. 140-14. [Zu <TITLE type="Goethewerk">Die Nacht.</TITLE>]</P>
+<P id="jg80991" rend="Absatzhaengend">Strack, Adolf: Goethes Leipziger Liederbuch. Gie&szlig;en 1893.</P>
+<P id="jg80992" rend="Absatzhaengend">Zeman, Herbert: Die deutsche anakreontische Dichtung. Stuttgart 1972.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg80993"><HEAD>Sessenheimer Gedichte</HEAD>
+<P id="jg80994"></P>
+<P id="jg80995" rend="Absatzhaengend">Ellis, John M.: Goethe's Revision of <TITLE type="Goethewerk">Willkommen und Abschied</TITLE>. In: German Life and Letters 16 (1962/63) S. 14-22.</P>
+<P id="jg80996" rend="Absatzhaengend">Feise, Ernst: Zwei Goethestudien. 2: Zu Goethes Sesenheimer Liedern. In: Publications of the Modern Language Association 57 (1942) S. 174-181.</P>
+<P id="jg80997" rend="Absatzhaengend">Goedeke, Karl: Goethes Lied, das ein selbstgemahltes Band begleitete. In: Archiv f&uuml;r Literaturgeschichte 6 (1876) S. 215-229. [Zu <TITLE type="Goethewerk">Mit einem gemalten Band</TITLE>.].</P>
+<P id="jg80998" rend="Absatzhaengend">Kaiser, Gerhard: Was ist ein Erlebnisgedicht? Johann Wolfgang Goethe: <TITLE type="Goethewerk">Es schlug mein Herz</TITLE>. In: G. K.: Augenblicke deutscher Lyrik. Frankfurt a. M. 1987. S. 117 bis 144.</P>
+<P id="jg80999" rend="Absatzhaengend">Leistner, Bernd: Urfassung und klassische Aneignung. In: Lesarten. Hrsg. von Chr. L&ouml;ser. Berlin 1982. S. 54-62.</P>
+<P id="jg81000" rend="Absatzhaengend">Maurer, Theodor: Die Sesenheimer Lieder. Eine kritische Studie. Stra&szlig;burg 1907.</P>
+<P id="jg81001" rend="Absatzhaengend">May, Kurt: Drei Goethesche Gedichte interpretiert. In: Gestaltprobleme der Dichtung. Festschrift f&uuml;r G. M&uuml;ller. Hrsg. von Richard Alewyn [...]. Bonn 1957. S. 127-141. - Wiederabdruck in: K.M.: Form und Bedeutung. Stuttgart 1957. 31972. S. 50-72; ferner in: Die Werkinterpretation. Hrsg. von Horst Enders. Darmstadt 1978. S. 312-335. [<TITLE type="Goethewerk">Kleine Blumen, kleine Bl&auml;tter</TITLE>, <TITLE type="Goethewerk">Willkommen und Abschied</TITLE>, <TITLE type="Goethewerk">Mailied</TITLE>.]</P>
+<P id="jg81002" rend="Absatzhaengend">Meyer, Herman: Goethes <TITLE type="Goethewerk">Kleine Blumen, kleine Bl&auml;tter</TITLE>. In: Trivium 7 (1949) S. 169-186. - Wiederabdruck in: H. M.: Zarte Empirie. Stuttgart 1963. S. 160-178. Teilabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 28-33.</P>
+<P id="jg81003" rend="Absatzhaengend">Meyer-Krentler, Eckhardt: <TITLE type="Goethewerk">Willkommen und Abschied</TITLE> - Herzschlag und Peitschenhieb. M&uuml;nchen 1987.</P>
+<P id="jg81004" rend="Absatzhaengend">Michelsen, Peter: <TITLE type="Goethewerk">Willkomm und Abschied</TITLE>. Beobachtungen und &Uuml;berlegungen zu einem Gedicht des jungen Goethe. In: Sprachkunst 4 (1973) S. 6-20. - Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 34-48.</P>
+<P id="jg81005" rend="Absatzhaengend">M&uuml;ller, Peter: Zwei Sesenheimer Gedichte Goethes. Zur Interpretation von <TITLE type="Goethewerk">Willkomm und Abschied</TITLE> und <TITLE type="Goethewerk">Mayfest</TITLE>. In: Weimarer Beitr&auml;ge 13 (1967) S. 20-47.</P>
+<P id="jg81006" rend="Absatzhaengend">M&uuml;ller-Blattau, Joseph: Goethe, Herder und das els&auml;ssische Volkslied. In: Goethe Jahrbuch 89 (1972) S. 189-208.</P>
+<P id="jg81007" rend="Absatzhaengend">Pietzcker, Carl: Johann Wolfgang Goethe: <TITLE type="Goethewerk">Mailied</TITLE>. In: Wirkendes Wort 19 (1969) S. 15-28. - Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 49-64.</P>
+<P id="jg81008" rend="Absatzhaengend">Sauder, Gerhard: <TITLE type="Goethewerk">Willkomm und Abschied</TITLE>: wortlos. Goethes Sesenheimer Gedicht <TITLE type="Goethewerk">Mir schlug das Herz</TITLE>. In: Gedichte und Interpretationen. Bd. 2. Hrsg. von Karl Richter. Stuttgart 1983. S. 412-424.</P>
+<P id="jg81009" rend="Absatzhaengend">Schaafs, Georg: Zwei Friederikenlieder. In: Modern Language Review 7 (1912) S. 469-487.</P>
+<P id="jg81010" rend="Absatzhaengend">Schr&ouml;der Edward: Sesenheimer Studien. In: Jahrbuch der Goethe-Gesellschaft 6 (1919) S. 82-107.</P>
+<P id="jg81011" rend="Absatzhaengend">Siebs, Theodor: Die Sesenheimer Lieder von Goethe und Lenz. In: Preu&szlig;ische Jahrb&uuml;cher Bd. 88 (1897) S. 407-454.</P>
+<P id="jg81012" rend="Absatzhaengend">Spie&szlig;, Heinrich: <TITLE type="Goethewerk">Erwache Friederike</TITLE>! In: Zeitschrift f&uuml;r deutsche Philologie 56 (1931) S. 195-206.</P>
+<P id="jg81013" rend="Absatzhaengend">Stolte, Heinz: Walther von der Vogelweide und Goethe. (Zwei Mailieder - ein Vergleich.) In: Festschrift f&uuml;r Albert Leitzmann. Hrsg. von Ernst Vincent [...]. Jena 1937. S. 33-43. [Zu <TITLE type="Goethewerk">Maylied</TITLE>.]</P>
+<P id="jg81014" rend="Absatzhaengend">Sorg, Bernhard: Goethe. In: B.S.: Das lyrische Ich. T&uuml;bingen 1984. S. 52-90. [<TITLE type="Goethewerk">Maifest</TITLE>, <TITLE type="Goethewerk">Prometheus</TITLE>, <TITLE type="Goethewerk">Auf dem See</TITLE>.]</P>
+<P id="jg81015" rend="Absatzhaengend">Spiess, Heinrtich: Erwache Friederike. In: Zeitschrift f&uuml;r deutsche Philologie 56 (1931) S. 195-206. </P>
+<P id="jg81016" rend="Absatzhaengend">Storz, Gerhard: Vier Gedichte von Goethe. (<TITLE type="Goethewerk">Mailied</TITLE>, <TITLE type="Goethewerk">Ganymed</TITLE>, <TITLE type="Goethewerk">Ein Gleiches</TITLE>, <TITLE type="Goethewerk">Auf dem See</TITLE>). In: Wege zum Gedicht. Hrsg. Von Rupert Hirschenauer. M&uuml;nchen 1956. S. 119-129.</P>
+<P id="jg81017" rend="Absatzhaengend">Wellbery, David: The Specular Moment. Construction of Meaning in a Poem by Goethe. In: Goethe Yearbook 1 (1982) S. 1-41.</P>
+<P id="jg81018" rend="Absatzhaengend">Wolf, Alois: "Der Abend wiegte schon die Erde, Und an den Bergen hing die Nacht." In: Bild und Gedanke. Festschrift f&uuml;r G. Baumann. Hrsg. von G&uuml;nter Schnitzler [...]. M&uuml;nchen 1980. S. 187-205.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81019"><HEAD>Balladen</HEAD>
+<P id="jg81020"></P>
+<P id="jg81021" rend="Absatzhaengend">Beutler, Ernst: <TITLE type="Goethewerk">Der K&ouml;nig in Thule</TITLE> und die Dichtungen von der Loreley. In: Beutler, Ernst: Essays um Goethe. 7., verm. Aufl. Z&uuml;rich 1980. S. 309-359.</P>
+<P id="jg81022" rend="Absatzhaengend">Hinck, Walter: Goethes Ballade <TITLE type="Goethewerk">Der untreue Knabe</TITLE>. Zur Geschichte der siebenzeiligen Strophe in mittelalterlicher und neuerer deutscher Lyrik. In: Euphorion 56 (1962) S. 25-47.</P>
+<P id="jg81023" rend="Absatzhaengend">Meyer-Benfey, Heinrich: <TITLE type="Goethewerk">Der K&ouml;nig in Thule</TITLE>. In: H. M.-B.: Welt der Dichtung. Hamburg 1962. S. 131-139.</P>
+<P id="jg81024" rend="Absatzhaengend">M&uuml;ller-Seidel, Walter: Balladen und Justizkritik [zu: <TITLE type="Goethewerk">Vor Gericht</TITLE>]. In: Gedichte und Interpretationen. Bd. 2. Hrsg. von Karl Richter. Stuttgart 1983. S. 437-450.</P>
+<P id="jg81025" rend="Absatzhaengend">Ro&szlig;, Werner: Johann Wolfgang Goethe, <TITLE type="Goethewerk">Es war ein K&ouml;nig in Thule</TITLE>, in: Wege zum Gedicht II. Hrsg. von Rupert Hirschenauer und Albrecht Weber. M&uuml;nchen 1963. S. 147-153.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81026"><HEAD>Frankfurter Gedichte</HEAD>
+<P id="jg81027"></P>
+<P id="jg81028" rend="Absatzhaengend">Lee, Meredith: Goethe, Klopstock and the Problem of Literary Influence. A Reading of the Darmstadt Poems. In: Johann Wolfgang von Goethe. One Hundred and Fifty Years of Continuing Vitality. Ed. by Ulrich Goebel [...]. Lubbock (Texas) 1984. S. 96-113.<LB></P>
+<P id="jg81029" rend="Absatzhaengend">Burdach, Konrad: Exkurs &uuml;ber den Schlu&szlig; des <TITLE type="Goethewerk">Schwager Kronos</TITLE> und den Ausgang des <TITLE type="Goethewerk">Urfaust</TITLE>. In: Burdach, Konrad: Vorspiel. Bd. 2: Goethe und sein Zeitalter. Halle 1926. S. 324-332.</P>
+<P id="jg81030" rend="Absatzhaengend">Polheim, Karl Konrad: Goethe: <TITLE type="Goethewerk">An Schwager Kronos</TITLE>. In: Festschrift Julius Franz Sch&uuml;tz. Hrsg. von Berthold Sutter. Graz 1954. S. 119-126.<LB></P>
+<P id="jg81031" rend="Absatzhaengend">Burckhardt, Sigurd: The Metaphorical Structure of Goethe's <TITLE type="Goethewerk">Auf dem See</TITLE>. In: Germanic Review 31 (1956) S. 35-48.</P>
+<P id="jg81032" rend="Absatzhaengend">Dyck, Joachim: Die Physiognomie der Selbsterkenntnis. Goethes Gedicht <TITLE type="Goethewerk">Auf dem See</TITLE>. In: Euphorion 67 (1973) S. 74-84.</P>
+<P id="jg81033" rend="Absatzhaengend">Geerdts, Hans-J&uuml;rgen: "Ich saug' an meiner Nabelschnur." Lyrisches aus dem Jahre 1775. In: Ansichten der deutschen Klassik. Festschrift f&uuml;r U. Wertheim. Hrsg. von Helmut Brandt. Berlin 1981. S. 148-157. - Wiederabdruck in: Geerdts, Hans-J&uuml;rgen: Zu Goethe und anderen. Studien zur Literaturgeschichte. Leipzig 1982. S. 96-105.</P>
+<P id="jg81034" rend="Absatzhaengend">Gerth, Klaus: J. W. Goethe: <TITLE type="Goethewerk">Auf dem See:</TITLE> Zum Verh&auml;ltnis von Kommentar, Textanalyse und Interpretation. In. Praxis Deutsch 16 (1989). S. 58-63.</P>
+<P id="jg81035" rend="Absatzhaengend">Kaiser, Gerhard: Mutter Natur am Z&uuml;rcher See. Zu einem Gedicht Goethes. In: Schweizer Monatshefte 64 (1984) S. 623-634. - Wiederabdruck in: G. K.: Augenblicke deutscher Lyrik. Frankfurt a. M. 1987. S. 145-162.</P>
+<P id="jg81036" rend="Absatzhaengend">Lehnert, Herbert: Enthusiastisches Ich, Selbstbefangenheit, lyrisches Ich und lyrische Gestalt: Goethe, <TITLE type="Goethewerk">Auf dem See</TITLE>. In: H.L.: Struktur und Sprachmagie. Stuttgart 1966. S. 22-32.</P>
+<P id="jg81037" rend="Absatzhaengend">P&auml;tzold, Hartmut: Naturerlebnis, Emanzipation und Gesellschaftsflucht. Versuch einer Interpretation zu dem Gedicht des jungen Goethe <TITLE type="Goethewerk">Auf dem See</TITLE>. In: Naturlyrik und Gesellschaft. Hrsg. von Norbert Mecklenburg. Stuttgart 1977. S. 56-73.</P>
+<P id="jg81038" rend="Absatzhaengend">Peucker, Brigitte: Goethe's Mirror of Art. The Case of <TITLE type="Goethewerk">Auf dem See</TITLE>. In: Goethe Yearbook 2 (1984) S. 43-49.</P>
+<P id="jg81039" rend="Absatzhaengend">Scherer, Michael: Goethe, <TITLE type="Goethewerk">Auf dem See</TITLE>. In: Wirkendes Wort 4 (1953/ 1954) S. 349-354.</P>
+<P id="jg81040" rend="Absatzhaengend">Silz, Walter: Goethe's <TITLE type="Goethewerk">Auf dem See</TITLE> (Und frische Nahrung, neues Blut). In: Studies in Honor of John Albrecht Walz. Lancaster (Penn.) 1941. S. 41-48.</P>
+<P id="jg81041" rend="Absatzhaengend">Sirc, Susan: Emblematic and alchemical imagery in Goethe's poems <TITLE type="Goethewerk">Auf dem See</TITLE> und <TITLE type="Goethewerk">Herbstgef&uuml;hl</TITLE>. In: Emblems in Glasgow. A collection of essays drawing on the Stirling Maxwell Collection in Glasgow Univesity Library. Ed. By Alison Adams. Glasgow 1992. S. 135-161.<LB></P>
+<P id="jg81042" rend="Absatzhaengend">Anton, Herbert: Deutschland 1775: Goethe, <TITLE type="Goethewerk">Neue Liebe neues Leben</TITLE>. In: H. A.: Heilungskraft. M&uuml;nchen 1987. S. 30-41.<LB></P>
+<P id="jg81043" rend="Absatzhaengend">Aubenque, Jutta: Zur Bedeutung der 'Zwillingsbeeren' in Goethes Gedicht <TITLE type="Goethewerk">Herbstgef&uuml;hl</TITLE>, in: Etudes Germaniques 33 (1978) S. 187-199.</P>
+<P id="jg81044" rend="Absatzhaengend">Biese, Alfred: Goethes <TITLE type="Goethewerk">Herbstgef&uuml;hl</TITLE>. In: Goethe Kalender 22 (1929) S. 48-68.</P>
+<P id="jg81045" rend="Absatzhaengend">Henseke, Kirsten: Goethes gegenst&auml;ndliches Denken. Untersuchungen im Umkreis des Gedichtes <TITLE type="Goethewerk">Herbstgef&uuml;hl</TITLE>. In: Goethe und die Wissenschaften. Verantwortl. Bearb.: Helmut Brandt. Jena 1984. S. 179-183.<LB></P>
+<P id="jg81046" rend="Absatzhaengend">Kemp, Friedhelm: Sch&ouml;pfungskraft und Frustration. Nachbemerkung zu <TITLE type="Goethewerk">K&uuml;nstlers Morgenlied</TITLE>. In: Jahrbuch der Deutschen Schillergesellschaft 31 (1987) S 10 4-116.</P>
+<P id="jg81047" rend="Absatzhaengend">Vaget, Hans R.: Eros und Apoll. Ein Versuch zu <TITLE type="Goethewerk">K&uuml;nstlers Morgenlied</TITLE>. In: Jahrbuch der Deutschen Schillergesellschaft 30 (1986) S. 196-217.<LB></P>
+<P id="jg81048" rend="Absatzhaengend">Kraft, Werner: Eingemischte Prosas&auml;tze. Zu <TITLE type="Goethewerk">Lilis Park</TITLE>. In: Akzente 3 (1956) S. 374-376. - Wiederabdruck in: Kraft, Werner: Goethe. Wiederholte Spiegelungen aus f&uuml;nf Jahrzehnten. M&uuml;nchen 1986. S. 36- 38.<LB></P>
+<P id="jg81049" rend="Absatzhaengend">Hilliard, Kevin: Goethe an the cure for melancholy. <TITLE type="Goethewerk">Mahomets Gesang</TITLE>, orientalism and the medical psychology of the 18th century. In: Oxford German Studies 23 (1994) S. 71-103.</P>
+<P id="jg81050" rend="Absatzhaengend">Kahn, Ludwig W.: The Problem of Genre. A Note on Goethe's <TITLE type="Goethewerk">Mahomets Gesang</TITLE>. In: Germanic Review 49 (1974) S. 23-28.</P>
+<P id="jg81051" rend="Absatzhaengend">Petsch, Robert: Zu Goethes <TITLE type="Goethewerk">Mahomet</TITLE>. In: Zeitschrift f&uuml;r den deutschen Unterricht 29 (1915) S. 673-693.</P>
+<P id="jg81052" rend="Absatzhaengend">Braemer, Edith: Goethes <TITLE type="Goethewerk">Prometheus</TITLE> und die Grundpositionen des Sturm und Drang. Weimar 1959. 31968.</P>
+<P id="jg81053" rend="Absatzhaengend">Conrady, Karl Otto: Johann Wolfgang von Goethe, <TITLE type="Goethewerk">Prometheus</TITLE>. In: Die deutsche Lyrik. Vom Barock bis zur Gegenwart. Hrsg. von Benno von Wiese. Bd. 1 D&uuml;sseldorf 1956. S. 214-226. - Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 81-91.</P>
+<P id="jg81054" rend="Absatzhaengend">Christ, Kurt: "Der Kopf von Goethe, der Leib von Spinoza und die F&uuml;&szlig;e von Lavater". Goethes Gedichte <TITLE type="Goethewerk">Das G&ouml;ttliche</TITLE> und <TITLE type="Goethewerk">Prometheus</TITLE> im Kontext ihrer Erstver&ouml;ffentlichung durch Jacobi. Goethe-Jahrbuch 109 (1992) S. 11-21.</P>
+<P id="jg81055" rend="Absatzhaengend">Keller, Werner: Goethes <TITLE type="Goethewerk">Ganymed</TITLE>. Mythisches Modell und odische Metamorphose. In: Sinn und Symbol. Festschrift f&uuml;r J. Strelka. Hrsg. von Karl Kurt Polheim. Bern 1987. S. 67 - 85.</P>
+<P id="jg81056" rend="Absatzhaengend">Lugowski, Clemens: Goethes <TITLE type="Goethewerk">Ganymed</TITLE>. In: Gedicht und Gedanke. Hrsg. von Hans Otto Burger. Halle 1942. S. 102-118. - Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 65-80.</P>
+<P id="jg81057" rend="Absatzhaengend">Meller, Marius: Wo sitzt der Gott? Zu Goethes Prometheus-Hymne. In: Stimme, Figur. Kritik und Restitution in der Literaturwissenschaft. Hrsg. Aleida Assmann und Anselm Haverkamp. Stuttgart und Weimar 1994. S. 189-196.</P>
+<P id="jg81058" rend="Absatzhaengend">M&uuml;ller, Joachim: Goethes Hymnen <TITLE type="Goethewerk">Prometheus</TITLE> und <TITLE type="Goethewerk">Ganymed</TITLE>. In: Sinn und Form 11 (1959) S. 872-889. - Wiederabdruck in: M&uuml;ller, Joachim: Neue Goethe-Studien. Halle 1969. S. 51-67, 285.</P>
+<P id="jg81059" rend="Absatzhaengend">M&uuml;ller, Peter: Goethes <TITLE type="Goethewerk">Prometheus</TITLE>. Sinn- und Urbild b&uuml;rgerlichen Emanzipationsanspruchs. In: Weimarer Beitr&auml;ge 22 (1976) H.3. S. 52-82.</P>
+<P id="jg81060" rend="Absatzhaengend">Pietzcker, Carl: Goethes <TITLE type="Goethewerk">Prometheus</TITLE>-Ode. In: C. P.: Trauma, Wunsch und Abwehr. W&uuml;rzburg 1985. S. 9-64.</P>
+<P id="jg81061" rend="Absatzhaengend">Richter, Julius: Die H&uuml;tte des Prometheus. In: Germanisch-Romanische Monatsschrift 21 (1933) S. 415-419. [s.a. Germanisch-Romanische Monatsschrift 18 (1930) S. 269-277.].</P>
+<P id="jg81062" rend="Absatzhaengend">Schmidt Erich: Goethes <TITLE type="Goethewerk">Prometheus</TITLE>. In: Goethe Jahrbuch 20 (1899) S. 1-22. - Wiederabdruck in: E. Schmidt: Charakteristiken. Berlin 1886-1901. 2. Verm. Aufl. 1912. Bd. 2. S. 128-147.</P>
+<P id="jg81063" rend="Absatzhaengend">Thom&eacute;, Horst: T&auml;tigkeit und Reflexion in Goethes <TITLE type="Goethewerk">Prometheus</TITLE>. Umrisse einer Interpretation. In: Gedichte und Interpretationen. Bd. 2. Hrsg. von Karl Richter. Stuttgart 1983. S. 427-435.</P>
+<P id="jg81064" rend="Absatzhaengend">Trousson, Ren&eacute;: Le Th&egrave;me de Prometh&eacute;e dans la Litt&eacute;rature Europ&eacute;enne, 2 Bde., Genf 1964.</P>
+<P id="jg81065" rend="Absatzhaengend">Wruck, Peter: Goethes <TITLE type="Goethewerk">Prometheus</TITLE>-Gedicht - erneut gelesen. In: Wissenschaftliche Zeitschrift der Universit&auml;t Berlin 35 (1986) S. 766-772.</P>
+<P id="jg81066" rend="Absatzhaengend">Zimmermann, Rolf Christian: <TITLE type="Goethewerk">Ganymed</TITLE>, <TITLE type="Goethewerk">Prometheus</TITLE> und Prometheus-Fragment. In: Zimmermann, Rolf Christian: Das Weltbild des jungen Goethe. Studien zur hermetischen Tradition des deutschen 18. Jahrhunderts. Bd. 2. M&uuml;nchen 1979. S. 119-166, 303-311.<LB></P>
+<P id="jg81067" rend="Absatzhaengend">Kraft, Werner: <TITLE type="Goethewerk">Sprache</TITLE>. In: W.K.: Wort und Gedanke. Bern 1954. S. 174-180. - Wiederabdruck in: Kraft, Werner: Goethe. Wiederholte Spiegelungen aus f&uuml;nf Jahrzehnten. M&uuml;nchen 1986. S. 54-61.<LB></P>
+<P id="jg81068" rend="Absatzhaengend">Feuerlicht, Ignace: Goethes fr&uuml;heste Balladen. In: The Journal of English and Germanic Philology 48 (1949) S. 469-482. [<TITLE type="Goethewerk">Der untreue Knabe</TITLE>, <TITLE type="Goethewerk">Der K&ouml;nig in Thule</TITLE>.]</P>
+<P id="jg81069" rend="Absatzhaengend">Neumann, Peter Horst: Goethes Ballade vom <TITLE type="Goethewerk">Ungetreuen Knaben</TITLE>, das Lied vom <TITLE type="Goethewerk">K&ouml;nig in Thule</TITLE> und die <TITLE type="Goethewerk">Erste Walpurgisnacht</TITLE>. In: Herkommen und Erneuerung. Festschrift f&uuml;r O. Seidlin. Hrsg. von Gerald Gillespie [...]. T&uuml;bingen 1976. S. 143-149.<LB></P>
+<P id="jg81070" rend="Absatzhaengend">Dieckmann, Friedrich: H&uuml;ttenpfade des jungen Goethe. Die Wanderer-Gedichte von 1772. In: Goethe 32 (1970) S. 221-252.</P>
+<P id="jg81071" rend="Absatzhaengend">Breuer, Dieter: Goethes Gedicht <TITLE type="Goethewerk">Der Wandrer</TITLE>. Zur Programmatik eines Textes. In: Wirkendes Wort 20 (1970) S. 302-313.</P>
+<P id="jg81072" rend="Absatzhaengend">Gn&uuml;g Hiltrud: Lyrische Subjektivit&auml;t als Ausdruck der Innerlichkeit. Exemplarische Analyse ausgew&auml;hlter Gedichte des jungen Goethe. In: H. G.: Entstehung und Krise lyrischer Subjektivit&auml;t. Stuttgart 1983. S. 51-78. [<TITLE type="Goethewerk">Der Wandrer</TITLE>, <TITLE type="Goethewerk">Willkommen und Abschied</TITLE>, <TITLE type="Goethewerk">Maifest</TITLE>.]<LB></P>
+<P id="jg81073" rend="Absatzhaengend">Gelzer, Thomas: Pindarverst&auml;ndnis und Pindar&uuml;bersetzung im deutschen Sprachbereich vom 16. bis zum 18. Jahrhundert. In: Geschichte des Textverst&auml;ndnisses am Beispiel von Pindar und Horaz. Hrsg. v. Walther Killy. M&uuml;nchen 1981. S. 81-115.</P>
+<P id="jg81074" rend="Absatzhaengend">Henel, Heinrich: Der Wanderer in der Not. Goethes <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE> und <TITLE type="Goethewerk">Harzreise im Winter</TITLE>. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 47 (1973) S. 69-94. - Wiederabdruck in: H. H.: Goethezeit. Frankfurt a. M. 1980. S. 76-101, 349-355.</P>
+<P id="jg81075" rend="Absatzhaengend">Henkel, Arthur: Versuch &uuml;ber <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>. In: Die Gegenwart der Griechen im neueren Denken. Festschrift f&uuml;r H.-G. Gadamer. Hrsg. von Dieter Henrich [...]. T&uuml;bingen 1960. S. 59-76. - Wiederabdruck in: Henkel, Arthur: Goethe-Erfahrungen. Studien und Vortr&auml;ge. Stuttgart 1982. S. 9-42.</P>
+<P id="jg81076" rend="Absatzhaengend">Ingen, Ferdinand van: Dionysos und Apoll. Zu <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE> des jungen Goethe. In: Neophilologus 52 (1968) S. 268-286.</P>
+<P id="jg81077" rend="Absatzhaengend">Kaiser, Gerhard: Das Genie und seine G&ouml;tter. Ein Beitrag zu <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE> von Goethe. In: Euphorion 58 (1964) S. 41-58. - Wiederabdruck in: Kaiser, Gerhard: Wandrer und Idylle. Goethe und die Ph&auml;nomenologie der Natur in der deutschen Dichtung von Ge&szlig;ner bis Gottfried Keller. G&ouml;ttingen 1977. S. 127-147.</P>
+<P id="jg81078" rend="Absatzhaengend">Mommsen, Katharina: <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>. Die Leiden des jungen Goethe. In: Jahrbuch des Wiener Goethe-Vereins 81/83 (1977/79) S. 215 bis 235. - Wiederabdruck in: Sturm und Drang. Hrsg. von Manfred Wacker. Darmstadt 1985. S. 368-396.</P>
+<P id="jg81079" rend="Absatzhaengend">Saviane, Renato: Poesia della prosa. Il <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE> di Goethe. In: Annali Istituto Univeritario Orientale, Napoli. Sezione germanica. Studi tedeschi 26 (1983) S. 211-231.</P>
+<P id="jg81080" rend="Absatzhaengend">Schmidt, Jochen: Gelehrte Genialit&auml;t: <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>. In: Jahrbuch der Deutschen Schillergesellschaft 28 (1984) S. 144-190. - Wiederabdruck in: J. Sch.: Die Geschichte des deutschen Geniegedankens in der deutschen Literatur, Philosophie und Politik. Bd. 1. Darmstadt 1985. S. 199-254. [s. dazu die Kontroverse mit K. Eibl in: Jahrbuch der Deutschen Schillergesellschaft 29 (1985) S. 514-531.].</P>
+<P id="jg81081" rend="Absatzhaengend">Vincent, Ernst: Zwei Gedichte des jungen Goethe. In: Festschrift f&uuml;r Albert Leitzmann. Hrsg. von E.V. [...]. Jena 1937. S. 66-85. [<TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>, <TITLE type="Goethewerk">Ganymed</TITLE>.]</P>
+<P id="jg81082" rend="Absatzhaengend">Weigand, Hermann J.: Noch einmal <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>. In: Goethe Jahrbuch 91 (1974) S. 136-147.</P>
+<P id="jg81083" rend="Absatzhaengend">Wilkinson, Elizabeth M./Willoughby, Leonard A.: <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>. A Study in Poetic Vagrancy. In: German Life and Letters 1 (1947/48) S. 102-166. Wiederabdruck in: Wilkinson, Elizabeth M. / Willoughby, Leonard A.: Goethe. Poet and Thinker. Essays. London 1962. S. 30-54. - Dt.: "Wandrers Sturmlied." Eine Studie &uuml;ber poetisches Vagabundieren. In: In: Wilkinson, Elizabeth M./Willoughby, Leonard A.: Goethe. Dichter und Denker. Frankfurt a. M. 1974. S. 34-60.</P>
+<P id="jg81084" rend="Absatzhaengend">Zimmermann, Rolf Christian: <TITLE type="Goethewerk">Wandrers Sturmlied</TITLE>. In: Zimmermann, Rolf Christian: Das Weltbild des jungen Goethe. Studien zur hermetischen Tradition des deutschen 18. Jahrhunderts. Bd. 2. M&uuml;nchen 1979. S. 77-118, 294-303.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81085"><HEAD>Jugendlustspiele</HEAD>
+<P id="jg81086"></P>
+<P id="jg81087" rend="Absatzhaengend">Bortfeldt, Hans-Robert: Der junge Goethe als Satiriker und Gesellschaftskritiker. In: NDL 2 (1954) H. 3. S. 95-102. [Zu <TITLE type="Goethewerk">Die Mitschuldigen</TITLE>.].</P>
+<P id="jg81088" rend="Absatzhaengend">Emmel, Hildegard: Goethes <TITLE type="Goethewerk">Laune des Verliebten</TITLE> und der Mythos von Arkadien. In: Gedenkschrift f&uuml;r Ferdinand Josef Schneider. Hrsg. von Karl Bischoff. Weimar 1956. S. 173-200. - Wiederabdruck in: H. E.: Kritische Intelligenz als Methode. Bern 1981. S. 34-63.</P>
+<P id="jg81089" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Die zweite Fassung der <TITLE type="Goethewerk">Mitschuldigen</TITLE>. In: Beitr&auml;ge zur Goetheforschung. Hrsg. von Ernst Grumach. Berlin 1959. S. 87-90.</P>
+<P id="jg81090" rend="Absatzhaengend">Martini, Fritz: Goethes "vervehlte" Lustspiele: <TITLE type="Goethewerk">Die Mitschuldigen</TITLE> und <TITLE type="Goethewerk">Der Gro&szlig;-Cophta</TITLE>. In: Natur und Idee. Festschrift f&uuml;r A.B. Wachsmuth. Hrsg. von Helmut Holtzhauer. Weimar 1966. S. 164-210. - Wiederabdruck in: F.M.: Lustspiele und das Lustspiel. Stuttgart 1974. S. 105-149.</P>
+<P id="jg81091" rend="Absatzhaengend">Martini, Fritz: Goethes <TITLE type="Goethewerk">Die Mitschuldigen</TITLE> oder die Problematisierung des Lustspiels. In: Das deutsche Lustspiel. Hrsg. von Hans Steffen. Bd. 1. G&ouml;ttingen 1968. S. 68-93. - Teilabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 92-107.</P>
+<P id="jg81092" rend="Absatzhaengend">Preisendanz, Wolfgang: Das Sch&auml;ferspiel <TITLE type="Goethewerk">Die Laune des Verliebten</TITLE> und das Lustspiel <TITLE type="Goethewerk">Die Mitschuldigen</TITLE>. In: Goethes Dramen. Neue Interpretationen. Hrsg. von Walter Hinderer. Stuttgart 1980. S. 11-22.</P>
+<P id="jg81093" rend="Absatzhaengend">Stauch von Quitzow, Wolfgang: Ein Lustspiel auf dem Wege zur Klassik? Goethes <TITLE type="Goethewerk">Die Mitschuldigen</TITLE>. In: Klassik und Moderne. Festschrift f&uuml;r W. M&uuml;ller-Seidel. Hrsg. von Karl Richter [...]. Stuttgart 1983. S. 160-174.</P>
+<P id="jg81094" rend="Absatzhaengend">Kr&ouml;ger, Wolfgang: Das Arrangement im Chaos. Zu Goethes Lustspiel <TITLE type="Goethewerk">Die Mitschuldigen</TITLE>. In: Literatur f&uuml;r Leser (1984) S. 65-74.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81095"><HEAD>Farcen</HEAD>
+<P id="jg81096"></P>
+<P id="jg81097" rend="Absatzhaengend">Stern, Martin: Die Schw&auml;nke der Sturm-und-Drang-Periode. In: Goethes Dramen. Neue Interpretationen. Hrsg. von Walter Hinderer. Stuttgart 1980. S. 23-41.</P>
+<P id="jg81098" rend="Absatzhaengend">Aylett, R. P. T.: Goethe and the "Fastnachtsspiel". In: Publications of the English Goethe Society. N. S. 61 (1990/91) S. 1-25.</P>
+<P id="jg81099" rend="Absatzhaengend">Scherer, Wilhelm: <TITLE type="Goethewerk">Satyros</TITLE> und <TITLE type="Goethewerk">Brey</TITLE>. In: Goethe Jahrbuch 1 (1880) S. 81-118.</P>
+<P id="jg81100" rend="Absatzhaengend">Castle, Eduard: <TITLE type="Goethewerk">Pater Brey</TITLE> und <TITLE type="Goethewerk">Satyros</TITLE>. In: Jahrbuch der Goethe-Gesellschaft 5 (1918) S. 56-98.</P>
+<P id="jg81101" rend="Absatzhaengend">Beutler, Ernst: Goethes <TITLE type="Goethewerk">Concerto dramatico</TITLE>. In: Etudes germaniques (1951) S. 192-199.</P>
+<P id="jg81102" rend="Absatzhaengend">M&uuml;ller-Blattau, Joseph: Goethes <TITLE type="Goethewerk">Concerto dramatico</TITLE>. Eine Variation zum Thema "Goethe und die musikalische Form". In: Goethe 16 (1954) S. 331-341.</P>
+<P id="jg81103" rend="Absatzhaengend">Dalmeyda, Georges: Dieux, Heros et Wieland. In: G.D.: Goethe et le drame antique. Paris 1908. S. 78-104.</P>
+<P id="jg81104" rend="Absatzhaengend">Gemeinhardt, Laurence: The dramatic Structure of Goethe's <TITLE type="Goethewerk">G&ouml;tter, Helden und Wieland</TITLE>. In: The Journal of English and Germanic Philology 41 (1942) S. 345-348.</P>
+<P id="jg81105" rend="Absatzhaengend">Stockum, Theodorus C. van: Storm om Alkestis. In: Verzamelde Opstellen. Festschrift f&uuml;r J.H. Scholte. Red. van Th. C. v. St. Amsterdam 1947. S. 141-153.</P>
+<P id="jg81106" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Eine Quellenstudie zu <TITLE type="Goethewerk">G&ouml;tter, Helden und Wieland</TITLE>. In: Beitr&auml;ge zur Goetheforschung. Hrsg. von Ernst Grumach. Berlin 1959. S. 139-142.</P>
+<P id="jg81107" rend="Absatzhaengend">Ayrault, Roger: Une "Farce" de Goethe dans ses ann&eacute;es de Sturm und Drang: <TITLE type="Goethewerk">G&ouml;tter, Helden und Wieland</TITLE>. In: Etudes germaniques 20 (1965) S. 161-171.</P>
+<P id="jg81108" rend="Absatzhaengend">Erxleben, Maria: Goethes Farce <TITLE type="Goethewerk">G&ouml;tter, Helden und Wieland</TITLE>. In: Christoph Martin Wieland und die Antike. Stendal 1986. S. 77-87.</P>
+<P id="jg81109" rend="Absatzhaengend">K&ouml;hler, Reinhold: Harlekins Hochzeit und Goethes <TITLE type="Goethewerk">Hanswursts Hochzeit</TITLE>. In: Zeitschrift f&uuml;r deutsches Altertum 20 (1876) S. 119-126.</P>
+<P id="jg81110" rend="Absatzhaengend">Morris, Max: Prometheus und Hanswurst. In: Morris, Max: Goethe-Studien. 2 Bde. Berlin 1897-98. - 2., ver&auml;nd. Aufl. 1902. Bd. 1. S. 237-248.</P>
+<P id="jg81111" rend="Absatzhaengend">Wilmanns, Wilhelm: Goethe's <TITLE type="Goethewerk">Jahrmarktsfest zu Plundersweilern</TITLE>. In: Preu&szlig;ische Jahrb&uuml;cher Bd. 42 (1878) S. 42-74.</P>
+<P id="jg81112" rend="Absatzhaengend">Herrmann, Max: Das <TITLE type="Goethewerk">Jahrmarktsfest zu Plundersweilern</TITLE>. Entstehungs- und B&uuml;hnengeschichte. Nebst einer kritischen Ausgabe des Spiels und ungedruckten Versen Goethes, sowie Bildern und Notenbeilagen. Berlin 1900.</P>
+<P id="jg81113" rend="Absatzhaengend">Minor, Jacob: Zu Goethes <TITLE type="Goethewerk">Jahrmarktsfest zu Plundersweilern</TITLE>. In: Studien zur vergleichenden Literaturgeschichte 3 (1903) S. 314-331.</P>
+<P id="jg81114" rend="Absatzhaengend">Spie&szlig;, [Heinrich?]: Die beiden Estherdramen im <TITLE type="Goethewerk">Jahrmarktsfest zu Plundersweilern</TITLE>. In: Germanisch-Romanische Monatsschrift 18 (1930) S. 354 -363.</P>
+<P id="jg81115" rend="Absatzhaengend">Weinryb, Berek: Goethe und die jiddischen Estherspiele. In: The Journal of English and Germanic Philology 33 (1934) S. 388-395.</P>
+<P id="jg81116" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Die Datierung des Estherspiels in Alexandrinern. In: Goethe 29 (1967) S. 191-197.</P>
+<P id="jg81117" rend="Absatzhaengend">Boetcher Joeres, Ruth: "Hereinspaziert! hereinspaziert!" Goethe and Hacks at the <TITLE type="Goethewerk">Jahrmarktsfest zu Plundersweilern</TITLE>. In: Germanic Review 51 (1976) S. 259-277.</P>
+<P id="jg81118" rend="Absatzhaengend">M&uuml;ller, Klaus-Detlef: Hans Sachs und die "Poesie des Tages". Zu Goethes Jahrmarktsfest in Plundersweilern. In: Festschrift f&uuml;r Walter Haug und BurghartWachinger. Hrsg. von Johannes Janota. Bd. 2. T&uuml;bingen 1992. S. 915-924.</P>
+<P id="jg81119" rend="Absatzhaengend">Hensing, Dieter: <TITLE type="Goethewerk">Das Jahrmarktsfest zu Plundersweilern</TITLE>. (Von Goethe zu Hacks.) In: Der Deutschunterricht 36 (1984) H. 1. S. 60-72.</P>
+<P id="jg81120" rend="Absatzhaengend">Feise, Ernst: Rosts Sendschreiben an Gottsched als Ansto&szlig; zu <TITLE type="Goethewerk">Pater Brey</TITLE>. In: Publications of the Modern Language Association 57 (1942) S. 169-174.</P>
+<P id="jg81121" rend="Absatzhaengend">Matthias, Theodor: Herder- Satyros. In: Zeitschrift f&uuml;r den deutschen Unterricht 16 (1902) S. 110-128.</P>
+<P id="jg81122" rend="Absatzhaengend">B&auml;umer, Gertrud: Goethes <TITLE type="Goethewerk">Satyros</TITLE>. Eine Studie zur Entstehungsgeschichte. Leipzig 1905.</P>
+<P id="jg81123" rend="Absatzhaengend">Schneider, Ferdinand Josef: Goethes <TITLE type="Goethewerk">Satyros</TITLE> und der <TITLE type="Goethewerk">Urfaust</TITLE>. Halle 1949.</P>
+<P id="jg81124" rend="Absatzhaengend">Wolff, Hans M.: <TITLE type="Goethewerk">Satyros</TITLE>. In: Germanic Review 24 (1949) S. 168-176.</P>
+<P id="jg81125" rend="Absatzhaengend">Friederici, Hans: Goethes <TITLE type="Goethewerk">Satyros</TITLE> und die Grenzen der Pers&ouml;nlichkeit. In: Wissenschaftliche Zeitschrift der Universit&auml;t Potsdam 9 (1965) S. 41-44.</P>
+<P id="jg81126" rend="Absatzhaengend">Stern, Martin: <TITLE type="Goethewerk">Satyros oder der verg&ouml;tterte Waldteufel</TITLE>. Ambivalenz und Dialektik im Kulturkonzept des jungen Goethe. In: Jahrbuch des Wiener Goethe-Vereins 81/83 (1977/79) S. 89-102.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81127"><HEAD>Prometheus, Mahomet (Drama)</HEAD>
+<P id="jg81128"></P>
+<P id="jg81129" rend="Absatzhaengend">Wutrich, Timothy Richart: Prometheus und Faust. The Promethean revolt in drama drom classical antiquity to Goethe. Westport und London 1995.</P>
+<P id="jg81130" rend="Absatzhaengend">Morris, Max: <TITLE type="Goethewerk">Prometheus</TITLE> und Hanswurst. In: Morris, Max: Goethe-Studien. 2 Bde. Berlin 1897-98. - 2., ver&auml;nd. Aufl. 1902. 21902 Bd. 1. S. 237-248.</P>
+<P id="jg81131" rend="Absatzhaengend">Saran, Franz: Goethes <TITLE type="Goethewerk">Mahomet</TITLE> und <TITLE type="Goethewerk">Prometheus</TITLE>. Halle 1914. Repr. Walluf 1975.</P>
+<P id="jg81132" rend="Absatzhaengend">Richter, Julius: Zur Deutung der Goetheschen Promethensdichtung. In: Jahrbuch des Freien Deutschen Hochstifts 1928. S. 65-104.</P>
+<P id="jg81133" rend="Absatzhaengend">Fuchs, Albert: Le <TITLE type="Goethewerk">Prometheus</TITLE>-Fragment, apog&eacute;e et d&eacute;passement du Sturm und Drang Goeth&eacute;en. In: Bulletin de la Facult&eacute; des Lettres de l'Universit&eacute; de Strasbourg 30 (1951) S. 203-211. - Dt. (&uuml;berarb.): Das Prometheus-Fragment. Irrtum, Not und Erl&ouml;sung. In: Fuchs, Albert: Goethe-Studien. Berlin 1968. S. 1-15. Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 125-138.</P>
+<P id="jg81134" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Die Minervagestalt in Goethes <TITLE type="Goethewerk">Prometheus</TITLE>. In: Goethe 16 (1954) S. 161-171.</P>
+<P id="jg81135" rend="Absatzhaengend">Heselhaus, Clemens: <TITLE type="Goethewerk">Prometheus</TITLE> und <TITLE type="Goethewerk">Pandora</TITLE>. Zu Goethes Metamorphose-Dichtungen. In: Festschrift f&uuml;r Jost Trier. Hrsg. von Benno von Wiese [...]. Meisenheim 1954. S. 219-253.</P>
+<P id="jg81136" rend="Absatzhaengend">Burckhardt, Sigurd: Sprache als Gestalt in Goethes <TITLE type="Goethewerk">Prometheus</TITLE> und <TITLE type="Goethewerk">Pandora</TITLE>. In: Euphorion 50 (1956) S. 162-176. Engl. in: Burckhardt, Sigurd: The Drama of Language. Essays on Goethe and Kleist. Baltimore 1970. S. 16-32.</P>
+<P id="jg81137" rend="Absatzhaengend">Grappin, Pierre: Goethe et le mythe de Prometh&eacute;e. In: Etudes germaniques 20 (1965) S. 243-258.</P>
+<P id="jg81138" rend="Absatzhaengend">Metscher, Thomas: <TITLE type="Goethewerk">Prometheus</TITLE>. Zum Verh&auml;ltnis von b&uuml;rgerlicher Literatur und materieller Produktion. In: Deutsches B&uuml;rgertum und literarische Intelligenz 1750-1800. Hrsg. von Bernd Lutz. Stuttgart 1974. S. 385-453.</P>
+<P id="jg81139" rend="Absatzhaengend">Marhold, Hartmut: <TITLE type="Goethewerk">Prometheus</TITLE> und <TITLE type="Goethewerk">Werther</TITLE>. In: Literatur in Wissenschaft und Unterricht 16 (1983) S. 97-108.</P>
+<P id="jg81140" rend="Absatzhaengend">Minor, Jacob: Goethes <TITLE type="Goethewerk">Mahomet</TITLE>. Jena 1907.</P>
+<P id="jg81141" rend="Absatzhaengend">Petsch, Robert: Zu Goethes <TITLE type="Goethewerk">Mahomet</TITLE>. In: Zeitschrift f&uuml;r den deutschen Unterricht 29 (1915) S. 673-693.</P>
+<P id="jg81142" rend="Absatzhaengend">Staiger, Emil: Goethes <TITLE type="Goethewerk">Mahomet</TITLE>. In: Trivium 7 (1949) S. 187 bis 199.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81143"><HEAD>G&ouml;tz von Berlichingen</HEAD>
+<P id="jg81144"></P>
+<P id="jg81145" rend="Absatzhaengend">Berlichingen, Gottfried von: Lebens-Beschreibung Herrn G&ouml;zens von Berlichingen [...]. N&uuml;rnberg 1731. 21775. Repr. der Erstaufl. Hildesheim 1977. - Dass. Nach der Ausgabe von 1731 hrsg. von Albert Leitzmann. Halle 1916.</P>
+<P id="jg81146" rend="Absatzhaengend">Buck, Theo: Goethes Erneuerung des Dramas. <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> in heutiger Sicht. In: Johann Wolfgang von Goethe. Hrsg. von Heinz Ludwig Arnold. M&uuml;nchen 1982. S. 33-42.</P>
+<P id="jg81147" rend="Absatzhaengend">B&uuml;rger, Christa: Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> und die Jugendrevolte von 1770. In: Allerhand Goethe. Seine wissenschaftliche Sendung, aus Anla&szlig; des 150. Todestages [...] hrsg. von Dieter Kimpel [...]. Bern 1985. S. 207-220.</P>
+<P id="jg81148" rend="Absatzhaengend">Erl&auml;uterungen und Dokumente: Johann Wolfgang Goethe, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. Hrsg. von Volker Neuhaus. Stuttgart 1973 [u. &ouml;.].</P>
+<P id="jg81149" rend="Absatzhaengend">Fell, Christa: Justus M&ouml;ser's Social Ideas as Mirrored in Goethe's <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Germanic Review 54 (1979) S. 98-103.</P>
+<P id="jg81150" rend="Absatzhaengend">Gerstenberg, Ekkehard: Recht und Unrecht in Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Goethe 16 (1954) S. 258-271.</P>
+<P id="jg81151" rend="Absatzhaengend">Gilli, Marita: L'utilisation de l'histoire dans <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Sujet, texte, histoire. Paris 1981. S. 31-55.</P>
+<P id="jg81152" rend="Absatzhaengend">Graham, Ilse: <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>'s Right Hand. In: German Life and Letters 16 (1962/63) S. 212-228. - &Uuml;berarb. u. d. T.: <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>'s Dead Hand. In: Graham, Ilse: Goethe and Lessing. The Wellsprings of Creation. London 1973. S. 30-47.</P>
+<P id="jg81153" rend="Absatzhaengend">Graham, Ilse: Vom Urg&ouml;tz zum G&ouml;tz. Neufassung oder Neusch&ouml;pfung? In: Jahrbuch der Deutschen Schillergesellschaft 9 (1965) S. 245-282. - Engl. (&uuml;berarb.): From <TITLE type="Goethewerk">Urg&ouml;tz</TITLE> to <TITLE type="Goethewerk">G&ouml;tz</TITLE>. A Torso Grown Old. In: Graham, Ilse: Goethe and Lessing. I'he Wellsprings of Creation. London 1973. S. 48-76.</P>
+<P id="jg81154" rend="Absatzhaengend">Gro&szlig;e, Wilhelm: Johann Wolfgang Goethe, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>: Interpretation. M&uuml;nchen 1993 (Oldenbourg-Interpretationen 62).</P>
+<P id="jg81155" rend="Absatzhaengend">Haile, Harry G.: "Herr, er will uns fressen." The Spirit of <TITLE type="Goethewerk">G&ouml;tz</TITLE>. In: The Journal of English and Germanic Philology 64 (1965) S. 610-634.</P>
+<P id="jg81156" rend="Absatzhaengend">Ingen, Ferdinand van: Aporien der Freiheit: Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Verlorene Klassik. Hrsg. von Wolfgang Wittkowski. T&uuml;bingen 1986. S. 1-23.</P>
+<P id="jg81157" rend="Absatzhaengend">Martini, Fritz: Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. Charakterdrama und Gesellschaftsdrama. In: Dichter und Leser. Hrsg. von Ferdinand van Ingen [...]. Groningen 1972. S. 28-46. - Wiederabdruck in: F.M.: Geschichte im Drama. Drama in der Geschichte. Stuttgart 1979. S. 104-128.</P>
+<P id="jg81158" rend="Absatzhaengend">McInnes, Edward: Moral, Politik und Geschichte in Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Zeitschrift f&uuml;r deutsche Philologie 103 (1984) Sonderh. S. 2-20.</P>
+<P id="jg81159" rend="Absatzhaengend">Meyer-Benfey, Heinrich: Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. Weimar 1932.</P>
+<P id="jg81160" rend="Absatzhaengend">M&uuml;ller, Peter: Aber die Geschichte schweigt nicht. Goethes <TITLE type="Goethewerk">Geschichte Gottfriedens von Berlichingen mit der eisernen Hand, dramatisiert</TITLE> als Beginn der deutschen Geschichtsdramatik. In: Zeitschrift f&uuml;r Germanistik 8 (1987) S. 141-159.</P>
+<P id="jg81161" rend="Absatzhaengend">N&auml;gele Rainer: <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Goethes Dramen. Neue Interpretationen. Hrsg. von Walter Hinderer. Stuttgart 1980. S. 65-77.</P>
+<P id="jg81162" rend="Absatzhaengend">Neuhaus, Volker: Johann Wolfgang Goethe, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Geschichte als Schauspiel. Hrsg. von Walter Hinck. Frankfurt a. M. 1981. S. 82-100.</P>
+<P id="jg81163" rend="Absatzhaengend">Neumann, Editha S.: Die Lieder in <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. Eine stilanalytische Studie. In: German Quarterly 46 (1973) S. 334-344.</P>
+<P id="jg81164" rend="Absatzhaengend">Reiss, Hans: Goethe, M&ouml;ser and the Aufkl&auml;rung. The Holy Roman Empire in <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> and <TITLE type="Goethewerk">Egmont</TITLE>. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 60 (1986) S. 609-644.</P>
+<P id="jg81165" rend="Absatzhaengend">Rothe, Friedrich: G&ouml;tz oder Sickingen? Herders Kontroverse mit Goethe &uuml;ber <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Annali Istituto Universitario Orientale, Napoli. Sezione germanica. Studi tedeschi. 19 (1976) S. 127-140.</P>
+<P id="jg81166" rend="Absatzhaengend">Ryder, Frank G.: Toward a Revaluation of Goethe's G&ouml;tz. [I.] The Protagonist. [11.] Features of Recurrence. In: Publications of the Modern Language Association 77 (1962) S. 58-70; 79 (1964) S. 58-66.</P>
+<P id="jg81167" rend="Absatzhaengend">Schr&ouml;der, J&uuml;rgen: Individualit&auml;t und Geschichte im Drama des jungen Goethe. In: Sturm und Drang. Hrsg. von Walter Hinck. Kronberg 1978. S. 192-212. - Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 108-124.</P>
+<P id="jg81168" rend="Absatzhaengend">Schumann, Detlev W.: Goethe and Friedrich Carl von Moser. A Contribution to the Study of <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: The Journal of English and Germanic Philology 53 (1954) S. 1-22.</P>
+<P id="jg81169" rend="Absatzhaengend">Sengle, Friedrich: Das deutsche Geschichtsdrama. Stuttgart 1952.</P>
+<P id="jg81170" rend="Absatzhaengend">Teraoka, Arlene: Submerged Symmetry and Surface Chaos. The Structure of Goethe's <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Goethe Yearbook 2 (1984) S. 13-41.</P>
+<P id="jg81171" rend="Absatzhaengend">Wandrey, Conrad: Die Bedeutung der dichterischen Form und Goethes <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. In: Deutsche Rundschau Bd. 186 (1921) S. 84-92.</P>
+<P id="jg81172" rend="Absatzhaengend">Wells, George A.: <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE>. History, Drama, and Dramatic Effectiveness. In: Publications of the English Goethe Society N.S. 56 (1987) S. 74-96.</P>
+<P id="jg81173" rend="Absatzhaengend">Willems, Marianne: Das Problem der Individualit&auml;t als Herausforderung an die Semantik im Sturm und Drang: Studien zu Goethes <TITLE type="Goethewerk">Brief des Pastors zu *** an den neuen Pastor zu ***</TITLE>, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> und <TITLE type="Goethewerk">Clavigo</TITLE>. T&uuml;bingen 1995.</P>
+<P id="jg81174" rend="Absatzhaengend">Wittkowski, Wolfgang: Homo homini lupus, Homo homini Deus. <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> mit der eisernen Hand als Trag&ouml;die und als Drama gesellschaftlicher Aufkl&auml;rung und Emanzipation. In: Colloquia Germanica 20 (1987) S. 299-324.</P>
+<P id="jg81175" rend="Absatzhaengend">Zeitgen&ouml;ssische Rezensionen und Urteile &uuml;ber Goethes <TITLE type="Goethewerk">G&ouml;tz</TITLE> und <TITLE type="Goethewerk">Werther</TITLE>. Hrsg. von Hermann Blumenthal. Berlin 1935.</P>
+<P id="jg81176" rend="Absatzhaengend">Zimmermann, Rolf Christian: <TITLE type="Goethewerk">Geschichte Gottfriedens von Berlichingen</TITLE>. In: Zimmermann, Rolf Christian: Das Weltbild des jungen Goethe. Studien zur hermetischen Tradition des deutschen 18. Jahrhunderts. Bd. 2. M&uuml;nchen 1979. S. 39-76, 291-294.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81177"><HEAD>Clavigo</HEAD>
+<P id="jg81178"></P>
+<P id="jg81179" rend="Absatzhaengend">Fischer, Bernd: Goethes <TITLE type="Goethewerk">Clavigo</TITLE>: Das Melodrama des Bildungsb&uuml;rgers im Trauerspiel des Sturm und Drang. In: Goethe Yearbook 5 (1990). S. 47-64.</P>
+<P id="jg81180" rend="Absatzhaengend">Durrani, Osman: Die Diskussion &uuml;ber Goethes <TITLE type="Goethewerk">Clavigo</TITLE>. Ein Beitrag zur Abgrenzung der biographisch orientierten Goetheforschung. In: Goethe Jahrbuch 96 (1979) S. 84-100.</P>
+<P id="jg81181" rend="Absatzhaengend">Feise, Ernst: Zum Problem von Goethes <TITLE type="Goethewerk">Clavigo</TITLE>. In: E. F.: Xenion. Baltimore 1950. S. 66-76.</P>
+<P id="jg81182" rend="Absatzhaengend">Grempler, Georg: Goethes <TITLE type="Goethewerk">Clavigo</TITLE>. Erl&auml;uterung und literarhistorische W&uuml;rdigung. Halle 1911. Repr. Walluf 1973.</P>
+<P id="jg81183" rend="Absatzhaengend">Gustavson, Susan: Goethe's <TITLE type="Goethewerk">Clavigo</TITLE>. The body as an "unorthographic" sign. In: Body and text in the eighteenth century. Ed. by Veronica Kelly and Dorothea VanM&uuml;cke. Stanford 1994. S. 229-2446.</P>
+<P id="jg81184" rend="Absatzhaengend">Irmscher, Johannes: Zu Goethes <TITLE type="Goethewerk">Clavigo</TITLE>. II: Clavigo als gelehrter Korrespondent. In: Goethe Jahrbuch 90 (1973) S. 293-297.</P>
+<P id="jg81185" rend="Absatzhaengend">Leppmann, Wolfgang: <TITLE type="Goethewerk">Clavigo</TITLE>. In: Goethes Dramen. Neue Interpretationen. Hrsg. von Walter Hinderer. Stuttgart 1980. S. 78-88.</P>
+<P id="jg81186" rend="Absatzhaengend">M&uuml;ller, Klaus-Detlef: Goethes <TITLE type="Goethewerk">Clavigo</TITLE>. Das K&uuml;nstlerdrama im b&uuml;rgerlichen Trauerspiel. In: Aufkl&auml;rung als Problem und Aufgabe. Festschrift f&uuml;r Sven-Aage J&oslash;rgensen. Hrsg. von Klaus Bohnen und Per &Oslash;hrgaard. M&uuml;nchen und Kopenhagen 1994. S. 192-201.</P>
+<P id="jg81187" rend="Absatzhaengend">Otto, Regine: <TITLE type="Goethewerk">Clavigo</TITLE>. In: Goethe Jahrbuch 90 (1973) S. 22-36.</P>
+<P id="jg81188" rend="Absatzhaengend">Strohschneider-Kohrs, Ingrid: Goethes <TITLE type="Goethewerk">Clavigo</TITLE>. In: Goethe Jahrbuch 90 (1973) S. 37-56. - Wiederabdruck in: Gro&szlig;e, Wilhelm (Hrsg.): Zum jungen Goethe. Stuttgart 1982. S. 139-156.</P>
+<P id="jg81189" rend="Absatzhaengend">Willems, Marianne: Das Problem der Individualit&auml;t als Herausforderung an die Semantik im Sturm und Drang: Studien zu Goethes <TITLE type="Goethewerk">Brief des Pastors zu *** an den neuen Pastor zu ***</TITLE>, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> und <TITLE type="Goethewerk">Clavigo</TITLE>. T&uuml;bingen 1995.</P>
+<P id="jg81190" rend="Absatzhaengend">Witte, William: Enigma Variations on the Theme of <TITLE type="Goethewerk">Clavigo</TITLE>. In: Oxford German Studies 6 (1972) S. 50-60.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81191"><HEAD>Stella</HEAD>
+<P id="jg81192"></P>
+<P id="jg81193" rend="Absatzhaengend">Amwald, Andreas: Symbol und Metamorphose in Goethes <TITLE type="Goethewerk">Stella</TITLE>. Stuttgart 1971.</P>
+<P id="jg81194" rend="Absatzhaengend">Castle, Eduard: <TITLE type="Goethewerk">Stella</TITLE>. Ein Schauspiel f&uuml;r Liebende. In: Castle, Eduard: In Goethes Geist. Vortr&auml;ge und Aufs&auml;tze. Wien 1926. S. 104-130. - Wiederabdruck in: Jahrbuch des Wiener Goethe-Vereins 73 (1969) S. 125-146.</P>
+<P id="jg81195" rend="Absatzhaengend">Hess, G&uuml;nther H.: <TITLE type="Goethewerk">Stella</TITLE> und die <TITLE type="Goethewerk">Wahlverwandtschaften</TITLE>. In: Seminar 6 (1970) S. 216-224.</P>
+<P id="jg81196" rend="Absatzhaengend">Hillmann, Heinz: Goethes <TITLE type="Goethewerk">Stella</TITLE>. Probleme einer Liebesutopie im 18. Jahrhundert. In: Utopie und Krise. Hrsg. von Johannes Krogoll und Ivo Runtic. Zagreb 1993. S. 3-19.</P>
+<P id="jg81197" rend="Absatzhaengend">Kraft, Werner: &Uuml;ber Prosas&auml;tze von Goethe. 27. ["Wir sind dein."] In: Die Neue Rundschau 66 (1955) S. 273-280. - Wiederabdruck in: Kraft, Werner: Goethe. Wiederholte Spiegelungen aus f&uuml;nf Jahrzehnten. M&uuml;nchen 1986. S. 120-129.</P>
+<P id="jg81198" rend="Absatzhaengend">Leisering Konrad: Das <TITLE type="Goethewerk">Stella</TITLE>-Erlebnis Goethes. In: Goethe 5 (1940) S. 160-177.</P>
+<P id="jg81199" rend="Absatzhaengend">Metz, Adolf: <TITLE type="Goethewerk">Stella</TITLE>. Eine zusammenfassende Studie. In: Preu&szlig;ische Jahrb&uuml;cher Bd. 126 (1906) S. 52-71.</P>
+<P id="jg81200" rend="Absatzhaengend">Michaelis, Rolf: <TITLE type="Goethewerk">Stella</TITLE> oder der Mut zur Utopie. In: Literarische Wertung und &auml;sthetische Kommunikation. Hrsg. von Jutta Wermke. Frankfurt a. M. 1976. S. 34-36.</P>
+<P id="jg81201" rend="Absatzhaengend">Nutz, Maximilian: "Nur ein vern&uuml;nftig Wort." Lernprozesse des Herzens in Goethes Stella. In: Literatur f&uuml;r Leser (1985) S. 197-212.</P>
+<P id="jg81202" rend="Absatzhaengend">Pikulik, Lothar: <TITLE type="Goethewerk">Stella</TITLE>. Ein Schauspiel f&uuml;r Liebende. In: Goethes Dramen. Neue Interpretationen. Hrsg. von Walter Hinderer. Stuttgart 1980. S. 89-103.</P>
+<P id="jg81203" rend="Absatzhaengend">Redslob, Edwin: <TITLE type="Goethewerk">Stella</TITLE>. In: Redslob, Edwin: Schicksal und Dichtung. Goethe-Aufs&auml;tze. Hrsg. von Wieland Schmidt. Berlin 1985. S. 45-58.</P>
+<P id="jg81204" rend="Absatzhaengend">Schulz, Georg-Michael: Goethes <TITLE type="Goethewerk">Stella</TITLE>. Wirrnisse der Liebe und Gottes Gerechtigkeit. In: Germanisch-Romanische Monatsschrift N.F. 29 (1979) S. 416-442.</P>
+<P id="jg81205" rend="Absatzhaengend">Weber, Heinz-Dieter: <TITLE type="Goethewerk">Stella</TITLE> oder die Negativit&auml;t des Happy End. In: Rezeptionsgeschichte oder Wirkungs&auml;sthetik. Hrsg. von H.-D.W. Stuttgart 1978. S. 142-167.</P>
+<P id="jg81206" rend="Absatzhaengend">Willems, Marianne: <TITLE type="Goethewerk">Stella</TITLE>. Ein Schauspiel f&uuml;r Liebende. &Uuml;ber den Zusammenhang von Liebe, Individualit&auml;t und Kunstautonomie. In: Individualit&auml;t. Hrsg. von Karl Eibl und Marianne Willems. Hamburg 1996. S. 39-76 (Zs. Aufkl&auml;rung 9/2).</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81207"><HEAD>Singspiele</HEAD>
+<P id="jg81208"></P>
+<P id="jg81209" rend="Absatzhaengend">Borcherdt, Hans Heinrich: Die Entstehungsgeschichte von <TITLE type="Goethewerk">Erwin und Elmire</TITLE>. In: Goethe Jahrbuch 32 (1911) S. 73-82.</P>
+<P id="jg81210" rend="Absatzhaengend">B&ouml;tcher, Elmar: Goethes Singspiele <TITLE type="Goethewerk">Erwin und Elmire</TITLE> und <TITLE type="Goethewerk">Claudine von Villa Bella</TITLE> und die "opera buffa". Marburg 1912.</P>
+<P id="jg81211" rend="Absatzhaengend">Friedl&auml;nder, Max: Varianten zu <TITLE type="Goethewerk">Claudine von Villa Bella</TITLE>. In: Jahrbuch der Goethe-Gesellschaft 8 (1921) S. 52-60.</P>
+<P id="jg81212" rend="Absatzhaengend">Gould, Robert: <TITLE type="Goethewerk">Claudine von Villa Bella</TITLE> in <TITLE type="Goethewerk">Dichtung und Wahrheit</TITLE>. A Revised View. In: Carleton Germanic Papers 10 (1982) S. 69-71.</P>
+<P id="jg81213" rend="Absatzhaengend">Hirschberg, Leopold: Goethes Singspiele in der klassischen Musik. In: Zeitschrift f&uuml;r Musik 92 (1925) S. 409-417 510-515.</P>
+<P id="jg81214" rend="Absatzhaengend">Janowitz, Otto: Goethe als Librettist. In: German Life and Letters 9 (1955/56) S. 110-117, 265-276.</P>
+<P id="jg81215" rend="Absatzhaengend">Koch, Hans-Albrecht: Die Singspiele. In: Goethes Dramen. Neue Interpretationen. Hrsg. von Walter Hinderer. Stuttgart 1980. S. 42-64.</P>
+<P id="jg81216" rend="Absatzhaengend">Kohler, Stephan: Das Singspiel als dramatischer Formtypus: Goethe - Strauss - Hofmannsthal. In: Goethe im Kontext. Kunst und Humanit&auml;t, Naturwissenschaft und Politik von der Aufkl&auml;rung bis zur Restauration. Hrsg. von Wolfgang Wittkowski. T&uuml;bingen 1984. S. 181-192.</P>
+<P id="jg81217" rend="Absatzhaengend">Krogmann, Willy: Die pers&ouml;nlichen Beziehungen in Goethes Schauspiel mit Gesang <TITLE type="Goethewerk">Claudine von Villa Bella</TITLE>. In: Germanisch-Romanische Monatsschrift 19 (1931) S. 348-361.</P>
+<P id="jg81218" rend="Absatzhaengend">Treisch, Margarete: Goethes Singspiele in Kompositionen seiner Zeitgenossen. In: Wissenschaftliche Zeitschrift der Universit&auml;t Berlin 3 (1953/54) S. 253 bis 270.</P>
+<P id="jg81219" rend="Absatzhaengend">Weilen, Alexander von: <TITLE type="Goethewerk">Erwin und Elmire</TITLE>. In: Chronik des Wiener Goethe-Vereins 28 (1915) S. 18-23.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81220"><HEAD>Urfaust</HEAD>
+<P id="jg81221"></P>
+<P id="jg81222" rend="Absatzhaengend">Beutler, Ernst: Der Frankfurter <TITLE type="Goethewerk">Faust</TITLE>. In: Jahrbuch des Freien Deutschen Hochstifts 1936-40. S. 594-686.</P>
+<P id="jg81223" rend="Absatzhaengend">Beutler, Ernst: Die Kindsm&ouml;rderin. Ein Fund im Frankfurter Goethehaus. In: Beutler, Ernst: Essays um Goethe. Leipzig 1941. Wiesbaden 41948. Bd. 2. Wiesbaden 1947.- 7., verm. Aufl. Z&uuml;rich 1980.</P>
+<P id="jg81224" rend="Absatzhaengend">Binder, Wolfgang: Die Einheit der Faustgestalt im <TITLE type="Goethewerk">Urfaust</TITLE>. In: Wirkendes Wort 33 (1983) S. 4-18.</P>
+<P id="jg81225" rend="Absatzhaengend">Browning, Robert M.: On the Structure of the <TITLE type="Goethewerk">Urfaust</TITLE>. In: Publications of the Modern Language Association 68 (1953) S. 458-495.</P>
+<P id="jg81226" rend="Absatzhaengend">Burdach, Konrad: Exkurs &uuml;ber den Schlu&szlig; des <TITLE type="Goethewerk">Schwager Kronos</TITLE> und den Ausgang des <TITLE type="Goethewerk">Urfaust</TITLE>. In: Burdach, Konrad: Vorspiel. Bd. 2: Goethe und sein Zeitalter. Halle 1926. S. 324-332.</P>
+<P id="jg81227" rend="Absatzhaengend">Dieckmann, Friedrich: Ann&auml;herung an <TITLE type="Goethewerk">Urfaust</TITLE>. In: Sinn und Form 36 (1984) S. 853-859.</P>
+<P id="jg81228" rend="Absatzhaengend">Dietze, Walter: Metaphorik und Realit&auml;t. &Uuml;ber die Kunst erkenntnistheoretischen Monologisierens bei Goethe und Herder. In: Dietze, Walter: Kleine Welt, gro&szlig;e Welt. Aufs&auml;tze &uuml;ber Goethe. Berlin 1982. S. 38-S0, 165-168. [Zum Eingangsmonolog.].</P>
+<P id="jg81229" rend="Absatzhaengend">Erl&auml;uterungen und Dokumente: Johann Wolfgang Goethe, <TITLE type="Goethewerk">Urfaust</TITLE>. Hrsg. von Ulrich Gaier. Stuttgart 1989.</P>
+<P id="jg81230" rend="Absatzhaengend">Faletti, Heidi: The Storm-and-Stress Idiom of Elegiacal Madness in Goethe's "Gretchen Tragedy" and B&uuml;chner's Woyzeck. In: Euphorion 82 (1988) S. 443-457.</P>
+<P id="jg81231" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Zur Datierung der &auml;ltesten Szenen des <TITLE type="Goethewerk">Urfaust</TITLE>. In: Zeitschrift f&uuml;r deutsche Philologie 76 (1957) S. 379-406.</P>
+<P id="jg81232" rend="Absatzhaengend">Gaier, Ulrich: Goethes <TITLE type="Goethewerk">Faust</TITLE>-Dichtungen. Ein Kommentar. Bd.1: Urfaust. Stuttgart 1989.</P>
+<P id="jg81233" rend="Absatzhaengend">Graham, Ilse: "Geeinte Zwienatur"? On the Structure of Goethe's <TITLE type="Goethewerk">Urfaust</TITLE>. In: Tradition and Creation. Ed by Charles P Magill [...]. Leeds 1978. Festschrift f&uuml;r E. M. Wilkinson. S. 131-145.</P>
+<P id="jg81234" rend="Absatzhaengend">Grumach, Ernst: Zum <TITLE type="Goethewerk">Urfaust</TITLE>. In: Goethe 16 (1954) S. 135-142.</P>
+<P id="jg81235" rend="Absatzhaengend">Harnack, Otto: Zur Prosaszene des <TITLE type="Goethewerk">Faust</TITLE>. In: Euphorion 8 (1901) S. 681-684.</P>
+<P id="jg81236" rend="Absatzhaengend">Heimann, Boris: Die Erdgeistszene im <TITLE type="Goethewerk">Urfaust</TITLE> als lyrisches Monodrama. In: Germanisch-Romanische Monatsschrift 14 (1926) S. 110-126.</P>
+<P id="jg81237" rend="Absatzhaengend">Heiseler, Bernt von: &Uuml;ber die M&ouml;glichkeiten des Verses. Goethes "Kerkerszene" in der urspr&uuml;nglichen und in der endg&uuml;ltigen Gestalt. In: Muttersprache 59 (1949) S. 39-48.</P>
+<P id="jg81238" rend="Absatzhaengend">Henning, Hans: Faust-Variationen. Beitr&auml;ge zur Editionsgeschichte vom 16. bis zum 20. Jahrhundert. M&uuml;nchen u. a. 1993.</P>
+<P id="jg81239" rend="Absatzhaengend">Krogmann, Willy: Goethes <TITLE type="Goethewerk">Urfaust</TITLE>. Berlin 1933. Repr. Nendeln 1967.</P>
+<P id="jg81240" rend="Absatzhaengend">Leben und Sterben der Kindsm&ouml;rderin Margaretha Brandt. Nach den Proze&szlig;akten der Kaiserl. Freien Reichsstadt Frankfurt a.M., den sogenannten Criminalia 1771, dargest. von Siegfried Birkner. Frankfurt a. M. 1973.</P>
+<P id="jg81241" rend="Absatzhaengend">Mahal, G&uuml;nther: Faust und Frankfurt. Anst&ouml;&szlig;e, Reaktionen, Verkn&uuml;pfungen, Reibungen. Frankfurt a. M. 1994.</P>
+<P id="jg81242" rend="Absatzhaengend">Maier, Hans Albert: Goethes Phantasiearbeit am Fauststoff im Jahre 1771. In: Publications of the Modern Language Association 67 (1952) S. 125-147.</P>
+<P id="jg81243" rend="Absatzhaengend">Marache, Maurice: Fr&eacute;derike Brion et <TITLE type="Goethewerk">l'Urfaust</TITLE>. In: Revue d'Allemagne 3 (1971) S. 179-186.</P>
+<P id="jg81244" rend="Absatzhaengend">Michels, Victor: Das Motiv des Schlaftrunks im <TITLE type="Goethewerk">Urfaust</TITLE>. In: Funde und Forschungen. Festschrift f&uuml;r J. Wahle. Hrsg. von Werner Deetjen [...]. Leipzig 1921. S. 63-71.</P>
+<P id="jg81245" rend="Absatzhaengend">Minor, Jacob: Goethes <TITLE type="Goethewerk">Faust</TITLE>. Entstehungsgeschichte und Erkl&auml;rung. Bd.1: Der <TITLE type="Goethewerk">Urfaust</TITLE> und das Fragment. Stuttgart 1901.</P>
+<P id="jg81246" rend="Absatzhaengend">Morris, Max: Die Form des <TITLE type="Goethewerk">Urfaust</TITLE>. In: Morris, Max: Goethe-Studien. 2 Bde. Berlin 1897-98. 2., ver&auml;nd. Aufl. 1902. 21902. Bd. 1 S. 1-12.</P>
+<P id="jg81247" rend="Absatzhaengend">Nollendorfs, Valters: Der Streit um den <TITLE type="Goethewerk">Urfaust</TITLE>. The Hague 1967.</P>
+<P id="jg81248" rend="Absatzhaengend">Pilz, Georg: Johann Wolfgang Goethe: Gretchentrag&ouml;die (aus <TITLE type="Goethewerk">Urfaust</TITLE>). In: G. P.: Deutsche Kindesmord-Trag&ouml;dien. M&uuml;nchen 1982. S. 45-64, 127f., 134f.</P>
+<P id="jg81249" rend="Absatzhaengend">Pniower, Otto: Die Szene "Auerbachs Keller" im <TITLE type="Goethewerk">Urfaust</TITLE>. In: Funde und Forschungen. Festschrift f&uuml;r J. Wahle. Hrsg. von Werner Deetjen [...]. Leipzig 1921. S. 79-91.</P>
+<P id="jg81250" rend="Absatzhaengend">Politzer, Heinz: Gretchen im <TITLE type="Goethewerk">Urfaust</TITLE>. In: Monatshefte f&uuml;r den deutschen Unterricht (Universit&auml;t Wisconsin) 49 (1957) S. 49-64. - Wiederabdruck in: H.P.: Das Schweigen der Sirenen. Stuttgart 1968. S. 312-338.</P>
+<P id="jg81251" rend="Absatzhaengend">Reich, Helgard: Die Entstehung der ersten f&uuml;nf Szenen des Goetheschen <TITLE type="Goethewerk">Urfaust</TITLE>. M&uuml;nchen 1968.</P>
+<P id="jg81252" rend="Absatzhaengend">Richter, Julius: Der Charakter des Mephistopheles im <TITLE type="Goethewerk">Urfaust</TITLE>. In: Neue Jahrb&uuml;cher f&uuml;r das klassische Altertum, Geschichte und deutsche Literatur Bd. 41 (1918) S. 204-224.</P>
+<P id="jg81253" rend="Absatzhaengend">Roethe, Gustav: Die Entstehung des <TITLE type="Goethewerk">Urfaust</TITLE>. In: Sitzungsberichte der Preu&szlig;ischen Akademie der Wissenschaften. Phil.-hist. Klasse (1920) S. 642-678. - Wiederabdruck in: Roethe, Gustav: Goethe. Gesammelte Vortr&auml;ge und Aufs&auml;tze. Berlin 1932. S. 49 bis 92.</P>
+<P id="jg81254" rend="Absatzhaengend">Sarauw; Christian: Die Entstehungsgeschichte des Goethischen <TITLE type="Goethewerk">Faust</TITLE>. Kopenhagen 1917.</P>
+<P id="jg81255" rend="Absatzhaengend">Saviane, Renato: <TITLE type="Goethewerk">Faust</TITLE> tra Mefistofele e lo spirito della terra. (Il problema dell' azzione nell' <TITLE type="Goethewerk">Urfaust</TITLE> di Goethe.) In: Annali Istituto Universitario Orientale, Napoli. Sezione germanica. Studi tedeschi. 17 (1974) S. 7-85.</P>
+<P id="jg81256" rend="Absatzhaengend">Schneider, Ferdinand Josef: Goethes <TITLE type="Goethewerk">Satyros</TITLE> und der <TITLE type="Goethewerk">Urfaust</TITLE>. Halle 1949.</P>
+<P id="jg81257" rend="Absatzhaengend">Skreb, Zdenko: Stilprobleme des <TITLE type="Goethewerk">Urfaust</TITLE>. In: Filoloski pregled (Beograd) 7 (1969) S. 1-17.</P>
+<P id="jg81258" rend="Absatzhaengend">Walheim, Alfred: Studien zum <TITLE type="Goethewerk">Urfaust</TITLE>. In: Chronik des Wiener Goethe-Vereins 45 (1940) S. 1-10; 46 (1941) S. 21-29; 47 (1942) S. 18-35; 48/50 (1946) S. 3-46; 51 (1947) S. 31-58; 54 (1950) S. 14-23; 55 (1951) S. 8-27.</P>
+<P id="jg81259" rend="Absatzhaengend">Weber, Beat: Gretgen. In: B. W.: Die Kindsm&ouml;rderin im deutschen Schrifttum von 1770-1795. Bonn 1974. S. 109-153.</P>
+<P id="jg81260" rend="Absatzhaengend">Zimmermann, Rolf Christian: <TITLE type="Goethewerk">Urfaust</TITLE>. In: Zimmermann, Rolf Christian: Das Weltbild des jungen Goethe. Studien zur hermetischen Tradition des deutschen 18. Jahrhunderts. Bd. 2. M&uuml;nchen 1969-1979. S. 235-286, 321-328.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81261"><HEAD>Kleine Prosa</HEAD>
+<P id="jg81262"></P>
+<P id="jg81263" rend="Absatzhaengend">Waldman, Mark: Goethe und das Judendeutsch. In: The Germanic Review 4 (1929) S. 123-130.</P>
+<P id="jg81264" rend="Absatzhaengend">Marchand, J.W.: Goethes 'Judenpredigt'. In: Monatshefte f&uuml;r den deutschen Unterricht 50 (1959) S. 305ff.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81265"><HEAD>Werther-Materialien</HEAD>
+<P id="jg81266"></P>
+<P id="jg81267" rend="Absatzhaengend">Appell, Johann Wilhelm: <TITLE type="Goethewerk">Werther</TITLE> und seine Zeit. Zur Goethe-Literatur. Leipzig 1855. - 4., verb. und verm. Aufl. Oldenburg 1896.</P>
+<P id="jg81268" rend="Absatzhaengend"><TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. Goethes Roman im Spiegel seiner Zeit. Eine Ausstellung des Goethe-Museums D&uuml;sseldorf [...]. Hrsg. von J&ouml;rn G&ouml;res. D&uuml;sseldorf 1972.</P>
+<P id="jg81269" rend="Absatzhaengend">Erl&auml;uterungen und Dokumente: Johann Wolfgang Goethe, <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. Hrsg. von Kurt Rothmann. Stuttgart 1971 [u. &ouml;.].</P>
+<P id="jg81270" rend="Absatzhaengend">Berend, Eduard (Hrsg.): Goethe, Kestner und Lotte. M&uuml;nchen 1914.</P>
+<P id="jg81271" rend="Absatzhaengend">Goethes <TITLE type="Goethewerk">Werther</TITLE> als Modell f&uuml;r kritisches Lesen. Materialien zur Rezeptionsgeschichte. Zusammengest. und eingel. von Karl Hotz. Stuttgart 1974.</P>
+<P id="jg81272" rend="Absatzhaengend">Insel Almanach auf das Jahr 1973: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. Goethes <TITLE type="Goethewerk">Werther</TITLE> als Schule der Leidenschaften. Frankfurt a. M. 1972.</P>
+<P id="jg81273" rend="Absatzhaengend">J&auml;ger, Georg: Die Leiden des alten - und des neuen <TITLE type="Goethewerk">Werther</TITLE>: Kommentare, Abbildungen, Materialien zu Goethes <TITLE type="Goethewerk">Leiden des jungen Werthers</TITLE> und Plenzdorfs Neuen <TITLE type="Goethewerk">Leiden des jungen Werthers</TITLE>. M&uuml;nchen 1984.</P>
+<P id="jg81274" rend="Absatzhaengend">Scherpe, Klaus: <TITLE type="Goethewerk">Werther</TITLE> und Wertherwirkung. Zum Syndrom b&uuml;rgerlicher Gesellschaftsordnung im 18. Jahrhundert. Bad Homburg 1970. Wiesbaden 31980.</P>
+<P id="jg81275" rend="Absatzhaengend">W&ouml;rterbuch zu Goethes <TITLE type="Goethewerk">Werther</TITLE>. Begr. von Erna Merker [...], fortgef. und vollendet von Isabel Engel. Berlin 1966. [In Lfgn. seit 1958.]</P>
+<P id="jg81276" rend="Absatzhaengend">Zeitgen&ouml;ssische Rezensionen und Urteile &uuml;ber Goethes <TITLE type="Goethewerk">G&ouml;tz</TITLE> und <TITLE type="Goethewerk">Werther</TITLE>. Hrsg. von Hermann Blumenthal. Berlin 1935.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81277"><HEAD>Werther-Studien</HEAD>
+<P id="jg81278" rend="Absatzhaengend"><LB></P>
+<P id="jg81279" rend="Absatzhaengend">Abbott, Scott: The semiotics of young Werther. In: Goethe Yearbook 6 (1992) S. 41-65.</P>
+<P id="jg81280" rend="Absatzhaengend">Adler, Gabriele: Die Darstellung des Suizids in der deutschsprachigen Literatur seit Goethe. Halle 1992.</P>
+<P id="jg81281" rend="Absatzhaengend">Alewyn, Richard: "Klopstock!" In: Euphorion 73 (1979) S. 357-364.</P>
+<P id="jg81282" rend="Absatzhaengend">Anstett, Jean-Jacques: La crise religieuse de Werther. In: Etudes germaniques 4 (1949) S. 121-128.</P>
+<P id="jg81283" rend="Absatzhaengend">Atkins, Stuart: J. C. Lavater and Goethe. Problems of Psychology and Theology in <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: Publications of the Modern Language Association 63 (1948) S. 520-576.</P>
+<P id="jg81284" rend="Absatzhaengend">Atkins, Stuart: The Apprentice Novelist. Goethe's Letters, 1765-1767. In: Modern Language Quarterly 10 (1949) S. 290-306.</P>
+<P id="jg81285" rend="Absatzhaengend">Ayrault, Roger: <TITLE type="Goethewerk">Werther</TITLE>. In: Goethe. Etudes publi&eacute;es pour le centenaire de sa mort [...] sous les auspices de la Facult&eacute; des Lettres de l'Universit&eacute; de Strasbourg par Roger Ayrault [...]. Paris1932. S. 95-111.</P>
+<P id="jg81286" rend="Absatzhaengend">Bach, Anneliese: &Uuml;ber Goethes <TITLE type="Goethewerk">Werther</TITLE>. Eine Studie zum Aufbau der Dichtung. In: Dem T&uuml;chtigen ist diese Welt nicht stumm. Beitr&auml;ge zum Goethe-Bild. Jena 1949. Festschrift der Stadt und der Universit&auml;t Jena. S. 51-63.</P>
+<P id="jg81287" rend="Absatzhaengend">Batley, Edward M.: Werther's final act of alienation : Goethe, Lessing, and Jerusalem on the poetry and the truth of suicide. In: The Modern Language Review 87 (1992) S. 868-878.</P>
+<P id="jg81288" rend="Absatzhaengend">Baudry, Jean: Lire <TITLE type="Goethewerk">Werther</TITLE>. In: Revue hebdomadaire 41, X (1932) S. 433-448.</P>
+<P id="jg81289" rend="Absatzhaengend">Bennett, Benjamin: Goethe's <TITLE type="Goethewerk">Werther</TITLE>. Double Perspective and the Game of Life. In: German Quarterly 53 (1980) S. 64-81.</P>
+<P id="jg81290" rend="Absatzhaengend">Beutler, Ernst: "Wertherfragen". In: Viermonatsschrift der Goethe-Gesellschaft 5 (1940) S. 138-144.</P>
+<P id="jg81291" rend="Absatzhaengend">Bobsin, Julia: Von der Werther-Krise zur Lucinde-Liebe. Studien zur Liebessemantik in der deutschen Erz&auml;hlliteratur 1770-1800. T&uuml;bingen 1994.</P>
+<P id="jg81292" rend="Absatzhaengend">Brinkmann, Richard: Goethes <TITLE type="Goethewerk">Werther</TITLE> und Gottfried Arnolds Kirchen- und Ketzerhistorie. Zur Aporie des modernen Individualit&auml;tsbegriffs. In: Versuche zu Goethe. Festschrift f&uuml;r E. Heller. Hrsg. von Volker D&uuml;rr [...]. Heidelberg 1976. S. 167-189. - Wiederabdruck in: R. B.: Wirklichkeiten. T&uuml;bingen 1982. S. 91-126, 379-382.</P>
+<P id="jg81293" rend="Absatzhaengend">Br&uuml;ggemann, Fritz: <TITLE type="Goethewerk">Werthers Leiden</TITLE>, eine Analyse. In: F. B.: Die Ironie als entwicklungsgeschichtliches Moment. Jena 1909. S. 39-56.</P>
+<P id="jg81294" rend="Absatzhaengend">Buhr, Gerhard: Goethe - <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE> und der Roman des Sturm und Drang. In: Handbuch des deutschen Romans. Hrsg. von Helmut Koopmann. D&uuml;sseldorf 1993. S. 226 - 243, 618-621.</P>
+<P id="jg81295" rend="Absatzhaengend">Buhr, Gerhard: Goethe - <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE> und der Roman des Sturm und Drang. In: Handbuch des deutschen Romans. Hrsg. von Helmut Koopmann. D&uuml;sseldorf 1993. S. 226 - 243, 618-621.</P>
+<P id="jg81296" rend="Absatzhaengend">Buhr, Gerhard: &Uuml;ber die Daten der Briefe in Goethes Roman 'Die Leiden des jungen Werthers'. In: Text 2 (1996) S. 19-45.</P>
+<P id="jg81297" rend="Absatzhaengend">Burger, Heinz Otto: Die Geschichte der unvergn&uuml;gten Seele. Ein Entwurf. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 34 (1960) S. 1-20. - Wiederabdruck in: H. O. B.: Dasein hei&szlig;t eine Rolle spielen. M&uuml;nchen 1963. S. 120-143.</P>
+<P id="jg81298" rend="Absatzhaengend">Castello, Maria L.: Schw&auml;rmertum und Gewalt in Goethes 'Werther', Tiecks 'William Lovell' und B&uuml;chners 'Lenz'. W&uuml;rzburg 1993. </P>
+<P id="jg81299" rend="Absatzhaengend">Christ, Kurt: Von Goethes 'Werther' zu Jacobis 'Woldemar': ein biograph. Abri&szlig; im Spannungsfeld der Rheinreisen Goethes von 1772 und 1774. In: Philobiblon 37 (1993) S. 350-372.</P>
+<P id="jg81300" rend="Absatzhaengend">Cohn Dani&egrave;le: Oublier Werther. In: Le printemps des g&eacute;nies. Les enfants prodiges. &Eacute;d. par Mich&egrave;le Sacquin. Paris 1993. S. 183-195.</P>
+<P id="jg81301" rend="Absatzhaengend">Corbineau-Hoffmann, Angelika: "Discours de la passion" als Selbstaussage : Goethe, 'Die Leiden des jungen Werthers', Rousseau, 'Julie ou la Nouvelle H&eacute;lo&iuml;se', Richardson, 'Pamela'. In: Colloquium Helveticum 15 (1992) S. 27-52.</P>
+<P id="jg81302" rend="Absatzhaengend">Corbineau-Hoffmann, Angelika: "Discours de la passion" als Selbstaussage. Goethe, Die Leiden des jungen Werthers, Rousseau, "Julie ou la nouvelle H&eacute;lo&iuml;se", Richardson, "Pamela". In: Colloquium Helveticum. H. 15. 1992. S. 27-52.</P>
+<P id="jg81303" rend="Absatzhaengend">Crocker, Lester: The Discussion of Suicide in the Eighteenth Century. In: Journal of the History of Ideas 13 (1952) S. 47-72.</P>
+<P id="jg81304" rend="Absatzhaengend">Davis, William S.: The intensification of the body in Goethe's 'Die Leiden des jungen Werther'. In: The Germanic review 69 (1994) S. 106-117.</P>
+<P id="jg81305" rend="Absatzhaengend">Diez, Max: The Principle of the Dominant Metaphor in Goethe's <TITLE type="Goethewerk">Werther</TITLE>. In: Publications of the Modern Language Association 51 (1936) S. 821-841, 985-1006.</P>
+<P id="jg81306" rend="Absatzhaengend">Doke, Tadamichi: Zur literarischen Methode der <TITLE type="Goethewerk">Leiden des jungen Werther</TITLE>. [Japan. 1967.] - Dt. in: Goethe Jahrbuch 91 (1974) S. 11 -23.</P>
+<P id="jg81307" rend="Absatzhaengend">Dumiche, B&eacute;atrice: Lottes Mutterbindung: ihre Mitschuld an Werthers Selbstmord. In: Orbis litterarum 50 (1995) S. 278-288.</P>
+<P id="jg81308" rend="Absatzhaengend">Duncan, Bruce: "Emilia Galotti lag auf seinem Pult aufgeschlagen." Werther as (Mis-) Reader. In: Goethe Yearbook 1 (1982) S. 42-50.</P>
+<P id="jg81309" rend="Absatzhaengend">Dye, R. Ellis: Werther's Lotte. Views of the Other in Goethe's First Novel. In: The Journal of English and Germanic Philology 87 (1988) S. 492-506.</P>
+<P id="jg81310" rend="Absatzhaengend">Edmunds, Kathryn R.: "der Gesang soll deinen Namen erhalten": Ossian, Werther and texts of/for mourning. In: Goethe Yearbook 8 (1996) S. 45-65.</P>
+<P id="jg81311" rend="Absatzhaengend">Ehrich-H&auml;feli, Verena: Individualit&auml;t als narrative Leistung? Zum Wandel der Personendarstellung in Romanen um 1770. In: Physiognomie und Pathognomie. Zur literarischen Darstellung von Individualit&auml;t. Festschrift f&uuml;r Karl Pestalozzi. Hrsg. von Wolfram Groddeck und Ulrich Stadler. Berlin und New York 1994. S. 49-75.</P>
+<P id="jg81312" rend="Absatzhaengend">Ekmann, Bj&ouml;rn: Erlebnishaftigkeit und Klassizit&auml;t. Einf&uuml;hlung und Verfremdung im <TITLE type="Goethewerk">Werther</TITLE>-Roman. In: Text und Kontext 14 (1986). H. 1. S. 7-47.</P>
+<P id="jg81313" rend="Absatzhaengend">Engelberg, Edward: The Risks of Consciousness: Goethe's Werther and Wordsworth's The Prelude. In: E. E.: The Unknown Distance. Cambridge (Mass.) 1972. S. 58-86.</P>
+<P id="jg81314" rend="Absatzhaengend">Erhart, Walter: Beziehungsexperimente. Goethes <TITLE type="Goethewerk">Werther</TITLE> und Wielands "Musarion". In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 66 (1992) S. 333-360.</P>
+<P id="jg81315" rend="Absatzhaengend">Erhart, Walter: Beziehungsexperimente. Goethes <TITLE type="Goethewerk">Werther</TITLE> und Wielands "Musarion". In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 66 (1992) S. 333-360.</P>
+<P id="jg81316" rend="Absatzhaengend">Fechner, J&ouml;rg-Ulrich: Die alten <TITLE type="Goethewerk">Leiden des jungen Werthers</TITLE>. Goethes Roman in petrarkistischer Sicht. In: Arcadia 17 (1982) S. 1-15.</P>
+<P id="jg81317" rend="Absatzhaengend">Feise, Ernst: Goethes <TITLE type="Goethewerk">Werther</TITLE> als nerv&ouml;ser Charakter. In: Germanic Review 1 (1926) S. 185-253. - Wiederabdruck u. a. in: E. F.: Xenion. Baltimore 1950. S. 1-65.</P>
+<P id="jg81318" rend="Absatzhaengend">Feise, Ernst: Zu Entstehung, Problem und Technik von Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: The Journal of English and Germanic Philology 13 (1914) S. 1-36.</P>
+<P id="jg81319" rend="Absatzhaengend">Fetzer, John: Schatten ohne Frau. Marginalia on a <TITLE type="Goethewerk">Werther</TITLE> Motif. In: Germanic Review 46 (1971) S. 87-94.</P>
+<P id="jg81320" rend="Absatzhaengend">Feuerlicht, Ignace: Werther's Suicide. Instinct, Reasons and Defense. In: German Quarterly 51 (1978) S. 476-492.</P>
+<P id="jg81321" rend="Absatzhaengend">Finsen, Hans Carl: Empfindsamkeit als Raum der Alternative. Untersuchungen am Beispiel von Goethes <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: DU 29 (1977). H. 4. S. 27-38.</P>
+<P id="jg81322" rend="Absatzhaengend">Flaschka, Horst: Goethes <TITLE type="Goethewerk">Werther</TITLE>. Werkkontextuelle Deskription und Analyse. M&uuml;nchen 1987.</P>
+<P id="jg81323" rend="Absatzhaengend">Forget, Philippe: Aus der Seele geschrie(b)en? Zur Problematik des Schreibens (&eacute;criture) in Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Text und Interpretation. Hrsg. von P. F. M&uuml;nchen 1984. S. 130-180.</P>
+<P id="jg81324" rend="Absatzhaengend">F&ouml;rster, J&uuml;rgen: Literatur und Subjektivit&auml;t. Goethes <TITLE type="Goethewerk">Werther</TITLE> unter Aspekten der Subjektivit&auml;tsdiskussion in der Germanistik. In: Diskussion Deutsch 16 (1985) S. 297-312.</P>
+<P id="jg81325" rend="Absatzhaengend">Forster, Leonard: Werther's Reading of "Emilia Galotti". In: Publications of the English Goethe Society N. S. 27 (1958) S. 33-45.</P>
+<P id="jg81326" rend="Absatzhaengend">Fougeres, Michel: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: M. F.: La Liebestod dans le roman fran&ccedil;ais, anglais et allemand au 18e si&egrave;cle. Ottawa 1974. S. 153-186.</P>
+<P id="jg81327" rend="Absatzhaengend">Friedrich, Hans-Edwin: Der Enthusiast und die Materie. Frankfurt a.M. 1991. </P>
+<P id="jg81328" rend="Absatzhaengend">F&uuml;lleborn, Ulrich: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE> zwischen aufkl&auml;rerischer Sozialethik und B&uuml;chners Mitleidspoesie. In: Goethe im Kontext. Kunst und Humanit&auml;t, Naturwissenschaft und Politik von der Aufkl&auml;rung bis zur Restauration. Hrsg. von Wolfgang Wittkowski. T&uuml;bingen 1984. S. 20-34.</P>
+<P id="jg81329" rend="Absatzhaengend">Gerhard, Melitta: Die Bauerburschen-Episode im <TITLE type="Goethewerk">Werther</TITLE>. In: Zeitschrift f&uuml;r &Auml;sthetik 11 (1916) S. 61-74.</P>
+<P id="jg81330" rend="Absatzhaengend">Gille, Klaus F.: Die Leiden und Freuden des jungen Werthers. In: Weimarer Beitr&auml;ge 39 (1993). H. 1, S. 122-134.</P>
+<P id="jg81331" rend="Absatzhaengend">Goethes <TITLE type="Goethewerk">Werther</TITLE>. Kritik und Forschung. Hrsg. von Hans Peter Herrmann. Darmstadt 1994 (Wege der Forschung 607).</P>
+<P id="jg81332" rend="Absatzhaengend">Graber, Gustav: Goethes <TITLE type="Goethewerk">Werther</TITLE>. Versuch einer tiefenpsychologischen Pathographie. In: Acta psychotherapeutica, psychosomatica et orthopaedagogica 6 (1958) S. 120-136.</P>
+<P id="jg81333" rend="Absatzhaengend">Graefe, Johanna: Die Religion in den <TITLE type="Goethewerk">Leiden des jungen Werthers</TITLE>. Eine Untersuchung auf Grund des Wortbestandes. In: Goethe 20 (1958) S. 72-98.</P>
+<P id="jg81334" rend="Absatzhaengend">Graham, Ilse: Minds without Medium. Reflections on Emilia Galotti and <TITLE type="Goethewerk">Werthers Leiden.</TITLE> In: Euphorion 56 (1962) S. 3-24.</P>
+<P id="jg81335" rend="Absatzhaengend">Grathoff, Dirk: Der Pflug, die Nu&szlig;b&auml;ume und der Bauernbursche. Natur im thematischen Gef&uuml;ge des <TITLE type="Goethewerk">Werther</TITLE>-Romans. In: Goethe. Vortr&auml;ge aus Anla&szlig; seines 150. Todestages. Hrsg. von Thomas Clasen [...]. Bern 1984. Festschrift der Universit&auml;t Gie&szlig;en. S. 55-75. - Wiederabdruck in: Goethe Jahrbuch 102 (1985) S. 184-198.</P>
+<P id="jg81336" rend="Absatzhaengend">Gutbrodt, Fritz: The worth of Werther: Goethe's literary marketing. In: MLN 110 (1995) S. 579-630.</P>
+<P id="jg81337" rend="Absatzhaengend">Hass, Hans-Egon: <TITLE type="Goethewerk">Werther</TITLE>-Studie. In: Gestaltprobleme der Dichtung. [Festschrift f&uuml;r G. M&uuml;ller.] Hrsg. von Richard Alewyn [...] Bonn 1957. S. 83-125.</P>
+<P id="jg81338" rend="Absatzhaengend">Hasty, Willy: On the Construction of an Identity. The Imaginary Family in Goethe's <TITLE type="Goethewerk">Werther</TITLE>. In: Monatshefte f&uuml;r den deutschen Unterricht (Universit&auml;t Wisconsin) 81 (1989) S. 163-174.</P>
+<P id="jg81339" rend="Absatzhaengend">Haverkamp, Anselm: Illusion und Empathie. Die Struktur der "teilnehmenden Lekt&uuml;re" in den Leiden Werthers. In: Erz&auml;hlforschung. Hrsg. von Eberhard L&auml;mmert. Stuttgart 1982. S. 243-268.</P>
+<P id="jg81340" rend="Absatzhaengend">Henkel, Arthur: Wie Napoleon den 'Werther' las. In: Heidelberger Jahrb&uuml;cher 34 (1990) S. 1-17.</P>
+<P id="jg81341" rend="Absatzhaengend">Herrmann, Hans Peter: Landschaft in Goethes <TITLE type="Goethewerk">Werther</TITLE>. Zum Brief vom 18. August. In: Goethe. Vortr&auml;ge aus Anla&szlig; seines 150. Todestages. Hrsg. von Thomas Clasen [...]. Bern 1984. Festschrift f&uuml;r der Universit&auml;t Gie&szlig;en. S. 77-100.</P>
+<P id="jg81342" rend="Absatzhaengend">Hirsch, Arnold: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. Ein b&uuml;rgerliches Schicksal im absolutistischen Staat. In: Etudes germaniques 13 (1958) S. 229-250. - Wiederabdruck in: Sturm und Drang. Hrsg. von Manfred Wacker. Darmstadt 1985. S. 341-367.</P>
+<P id="jg81343" rend="Absatzhaengend">Hohendahl, Peter Uwe: Empfindsamkeit und gesellschaftliches Bewu&szlig;tsein. Zur Soziologie des empfindsamen Romans am Beispiel von La vie de Marianne, Clarissa, Fr&auml;ulein von Sternheim und <TITLE type="Goethewerk">Werther</TITLE>. In: Jahrbuch der Deutschen Schillergesellschaft 16 (1972) S. 176-207.</P>
+<P id="jg81344" rend="Absatzhaengend">Ittner Robert T.: <TITLE type="Goethewerk">Werther</TITLE> and "Emilia Galotti". In: The Journal of English and Germanic Philology 41 (1942) S. 418-426.</P>
+<P id="jg81345" rend="Absatzhaengend">Jau&szlig;, Hans Robert: Rousseaus "Nouvelle Heloise" und Goethes Werther im Horizontwandel zwischen franz&ouml;sischer Aufkl&auml;rung und deutschem Idealismus. In: H. R. J.: &Auml;sthetische Erfahrung und literarische Hermeneutik. Frankfurt a M. 1982. S 585-653.</P>
+<P id="jg81346" rend="Absatzhaengend">Jost, Fran&ccedil;ois: Litt&eacute;rature et suicide. De <TITLE type="Goethewerk">Werther</TITLE> &agrave; Madame Bovary. In: Revue de litt&eacute;rature compar&eacute;e 42 (1968) S. 161-198.</P>
+<P id="jg81347" rend="Absatzhaengend">Kaiser, Gerhard: Begegnung zwischen Gott und Mensch: der Brief vom 10. Mai in Goethes 'Werther', Ovids 'Metamorphosen' 3,256ff. und Exodus 33,17ff. In: Zeitschrift f&uuml;r Theologie und Kirche 91 (1994) S. 97-114.</P>
+<P id="jg81348" rend="Absatzhaengend">Kayser, Wolfgang: Die Entstehung von Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 19 (1941) S. 430-457. - Wiederabdruck in: Kayser, Wolfgang: Kunst und Spiel. F&uuml;nf Goethe-Studien. G&ouml;ttingen 1961. 21967. S. 5-29.</P>
+<P id="jg81349" rend="Absatzhaengend">Kluge, Gerhard: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE> in der Residenz. Vorschlag zur Interpretation einiger Werther-Briefe. In: Euphorion 65 (1971) S. 115-131.</P>
+<P id="jg81350" rend="Absatzhaengend">K&ouml;bner, Thomas: Die Grenzen der Nachahmung. Millers Siegwart und Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Th. K.: Zur&uuml;ck zur Natur. Ideen der Aufkl&auml;rung und ihre Nachwirkung. Heidelberg 1993.</P>
+<P id="jg81351" rend="Absatzhaengend">Kurfe&szlig;, Hans: Zu Goethes <TITLE type="Goethewerk">Werther</TITLE>. &Auml;sthetisch-psychologische Untersuchung zur 1. und 2. Fassung. In: Archiv f&uuml;r Philosophie 29 (1916) S. 192-202, 353-359.</P>
+<P id="jg81352" rend="Absatzhaengend">Kurz, Gerhard: Werther als K&uuml;nstler. In: Invaliden des Apoll. Hrsg. von Herbert Anton. M&uuml;nchen 1982. S. 95-112.</P>
+<P id="jg81353" rend="Absatzhaengend">Lange, Victor: Die Sprache als Erz&auml;hlform in Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Formenwandel. Festschrift f&uuml;r P. B&ouml;ckmann. Hrsg. von Walter M&uuml;ller-Seidel [...]. Hamburg 1964. S. 261-272.</P>
+<P id="jg81354" rend="Absatzhaengend">Lauterbach, Martin: Das Verh&auml;ltnis der zweiten zur ersten Ausgabe von <TITLE type="Goethewerk">Werthers Leiden.</TITLE> Stra&szlig;burg 1910.'.</P>
+<P id="jg81355" rend="Absatzhaengend">Leibfried, Erwin: Goethes "<TITLE type="Goethewerk">Werther</TITLE>" als Leser von "Emilia Galotti". In: Text - Leser - Bedeutung. Hrsg. von Herbert Grabes. Gro&szlig;en-Linden 1977. S. 145-156.</P>
+<P id="jg81356" rend="Absatzhaengend">List, Friedrich: Goethes <TITLE type="Goethewerk">Werther</TITLE> als Sozialgem&auml;lde. Gie&szlig;en 1921.</P>
+<P id="jg81357" rend="Absatzhaengend">Luk&aacute;cs, Georg: <TITLE type="Goethewerk">Die Leiden des jungen Werther</TITLE>. [1936.] Wiederabdruck u. a. in: Lukacs, Georg: Goethe und seine Zeit. Bern 1947. Berlin 1950 [u. &ouml;.].- Gek&uuml;rzt in: G. L.: Deutsche Literatur in zwei Jahrhunderten. Neuwied 1964. S. 39-184. S. 17-30. Ausg. 1964. S. 53-68.</P>
+<P id="jg81358" rend="Absatzhaengend">Luserke, Matthias: Die B&auml;ndigung der wilden Seele. Literatur und Leidenschaft in der Aufkl&auml;rung. Stuttgart und Weimar 1995.</P>
+<P id="jg81359" rend="Absatzhaengend">Marhold, Hartmut: Prometheus und Werther. In: Literatur in Wissenschaft und Unterricht 16 (1983) S. 97-108.</P>
+<P id="jg81360" rend="Absatzhaengend">Marx, Friedhelm: Erlesene Helden. Don Silvio, Werther, Wilhelm Meister und die Literatur. Heidelberg 1995.</P>
+<P id="jg81361" rend="Absatzhaengend">Mauguin, Georges: Ossian und <TITLE type="Goethewerk">Werther</TITLE>. In: Mercure de France 302 (1948) S. 176-179.</P>
+<P id="jg81362" rend="Absatzhaengend">Maurer, Karl W.: Die verschleierten Konfessionen. Zur Entstehungsgeschichte von Goethes <TITLE type="Goethewerk">Werther</TITLE>. (Dichtung und Wahrheit, 12. und 13. Buch.) In: Die Wissenschaft von deutscher Sprache und Dichtung. [Festschrift f&uuml;r Fr. Maurer.] Hrsg. von Siegfried Gutenbrunner [...]. Stuttgart 1963. S. 424-437.</P>
+<P id="jg81363" rend="Absatzhaengend">Mayer, Hans: Werthers "Leiden". In: H. M.: Das ungl&uuml;ckliche Bewu&szlig;tsein. Frankfurt a. M. 1986. S. 137-146.</P>
+<P id="jg81364" rend="Absatzhaengend">Meuthen. Erich: Selbst&uuml;berredung. Rhetorik und Roman im 18. Jahrhundert. Freiburg i. Br. 1994.</P>
+<P id="jg81365" rend="Absatzhaengend">Meyer-Kalkus, Reinhart: Werthers Krankheit zum Tode. Pathologie und Familie in der Empfindsamkeit. In: Urszenen. Hrsg. von Friedrich A. Kittler [...]. Frankfurt a. M. 1977. S. 76-138.</P>
+<P id="jg81366" rend="Absatzhaengend">Meyer-Krentler, Eckhardt: "Kalte Abstraktion" gegen "versengte Einbildung". Destruktion und Restauration aufkl&auml;rerischer Harmoniemodelle in Goethes Leiden und Nicolais Freuden des jungen Werthers. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 56 (1982) S. 65-91.</P>
+<P id="jg81367" rend="Absatzhaengend">Meyer-Krentler, Eckhart: Die Leiden der jungen Wertherin. Weibliche Sozialisation durch Literatur im sp&auml;ten 18.Jahrhundert. In: Zwischen Aufkl&auml;rung und Restauration. Sozialer Wandel in der deutschen Literatur 1700-1848. Hrsg. von Wolfgang Fr&uuml;hwald [...]. T&uuml;bingen 1989. S. 225-248.</P>
+<P id="jg81368" rend="Absatzhaengend">Miller, Norbert: Goethes <TITLE type="Goethewerk">Werther</TITLE> und der Briefroman. In: N. M.: Der empfindsame Erz&auml;hler. Untersuchungen an Romananf&auml;ngen des 18. Jahrhunderts. M&uuml;nchen 1968. S. 138-214.</P>
+<P id="jg81369" rend="Absatzhaengend">Miller, Ronald D.: The Beautiful Soul. A Study of 18thCentury Idealism as Exemplified by Rousseau's La nouvelle Heloise and Goethe's <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. Harrogate 1981.</P>
+<P id="jg81370" rend="Absatzhaengend">Mittner, Ladislao: Il <TITLE type="Goethewerk">Werther</TITLE>, romanzo antiwertheriano. In: L. M.: La letteratura tedesca del novecento e altri saggi. Torino 1960. S. 44-90.</P>
+<P id="jg81371" rend="Absatzhaengend">Mojasevic, Miljan: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: M. M.: Deutsch-jugoslawische Begegnungen. Wien 1970. S. 168- 183.</P>
+<P id="jg81372" rend="Absatzhaengend">Moln&aacute;r, G&eacute;za von: Confinement or Containment: Goethe's <TITLE type="Goethewerk">Werther</TITLE> and the Concept of Limitation. In: German Life and Letters 23 (1969/70) S. 226-234.</P>
+<P id="jg81373" rend="Absatzhaengend">M&uuml;ller, Peter: Zeitkritik und Utopie in Goethes <TITLE type="Goethewerk">Werther</TITLE>. Berlin 1969. 21983.</P>
+<P id="jg81374" rend="Absatzhaengend">M&uuml;ller-Salget, Klaus: Zur Struktur von Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Zeitschrift f&uuml;r deutsche Philologie 100 (1981) S. 527-544.</P>
+<P id="jg81375" rend="Absatzhaengend">Niggl, G&uuml;nter: Erz&auml;hlspiegel in Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Exempla. Studien zur Bedeutung und Funktion exemplarischen Erz&auml;hlens. Hrsg. v. Bernd Engler und Kurt M&uuml;ller. Berlin 1995.</P>
+<P id="jg81376" rend="Absatzhaengend">Nolan, Erika: Goethes <TITLE type="Goethewerk">Leiden des jungen Werther</TITLE>. Absicht und Methode. In: Jahrbuch der Deutschen Schillergesellschaft 28 (1984) S. 191-222.</P>
+<P id="jg81377" rend="Absatzhaengend">Nutz, Maximilian: Die Sprachlosigkeit des erregten Gef&uuml;hls. Zur Problematik der Verst&auml;ndigung in Goethes Werther und seiner Rezeption. In: Literatur f&uuml;r Leser (1982) S. 217 bis 229.</P>
+<P id="jg81378" rend="Absatzhaengend">Oettinger, Klaus: "Eine Krankheit zum Tode." Zum Skandal um Werthers Selbstmord. In: DU 28 (1976) H. 2. S. 55-74.</P>
+<P id="jg81379" rend="Absatzhaengend">Packal&eacute;n, Sture: " ... trinke meinen Kaffee da und lese meinen Homer": zu Goethes Homer-Aneignung im 'Werther'. In: Studia neophilologica 62 (1990) S. 189-193.</P>
+<P id="jg81380" rend="Absatzhaengend">Paulin, Roger: "Wir werden uns wieder sehn." On a Theme in <TITLE type="Goethewerk">Werther</TITLE>. In: Publications of the English Goethe Society N. S. 50 (1980) S. 55-78.</P>
+<P id="jg81381" rend="Absatzhaengend">Perels, Christoph: Auf der Suche nach dem verlorenen Vater : das "Werther"-Evangelium noch einmal. In: Impulse 13 (1990) S. 44-58.</P>
+<P id="jg81382" rend="Absatzhaengend">P&ouml;the, Angelika: "Wenn ihr nicht werdet wie eines von diesen": das Bild der Kindheit in Goethes 'Werther'. In: Cahiers d'&eacute;tudes germaniques 22 (1992) S. 191-208.</P>
+<P id="jg81383" rend="Absatzhaengend">Pr&eacute;vost, Marcel: La vie courante. Sur une lecture de <TITLE type="Goethewerk">Werther</TITLE>. In: La Revue de France 17 (1937) S. 568-573.</P>
+<P id="jg81384" rend="Absatzhaengend">Price, Lawrence M.: Richardson, Wetzlar and Goethe. In: M&eacute;langes d'histoire litt&eacute;raire g&eacute;n&eacute;rale et compar&eacute;e, offerts a Fernand Baldensperger. Bd. 2. Paris 1930. S. 174-187.</P>
+<P id="jg81385" rend="Absatzhaengend">Purdy, Daniel: The veil of masculinity : clothing and identity via Goethe's 'Die Leiden des jungen Werther'. In: Lessing Yearbook 27 (1995) S. 103-130.</P>
+<P id="jg81386" rend="Absatzhaengend">P&uuml;tz, Peter: <TITLE type="Goethewerk">Werthers Leiden </TITLE>an der Literatur. In: Goethe's Narrative Fiction. The Irvine Goethe Symposium. Ed. by William J. Lillaman. Berlin 1983. S. 55-68.</P>
+<P id="jg81387" rend="Absatzhaengend">Renner, Karl N.: "... la&szlig; das B&uuml;chlein deinen Freund seyn." Goethes Roman <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE> und die Di&auml;tik der Aufkl&auml;rung. In: Zur Sozialgeschichte der deutschen Literatur von der Aufkl&auml;rung bis zur Jahrhundertwende. Hrsg. von G&uuml;nter H&auml;ntzschel. T&uuml;bingen 1985. S. 1-20.</P>
+<P id="jg81388" rend="Absatzhaengend">Reuter, Hans-Heinrich: Der gekreuzigte Prometheus: Goethes Roman <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: Goethe Jahrbuch 89 (1972) S. 86-115.</P>
+<P id="jg81389" rend="Absatzhaengend">Rie&szlig;, Gertrud: Die beiden Fassungen von Goethes <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. Eine stilpsychologische Untersuchung. Breslau 1924.</P>
+<P id="jg81390" rend="Absatzhaengend">Rockwood, Heidi M.: Jung's Psychological Types and Goethe's <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: Germanic Review 55 (1980) S. 118-123.</P>
+<P id="jg81391" rend="Absatzhaengend">Ryder, Frank G.: Season, Day, and Hour-Time as Metaphor in Goethe's Werther. In: The Journal of English and Germanic Philology 63 (1964) S. 389-407.</P>
+<P id="jg81392" rend="Absatzhaengend">Saine, Thomas: Passion and Aggression. The Meaning of <TITLE type="Goethewerk">Werther</TITLE>'s Last Letter. In: OL 35 (1980) S. 327-356.</P>
+<P id="jg81393" rend="Absatzhaengend">Schmidt, Erich: Rousseau und Goethe: Die neue Heloise und <TITLE type="Goethewerk">Werthers Leiden.</TITLE> In: E. Sch.: Richardson, Rousseau und Goethe. Ein Beitrag zur Geschichte des Romans im 18. Jahrhundert. Jena 1875. Neudruck 1924. S. 126-243.</P>
+<P id="jg81394" rend="Absatzhaengend">Schmidt, Hartmut: <TITLE type="Goethewerk">Werther</TITLE> oder die Passion des Sturm und Drang. In: Sturm und Drang. Ausstellung im Frankfurter Goethe-Museum [...]. Hrsg. von Christoph Perels. Frankfurt a. M. 1988. S. 99-106, 107-115.</P>
+<P id="jg81395" rend="Absatzhaengend">Schmiedt, Helmut (Hg.): "Wie froh bin ich, da&szlig; ich weg bin": Goethes Roman 'Die Leiden des jungen Werther' in lit.-psycholog. Sicht . W&uuml;rzburg 1989. </P>
+<P id="jg81396" rend="Absatzhaengend">Schmiedt, Helmut: Woran scheitert Werther? In: Poetica 1 (1979) S. 83-104.</P>
+<P id="jg81397" rend="Absatzhaengend">Schmitt, Wolfram: Melancholie und Suizid als literarisches Thema in der Goethezeit. In: Josef Domes (Hg.): Licht der Natur: Medizin in Fachliteratur und Dichtung; Festschrift f&uuml;r Gundolf Keil zum 60. Geburtstag. G&ouml;ppingen 1994, S. 399-420.</P>
+<P id="jg81398" rend="Absatzhaengend">Sch&ouml;ffler, Herbert: <TITLE type="Goethewerk">Die Leiden des jungen Werther</TITLE>. Ihr geistesgeschichtlicher Hintergrund. Frankfurt a. M. 1938. - Wiederabdruck in: H. Sch.: Deutscher Geist im 18. Jahrhundert. G&ouml;ttingen 1956. 21967. S. 155-181.</P>
+<P id="jg81399" rend="Absatzhaengend">Schultz, Werner: Goethes <TITLE type="Goethewerk">Werther</TITLE>-Erlebnis und der moderne Nihilismus. In: Archiv f&uuml;r Kulturgeschichte 44 (1962) S. 227-251.</P>
+<P id="jg81400" rend="Absatzhaengend">Schwanke, Martina: Aspekte computergest&uuml;tzter Lemmatisierung von Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Wirkendes Wort 43 (1993). H. 1. S. 144-156.</P>
+<P id="jg81401" rend="Absatzhaengend">Schwanke, Martina: Lemmatisierter Index zu Goethes Roman 'Die Leiden des jungen Werther'. Stuttgart 1994. </P>
+<P id="jg81402" rend="Absatzhaengend">Schwindt, J&uuml;rgen Paul: Dido, Klopstock und Charlotte Buff: Vergilreminiszenz(en) in Goethes 'Werther'? In: Antike und Abendland 42 (1996) S. 103-118.</P>
+<P id="jg81403" rend="Absatzhaengend">Seuffert, Bernhard: Philologische Betrachtungen im Anschlu&szlig; an Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Euphorion 7 (1900) S. 1-47.</P>
+<P id="jg81404" rend="Absatzhaengend">Siebers, Tobin: The Werther effect: the aesthetics of suicide. In: Mosaic 26 (1993) S. 15-34.</P>
+<P id="jg81405" rend="Absatzhaengend">Sorensen, Bengt A.: &Uuml;ber die Familie in Goethes <TITLE type="Goethewerk">Werther</TITLE> und Wilhelm Meister. In: Orbis litterarum 42 (1987) S. 118-140.</P>
+<P id="jg81406" rend="Absatzhaengend">Storz, Gerhard: Der Roman <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: Storz, Gerhard: Goethe-Vigilien, oder Versuche in der Kunst, Dichtung zu verstehen. Stuttgart 1953. S. 19-41.</P>
+<P id="jg81407" rend="Absatzhaengend">Strickland, Stuart W.: Flight from the given world and return to the new : the dialectic of creation and escape in Goethe's 'Die Leiden des jungen Werther'. In: The German quarterly - Cherry Hill, N.J. 64 (1991) 190-206.</P>
+<P id="jg81408" rend="Absatzhaengend">St&uuml;ckrath, J&ouml;rn: Johann Wolfgang Goethe, <TITLE type="Goethewerk">Leiden des jungen Werther</TITLE>. In: Deutsche Romane von Grimmelshausen bis Walser. Hrsg. von Jakob Lehmann. K&ouml;nigstein 1982. S 27-47.</P>
+<P id="jg81409" rend="Absatzhaengend">Thorlby, Anthony: From what did Goethe Save Himself in <TITLE type="Goethewerk">Werther</TITLE>? In: Versuche zu Goethe. Festschrift f&uuml;r E. Heller. Hrsg. von Volker D&uuml;rr [...]. Heidelberg 1976. S. 150-166.</P>
+<P id="jg81410" rend="Absatzhaengend">Th&uuml;sen, Joachim von der: Das begrenzte Leben. &Uuml;ber das Idyllische in Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 68 (1994) S. 462-489.</P>
+<P id="jg81411" rend="Absatzhaengend">Tobol, Carol/Washington, Ida: Werther's Selective Reading of Homer. In: MLN 92 (1977) S. 596-601.</P>
+<P id="jg81412" rend="Absatzhaengend">T&ouml;nz, Leo: Von den "Asiles" der Nouvelle H&eacute;loise zu den "Lieblingspl&auml;tzchen" Werthers. In: Germanisch-Romanische Monatsschrift N. F. 20 (1970) S. 412-425.</P>
+<P id="jg81413" rend="Absatzhaengend">Vaget, Hans R.: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: Paul Michael L&uuml;tzeler (Hrsg.): Goethes Erz&auml;hlwerk. Stuttgart 1985. S. 37-72.</P>
+<P id="jg81414" rend="Absatzhaengend">Wagenknecht, Christian: <TITLE type="Goethewerk">Werthers Leiden.</TITLE> Der Roman als Krankengeschichte. In: Text und Kontext 5 (1977). H. 2. S. 3-14.</P>
+<P id="jg81415" rend="Absatzhaengend">Waniek, Erdmann: <TITLE type="Goethewerk">Werther</TITLE> lesen und Werther als Leser. In: Goethe Yearbook 1 (1982) S. 51-92.</P>
+<P id="jg81416" rend="Absatzhaengend">Weinstein, Arnold: The Failure of Feeling: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: A. W.: Fictions of the Self. 1550-1800. Princeton 1981. S. 146-164.</P>
+<P id="jg81417" rend="Absatzhaengend">Wellbery, David E.: Morphism and the phantasmatic body. Goethe's "Sorrows of the young Werther". In: Body and text in the eighteen century. Ed. by Veronica Kelly and Dorothea VanM&uuml;cke. Stanford 1994. S. 181-208.</P>
+<P id="jg81418" rend="Absatzhaengend">Wellbery, David E.: Morphism of the phantasmatic body: Goethe, 'The sorrows of young Werther'. In: Veronica Kelly (Hg.): Body and text in the eighteenth century. Stanford, Calif. 1994. S. 181-208.</P>
+<P id="jg81419" rend="Absatzhaengend">Welz, Dieter: Der Weimarer <TITLE type="Goethewerk">Werther</TITLE>. Studien zur Sinnstruktur der 2. Fassung des <TITLE type="Goethewerk">Werther</TITLE>-Romans. Bonn 1973.</P>
+<P id="jg81420" rend="Absatzhaengend">Williams, John R.: "... der die Himmel zusammenrollt wie ein Tuch ...". Zu einer Werther-Stelle. In: Euphorion 83 (1989) S. 364-368</P>
+<P id="jg81421" rend="Absatzhaengend">Williams, John R.: "... der die Himmel zusammenrollt wie ein Tuch." Zu einer <TITLE type="Goethewerk">Werther</TITLE>-Stelle. In: Euphorion 83 (1989) S. 364-367.</P>
+<P id="jg81422" rend="Absatzhaengend">Wilson, W. Daniel: Patriarchy, Politics, Passion: Labor and Werther's Search for Nature. In: Internationales Archiv f&uuml;r Sozialgeschichte der deutschen Literatur 14 (1989). H. 2. S. 15-44.</P>
+<P id="jg81423" rend="Absatzhaengend">Zabel, Hermann: Goethes <TITLE type="Goethewerk">Werther</TITLE> - eine weltliche Passionsgeschichte? In: Zeitschrift f&uuml;r Religions- und Geistesgeschichte 24 (1972) S. 57-69.</P>
+<P id="jg81424" rend="Absatzhaengend">Zahlmann, Christel: Werther als Tantalus. Zu seiner Angst vor Liebe. In: Text und Kontext 15 (1987). H. 1. S. 43-69.</P>
+<P id="jg81425" rend="Absatzhaengend">Zimmermann, Hans Dieter: Kleists "Der neuere (gl&uuml;cklichere) Werther". In: Heinrich von Kleist. Hrsg. von Heinz Ludwig Arnold in Zsarb. mit Roland Reu&szlig; und Peter Staengle. M&uuml;nchen 1993. S. 163-169. (Text und Kritik.)</P>
+<P id="jg81426" rend="Absatzhaengend">Zimmermann, Rolf Christian: <TITLE type="Goethewerk">Die Leiden des jungen Werthers</TITLE>. In: Zimmermann, Rolf Christian: Das Weltbild des jungen Goethe. Studien zur hermetischen Tradition des deutschen 18. Jahrhunderts. Bd. 2. M&uuml;nchen 1969-1979. S. 167-212, 312-320.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81427"><HEAD>Zur Werther-Rezeption</HEAD>
+<P id="jg81428" rend="Absatzhaengend">(Siehe auch oben "Werther-Materialien").<LB></P>
+<P id="jg81429" rend="Absatzhaengend">Ascher, Barbara: Aspekte der <TITLE type="Goethewerk">Werther</TITLE>-Rezeption in China: Die ersten Jahrzehnte des 20. Jahrhunderts. In: Goethe und China- China und Goethe. Heidelberg 1985. S. 139 - 153.</P>
+<P id="jg81430" rend="Absatzhaengend">Atkins, Stuart: The Testament of <TITLE type="Goethewerk">Werther</TITLE> in Poetry and Drama. Cambridge (Mass.) 1949. [S. 221-313: Bibliography.].</P>
+<P id="jg81431" rend="Absatzhaengend">Baldensperger, Fernand: La r&eacute;sistance  <TITLE type="Goethewerk">Werther</TITLE> dans la litt&eacute;rature francaise. In: Revue d'histoire litt&eacute;raire de France 7 (1901) S. 377-394.</P>
+<P id="jg81432" rend="Absatzhaengend">Bickelmann, Ingeborg: Goethes <TITLE type="Goethewerk">Werther</TITLE> im Urteil des 19.`Jahrhunderts. (Romantik bis Naturalismus 1830 bis 1880.) Diss. Frankfurt a. M. 1937.</P>
+<P id="jg81433" rend="Absatzhaengend">Blumenthal, Hermann: Karl Philipp Moritz und Goethes <TITLE type="Goethewerk">Werther</TITLE>. In: Zf&Auml;sth 30 (1936) S. 28-64.</P>
+<P id="jg81434" rend="Absatzhaengend">Dobijanka-Witczak, Olga: Goethes <TITLE type="Goethewerk">Werther</TITLE> in Polen. In: Goethe Jahrbuch 96 (1979) S. 306-316.</P>
+<P id="jg81435" rend="Absatzhaengend">Dux, Adolf: Die <TITLE type="Goethewerk">Werther</TITLE>-Periode in Ungarn. In: A. D.: Aus Ungarn. Leipzig 1880. S. 8-29.</P>
+<P id="jg81436" rend="Absatzhaengend">Engel, Ingrid: <TITLE type="Goethewerk">Werther</TITLE> und die Wertheriaden. Ein Beitrag zur Wirkungsgeschichte. St. Ingbert 1986.</P>
+<P id="jg81437" rend="Absatzhaengend">Friedrichs, Ernst: <TITLE type="Goethewerk">Werthers</TITLE> Einwirkung auf den russischen "Original"-Roman. In: Die neueren Sprachen 21 (1921) S. 178-206.</P>
+<P id="jg81438" rend="Absatzhaengend">Grappin, Pierre: Aspekte der Rezeption Werthers in Frankreich im 18. Jahrhundert. In: Historizit&auml;t in Sprach- und Literaturwissenschaft. Hrsg. von Walter M&uuml;ller-Seidel [...]. M&uuml;nchen 1974. S. 411-421.</P>
+<P id="jg81439" rend="Absatzhaengend">Gsteiger, Manfred: Wandlungen <TITLE type="Goethewerk">Werther</TITLE>s (Goethe, Foscolo, Chateaubriand). Titelessay in: M. G.: Wandlungen <TITLE type="Goethewerk">Werthers</TITLE>. Bern 1980. S. 76-115, 152-157.</P>
+<P id="jg81440" rend="Absatzhaengend">Hertling, Gunter: Die <TITLE type="Goethewerk">Werther</TITLE>-Kritik im Meinungsstreit der Sp&auml;taufkl&auml;rer. In: German Quarterly 36 (1963) S. 403-413.</P>
+<P id="jg81441" rend="Absatzhaengend">Hillebrand, Karl: Die <TITLE type="Goethewerk">Werther</TITLE>-Krankheit in Europa. In: K. H.: Culturgeschichtliches. Berlin 1885. S. 102-142.</P>
+<P id="jg81442" rend="Absatzhaengend">J&auml;ger, Georg: Die Wertherwirkung. Ein rezeptions&auml;sthetischer Modellfall. In: Historizit&auml;t in Sprach- und Literaturwissenschaft. Hrsg. von Walter M&uuml;ller-Seidel [...]. M&uuml;nchen 1974. S. 389-409.</P>
+<P id="jg81443" rend="Absatzhaengend">Karthaus, Ulrich: Goethes <TITLE type="Goethewerk">Werther</TITLE> und die neuen Leiden. In: Goethe. Vortr&auml;ge aus Anla&szlig; seines 150. Todestages. Hrsg. von Thomas Clasen [...]. Bern 1984. Festschrift der Universit&auml;t Gie&szlig;en. S. 101-123.</P>
+<P id="jg81444" rend="Absatzhaengend">Kloek, Joost: Over <TITLE type="Goethewerk">Werther</TITLE> geschreven. Nederlandse reacties op Goethes <TITLE type="Goethewerk">Werther</TITLE>. 1775-1800. 2 Tle. Utrecht 1985.</P>
+<P id="jg81445" rend="Absatzhaengend">Leistner, Bernd: Goethes 'Werther' und seine zeitgen&ouml;ssischen Kritiker. In: GJ 112 (1995) S. 71-82.</P>
+<P id="jg81446" rend="Absatzhaengend">Link, Victor: <TITLE type="Goethewerk">Werther</TITLE> auf englischen und amerikanischen B&uuml;hnen. Ein Aspekt der Goethe-Rezeption im 18. Jahrhundert. In: Anglia 113 (1995) S. 184-206.</P>
+<P id="jg81447" rend="Absatzhaengend">Long, O. William: <TITLE type="Goethewerk">Werther</TITLE> in America. In: Studies in Honour of John Albrecht Walz. Lancaster (Penn.) 1941. S. 86-116.</P>
+<P id="jg81448" rend="Absatzhaengend">Manacorda, Giorgio: Materialismo, e masochismo. Il <TITLE type="Goethewerk">Werther</TITLE>, Foscolo e Leopardi. Firenze 1973.</P>
+<P id="jg81449" rend="Absatzhaengend">Morel, Louis: La fortune de <TITLE type="Goethewerk">Werther</TITLE> en France dans la po&eacute;sie et le roman (1778-1816). In: Archiv Bd. 125 (1910) S. 347-372. [s. a. Archiv Bd. 119 (1907) S. 139-159.].</P>
+<P id="jg81450" rend="Absatzhaengend">Nethersole, Reingard: Versuch &uuml;ber die Voraussetzungen der Popularit&auml;t dargestellt an Goethes 'Werther'. In: Acta Germanica 22 (1994) S. 187-202.</P>
+<P id="jg81451" rend="Absatzhaengend">Pageard, Robert: <TITLE type="Goethewerk">Werther</TITLE> en Espagne. In: Gesammelte Aufs&auml;tze zur Kulturgeschichte Spaniens. Bd. 11. Hrsg. von J. Vincke. M&uuml;nster 1955. S. 215-220.</P>
+<P id="jg81452" rend="Absatzhaengend">Richter, Heinrich Moritz: Der junge <TITLE type="Goethewerk">Werther</TITLE> in Wien und Wien in der Werther-Epoche. [1879.] - Wiederabdruck In: H. M. R.: Aus der Messias- und <TITLE type="Goethewerk">Werther</TITLE>-Zeit. Wien 1882. S. 121-199.</P>
+<P id="jg81453" rend="Absatzhaengend">Scharfschwerdt, J&uuml;rgen: <TITLE type="Goethewerk">Werther</TITLE> in der DDR. B&uuml;rgerliches Erbe zwischen sozialistischer Kulturkritik und gesellschaftlicher Realit&auml;t. In: Jahrbuch der Deutschen Schillergesellschaft 22 (1978) S. 235-276.</P>
+<P id="jg81454" rend="Absatzhaengend">Siegmund, Georg: Die Krankheit zum Tode: Goethe - Kierkegaard. In: Hochland 53 (1960/61) S. 534-542.</P>
+<P id="jg81455" rend="Absatzhaengend">Wang, Bingjun: Rezeptionsgeschichte des Romans 'Die Leiden des jungen Werther' von Johann Wolfgang Goethe in Deutschland seit 1945. Frankfurt a.M., Bern u.a. 1991. </P>
+<P id="jg81456" rend="Absatzhaengend">Wrangel, Ewert: <TITLE type="Goethewerk">Werther</TITLE> und das Wertherfieber in Schweden. In: Goethe Jahrbuch 29 (1908) S. 128-146.</P>
+<P id="jg81457" rend="Absatzhaengend">Zimmermann, Georg: Werther's Leiden und der literarische Kampf um sie. In: Archiv f&uuml;r das Studium der neueren Sprachen und Literaturen Bd. 45 (1869) S. 241-298.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81458"><HEAD>Theoretische und kritische Prosa</HEAD>
+<P id="jg81459" rend="Absatzhaengend">(Siehe auch oben: "Ideen".)<LB></P>
+<P id="jg81460" rend="Absatzhaengend">Barner, Hans: Zwei "theologische Schriften" Goethes. Ein Beitrag zur Religiosit&auml;t des jungen Goethe. Leipzig 1930.</P>
+<P id="jg81461" rend="Absatzhaengend">Beckmann, Peter: Zur Semiotik der Strassburger M&uuml;nsterfassade und der beiden Goethe-Aufsatze 'Von deutscher Baukunst' (1772; 1823). In: Kodikas-Code-Ars-semeiotica 13 (1990) S. 151-75. </P>
+<P id="jg81462" rend="Absatzhaengend">Belhalfaoui, Barbara: Johann Gottfried Herder: Shakespeare - ein Vergleich der alten und der modernen Trag&ouml;die. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 61 (1987) S. 89-124.</P>
+<P id="jg81463" rend="Absatzhaengend">Beutler, Ernst: Goethe und Shakespeare. In: Goethes Rede zum Sch&auml;kespears Tag. Wiedergabe der Handschrift. Schriften der Goethe-Gesellschaft 50. Band. Weimar 1938, S. 3-19.</P>
+<P id="jg81464" rend="Absatzhaengend">Beutler, Ernst: <TITLE type="Goethewerk">Von Deutscher Baukunst</TITLE>. In: Goethe. Viermonatsschrift der Goethe-Gesellschaft 6 (1941) S. 232-263.</P>
+<P id="jg81465" rend="Absatzhaengend">Bienert, Walter: Goethes pietistisch-humanistisches Privatchristentum. Halle 1935. </P>
+<P id="jg81466" rend="Absatzhaengend">B&ouml;ckmann, Paul: Der dramatische Perspektivismus in der deutschen Shakespeare-Deutung des 18. Jahrhunderts. In: Vom Geist der Dichtung. Fs. Robert Petsch. Hamburg 1949. S. 60-119. </P>
+<P id="jg81467" rend="Absatzhaengend">Br&auml;uning-Oktavio, Hermann: Herausgeber und Mitarbeiter der <HI>Frankfurter gelehrten Anzeigen</HI> 1772. T&uuml;bingen 1966.</P>
+<P id="jg81468" rend="Absatzhaengend">Eibl, Karl: "...mehr als Prometheus...". Anmerkung zu Goethes <TITLE type="Goethewerk">Baukunst</TITLE>-Aufsatz. In: Jahrbuch der Deutschen Schillergesellschaft 25 (1981) S. 238-248.</P>
+<P id="jg81469" rend="Absatzhaengend">Ermann, Kurt: Goethes Shakespeare-Bild. T&uuml;bingen 1983. </P>
+<P id="jg81470" rend="Absatzhaengend">Fischer, Bernhard: Authentizit&auml;t und &auml;sthetische Objektivit&auml;t: Youngs 'Gedanken &uuml;ber die Original-Werke' (1759) und Goethes 'Von Deutscher Baukunst' (1771). In: Germanisch-romanische Monatsschrift 73 (1992) S. 178-194.</P>
+<P id="jg81471" rend="Absatzhaengend">Frankfurter Gelehrte Anzeigen vom Jahr 1772. Hg. v. Bernhard Seuffert. Deutsche Literaturdenkmale des 18. Jahrhunderts in Neudrucken. Bd. 7, 8. Heilbronn 1883.</P>
+<P id="jg81472" rend="Absatzhaengend">G&ouml;tting, Franz: Goethes Stra&szlig;burger Credo. In: Frankfurter Hefte 2 (1947) S. 490-504.</P>
+<P id="jg81473" rend="Absatzhaengend">Hellen, Eduard von der: Goethes Anteil an Lavaters Physiognomischen Fragmenten. Frankfurt a. M. 1888.</P>
+<P id="jg81474" rend="Absatzhaengend">Inbar, Eva-Maria: Shakespeare in der Diskussion um die aktuelle deutsche Literatur, 1773-1777: Zur Entstehung der Begriffe 'Shakespearisierendes Drama' und 'Lesedrama'. In: JFDH 1979. S. 1-39. </P>
+<P id="jg81475" rend="Absatzhaengend">Keller, Harald: Goethes Hymnus auf das Stra&szlig;burger M&uuml;nster und die Wiedererweckung der Gotik im 18. Jahrhundert. 1772-1972. In: Bayerische Akademie der Wissenschaften. Philosophisch-Historische Klasse. Sitzungsberichte. 1974. H. 4, S. 3-83. </P>
+<P id="jg81476" rend="Absatzhaengend">Knopp, Norbert: Zu Goethes Hymnus <HI>Von Deutscher Baukunst. D. M. Ervini a Steinbach</HI>. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 53 (1979) S. 617-650.</P>
+<P id="jg81477" rend="Absatzhaengend">Leitzmann, Albert: Kleinigkeiten zu Goethe. 2. Laokoon. In: Neophilologus 10 (1955) S. 268f.</P>
+<P id="jg81478" rend="Absatzhaengend">Matt, Peter von: ... fertig isdt das Angesicht. Zur Literaturgeschichte des menschlichen Gesichts. M&uuml;nchen, Wien 1983.</P>
+<P id="jg81479" rend="Absatzhaengend">Mattenklott, Gert: Goethe als Physiognomiker. Vortr&auml;ge aus Anla&szlig; seines 150. Todestages. In: Thomas Clasen u.a. (Hg.): Goethe. Frankfurt a.M. 1984. S. 125-141.</P>
+<P id="jg81480" rend="Absatzhaengend">Morris, Max: Eine von Goethe in Lavaters Namen verfa&szlig;te &ouml;ffentliche Erkl&auml;rung. In: GJ 28 (1907). S. 207-210.</P>
+<P id="jg81481" rend="Absatzhaengend">Oppel, Horst: Das Shakespeare-Bild Goethes. Mainz 1949.</P>
+<P id="jg81482" rend="Absatzhaengend">Oppel, Horst: Studien zur Auffassung des Nordischen in der Goethezeit. Halle 1944. </P>
+<P id="jg81483" rend="Absatzhaengend">Pascal, Roy: Goethe und das Tragische: Die Wandlung von Goethes Shakespeare-Bild. In: GJ 26 (1964). S. 38-53. </P>
+<P id="jg81484" rend="Absatzhaengend">Pestalozzi, Karl: Physiognomische Methodik. In: Adrien Finck u.a. (Hg.): Germanistik aus interkultureller Perspektive. Fs. Gonthier-Louis Fink. Strasbourg 1988, S. 137-153.</P>
+<P id="jg81485" rend="Absatzhaengend">Robson, Scott, William Douglas: Goethe and the Gothic revival. In: Publications of the English Goethe Society 25 (1955-56) S. 86-113. </P>
+<P id="jg81486" rend="Absatzhaengend">Scherer, Wilhelm: Deutsche Baukunst. In: ders.: Aus Goethes Fr&uuml;hzeit. Stra&szlig;burg 1879, S. 13-14.</P>
+<P id="jg81487" rend="Absatzhaengend">Sch&ouml;ffler, Herbert: Shakespeare und der junge Goethe. In: Shakespeare-Jahrbuch 76 (1940) S. 11-33. </P>
+<P id="jg81488" rend="Absatzhaengend">Sondrup, Steven P.: Wertherism and 'Die Leiden des jungen Werther'. In: Gerhart Hoffmeister (Hg.): European romanticism: literary cross-currents, modes and models. Detroit 1990, S. 163-179.</P>
+<P id="jg81489" rend="Absatzhaengend">Sudheimer, Hellmuth: Der Geniebegriff des jungen Goethe. Berlin 1935. Repr. Nendeln 1967.</P>
+<P id="jg81490" rend="Absatzhaengend">Vietor, Karl: Der junge Goethe. Leipzig 1930.</P>
+<P id="jg81491" rend="Absatzhaengend">Walzel, Oskar: Das Prometheussymbol von Shaftesbury bis Goethe. M&uuml;nchen 21932.</P>
+<P id="jg81492" rend="Absatzhaengend">Wertheim, Ursula: Philosophische und &auml;sthetische Aspekte in Prosast&uuml;cken Goethes &uuml;ber Shakespeare. In: GJ 26 (1964) S. 54-76. </P>
+<P id="jg81493" rend="Absatzhaengend">Willems, Marianne: Das Problem der Individualit&auml;t als Herausforderung an die Semantik des Sturm und Drang: Studien zu Goethes <TITLE type="Goethewerk">Brief des Pastors zu *** an den neuen Pastor zu ***</TITLE>, <TITLE type="Goethewerk">G&ouml;tz von Berlichingen</TITLE> und <TITLE type="Goethewerk">Clavigo</TITLE>. T&uuml;bingen 1995.</P>
+<P id="jg81494" rend="Absatzhaengend">Zimmermann, Rolf Christian: Zur Datierung von Goethes Aufsatz <TITLE type="Goethewerk">Von deutscher Baukunst</TITLE>. In: Euphorion 51 (1957) S. 438-442.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81495"><HEAD>Juristisches</HEAD>
+<P id="jg81496"></P>
+<P id="jg81497" rend="Absatzhaengend">Fuchs, Johannes: Advokat Goethe. Weimar 1932</P>
+<P id="jg81498" rend="Absatzhaengend">Schubart-Fikentscher, Gertrud: Goethes sechsundf&uuml;nfzig Stra&szlig;burger Thesen vom 6. August 1771. Ein Beitrag zur Geschichte der deutschen Rechtswissenschaft. Weimar 1949.</P>
+<P id="jg81499" rend="Absatzhaengend">Goethes Stra&szlig;burger Promotion. Hrsg. v. Elisabeth Genton. Basel 1971.</P>
+<P id="jg81500" rend="Absatzhaengend">Jahns, Sigrid: Juristen im Alten Reich. Das richterliche Personal des Reichskammergerichts 1648-1806. Bericht &uuml;ber ein Forschungsvorhaben. In: Forschungen aus Akten des Reichskammergerichts. Hrsg. von Bernhard Diestelkamp. K&ouml;ln und Wien 1984. S. 1-40.</P>
+<P id="jg81501" rend="Absatzhaengend">Kriegk, Georg Ludwig: Deutsche Kulturbilder aus dem 18. Jahrhundert. Anhang: Goethe als Rechtsanwalt. Leipzig 1874.</P>
+<P id="jg81502" rend="Absatzhaengend">Radbruch, Gustav: Goethes Stra&szlig;burger Promotionsthesen. In: G. Radbruch: Gestalten und Gedanken. Stuttgart 1954.S 70-83.</P>
+<P id="jg81503" rend="Absatzhaengend">Schubart-Fikentscher, Gertrud: Goethes sechsundf&uuml;nfzig Stra&szlig;burger Thesen vom 6. August 1771. Ein Beitrag zur Geschichte der deutschen Rechtswissenschaft. Weimar 1949.</P>
+<P id="jg81504" rend="Absatzhaengend">Simson Gerhard: Goethe als Rechtsanwalt. In: Deutsche Rechtszeitschrift 4 (1949) S. 338-342.</P>
+<P id="jg81505" rend="Absatzhaengend">Wei&szlig;el, Otto: Der Advokat Goethe. Wien 1927.</P>
+<P id="jg81506" rend="Absatzhaengend">Wohlhaupter, Eugen: Goethes juristische Laufbahn. Recht und Staat in Goethes literarischem Werk. In: E.W.: Dichterjuristen. Bd. 1. T&uuml;bingen 1953. S. 169-389.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81507"><HEAD>Der ewige Jude</HEAD>
+<P id="jg81508"></P>
+<P id="jg81509" rend="Absatzhaengend">Lee, Meredith: Eingeleiert in Klopstocks Rhythmik. "Der Messias" und Goethes Fragment <TITLE type="Goethewerk">Der ewige Jude</TITLE>. In: Klopstock an der Grenze der Epochen. Hrsg. von Kevin Hilliard und Katrin Kohl. Berlin und New York 1995. S. 117-131.</P>
+</DIV5>
+<DIV5 type="&Uuml;berschrift5" id="jg81510"><HEAD>Briefe und Tageb&uuml;cher</HEAD>
+<P id="jg81511">(Vgl. auch den Abschnitt "Personen".)<LB></P>
+<P id="jg81512" rend="Absatzhaengend">Baumann, Gerhart: Der Tag ein Leben. Zum Reisetagebuch Goethes vom 30. Oktober 1775. In: Gerhard Buhr u. a. (Hg.): Das Subjekt der Dichtung. Festschrift f&uuml;r Gerhard Kaiser. W&uuml;rzburg 1990. S. 65-72.</P>
+<P id="jg81513" rend="Absatzhaengend">Baumann, Gerhart: Die Tageb&uuml;cher Goethes. Der "Geist" der "Gegenwart". In: Euphorion 50 (1956) S. 27-54.</P>
+<P id="jg81514" rend="Absatzhaengend">Beutler, Ernst: Goethes Jugendbriefe. In: E. Beutler. Wiederholte Spiegelungen. Drei Essays &uuml;ber Goethe. G&ouml;ttingen 1957. S. 5-30.</P>
+<P id="jg81515" rend="Absatzhaengend">B&ouml;hm, Hans: Aus der Arbeit an der Neuen Weimarer Ausgabe der Briefe und Tageb&uuml;cher Goethe. In: Goethe Jahrbuch 32 (1970) S. 314-318; ferner 33 (1971) S. 185-198 und 90 (1973) S. 251-264.</P>
+<P id="jg81516" rend="Absatzhaengend">Br&uuml;ggemann, Diethelm: Gellert, der gute Geschmack und die &uuml;blen Briefsteller. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 54 (1971) S. 117-149.</P>
+<P id="jg81517" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Ein Quellennachweis zu den Ephemerides. In: Beitr&auml;ge zur Goetheforschung. Hrsg. v. Ernst Grumach. Berlin 1959. S. 104 f.</P>
+<P id="jg81518" rend="Absatzhaengend">Fischer-Lamberg, Hanna: Zur Entstehungsgeschichte der Ephemerides. In: Beitr&auml;ge zur Goetheforschung. Hrsg. v. Ernst Grumach. Berlin 1959. S. 91-103.</P>
+<P id="jg81519" rend="Absatzhaengend">Hager, Gertrud: Grundform und Eigenart von Goethes Tageb&uuml;chern. In: Deutsche Vierteljahrsschrift f&uuml;r Literaturwissenschaft und Geistesgeschichte 25 (1951) S. 351-371.</P>
+<P id="jg81520" rend="Absatzhaengend">Reuter, Hans-Heinrich: Goethe im Spiegel seiner Tageb&uuml;cher. In: Goethe 23 (1961) S. 99-140.</P>
+<P id="jg81521" rend="Absatzhaengend">Roethe, Gustav: Die Briefe des jungen Goethe. In: G. Roethe: Goethe. Gesammelte Vortr&auml;ge und Aufs&auml;tze. Berlin 1932. S. 25-48.</P>
+<P id="jg81522" rend="Absatzhaengend">Runge, Matthias, Steinbr&uuml;gge, Lieselotte (Hg.): Die Frau im Dialog. Studien zur Theorie und Geschichte des Briefes. Stuttgart 1991.</P>
+<P id="jg81523" rend="Absatzhaengend">Scheibe, Siegfried: Die goldene Hochzeit des Ehepaares <HI>Allesina</HI>. Zur Datierung eines Goethe-Briefes. In: Goethe Jahrbuch 105 (1988) S. 270-276.</P>
+<P id="jg81524" rend="Absatzhaengend">Sch&ouml;ne, Albrecht: Soziale Kontrolle als Regulativ der Textverfassung. &Uuml;ber Goethes ersten Brief an Isenburg von Buri. In: Alexander von Bormann (Hrsg.): Wissen aus Erfahrung. Festschrift f&uuml;r Herman Meyer zum 65. Geburtstag. T&uuml;bingen 1967. S. 217-241.</P>
+<P id="jg81525" rend="Absatzhaengend">Sch&ouml;ne, Albrecht: &Uuml;ber Goethes Brief an <HI>Behrisch</HI> vom 10. November 1767. In: Herbert Singer und Benno v. Wiese (Hg.): Festschrift f&uuml;r Richard Alewyn. K&ouml;ln und Graz 1967. S. 193-229.</P>
+<P id="jg81526" rend="Absatzhaengend">Sch&ouml;ne, Albrecht: &Uuml;ber Goethes Brief an Behrisch vom 11. November 1767. In: Herbert Singer und Benno von Wiese (Hrsg.): Festschrift f&uuml;r Richard Alewyn. K&ouml;ln und Graz 1967. S. 193-229.</P>
+<P id="jg81527" rend="Absatzhaengend">Steinhausen, Georg: Geschichte des deutschen Briefes. Dublin und Z&uuml;rich 1968 (Nachdruck der 1. Auflage von 1891).</P>
+<P id="jg81528" rend="Absatzhaengend">Traxler, Maria: Der Briefstil des jungen Goethe (1765-1775). Diss. Wien 1948 (Masch.).</P>
+<P id="jg81529" rend="Absatzhaengend">Ullrich, Hans: Goethes Leipziger Briefe und die Gellertsche Brieflehre. Diss. G&ouml;ttingen 1923 (Masch.).</P>
+</DIV5>
+</DIV4>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</TEI.2>

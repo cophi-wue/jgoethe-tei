@@ -1,0 +1,466 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.6 //EN" 
+[ 
+<?TAGLINK xref "TEI-P3"> 
+<!ENTITY % entities SYSTEM "jgoethe16.ent"> 
+%entities; 
+]><TEI.2>
+<TEIHEADER>
+   <FILEDESC>
+	<TITLESTMT>
+		<TITLE>Der junge Goethe in seiner Zeit. Texte und Kontexte. </TITLE>		<AUTHOR>Johann Wolfgang Goethe</AUTHOR>
+		<RESPSTMT>
+			<RESP>Herausgegeben von </RESP>
+			<NAME>Karl Eibl, Fotis Jannidis, Marianne Willems</NAME>
+		</RESPSTMT>
+	</TITLESTMT>
+	<EDITIONSTMT>
+		<EDITION>Erste Ausgabe 
+			<DATE>1998</DATE>
+		</EDITION>
+	</EDITIONSTMT>
+	<PUBLICATIONSTMT><P>Der junge Goethe in seiner Zeit</P>
+		<P>Herausgegeben von Karl Eibl, Fotis Jannidis und Marianne Willems</P>
+		<P>Erste Auflage 1998</P>
+		<P>ISBN	gebunden 3-458-16914-8</P>
+		<P>Taschenbuch 3-458-33800-4</P>
+		<P>Insel Verlag Frankfurt/Main</P>
+		<P>Weitere Informationen: http://www.jgoethe.uni-muenchen.de/</P>
+	</PUBLICATIONSTMT>
+	<SOURCEDESC><P>Die Texte des Jungen Goethe entstammen, so weit nicht anders angegeben, der Ausgabe: Der junge Goethe. Neu bearb. 3. Ausgabe. 5 Bde. und 1 Reg.-Bd. Hrsg. v. Hanna Fischer-Lamberg. Berlin bzw. Bd. 5 und Reg.-Bd. Berlin und New York 1963 - 1974. (Sigle FL). Das N&auml;here jeweils im Kommentar. Die Herkunft der anderen Vorlagen wird jeweils unter dem Titel genannt. Wo kein spezieller Herkunftsvermerk steht, war das Original die Vorlage.</P>
+	</SOURCEDESC>
+   </FILEDESC>
+   <ENCODINGDESC>
+	<PROJECTDESC>
+		<P>Die TEI-Dateien wurden durch Konvertierung der Folio Flat Files gewonnen. Zur besseren Handhabung mit SGML-Browsern wurden die Daten in 24 Dateien gespeichert: jgoethe0.sgm - jgoethe23.sgm. Die zugeh&ouml;rigen Entities befinden sich in den gleichnamigen Dateien mit der Endung .ent. Das Tag milestone wurde zweckentfremdet, um Informationen zum Entstehungszeitraum nicht zu verlieren (genaueres in der readme.txt). </P>
+	</PROJECTDESC>
+	<EDITORIALDECL>
+		<P>Die editorischen Prinzipien der Ausgabe sind im Nachwort (Teil des Textes) nachzulesen. Eine Beschreibung der Tags und zur Formatierung wesentlicher Attribute befindet sich in der beiliegenden readme.txt</P>
+	</EDITORIALDECL>
+   </ENCODINGDESC>
+</TEIHEADER>
+<TEXT>
+<BODY>
+<DIV1 type="&Uuml;berschrift1" id="jg45644"><HEAD>Benjamin Hederichs Mythologisches Lexikon</HEAD>
+<P id="jg45645"><XREF DOC="JGOETHE0" FROM="id (Anfang)"><FIGURE entity=PFEILOB rend=intern></FIGURE></XREF></P>
+<P id="jg45646">Benjamin <ANCHOR id="Hederich">Hederichs [...] gr&uuml;ndliches mythologisches Lexikon [...] zu besserm Verst&auml;ndnisse der Sch&ouml;nen K&uuml;nste und Wissenschaften [...] sorgf&auml;ltigst durchgesehen, ansehnlich vermehret und verbessert von Johann Joachim Schwabe [...] Leipzig 1770.</P>
+<P id="jg45647"></P>
+<P id="jg45648">&curren;<NOTE Type="Bild"><FIGURE entity=H0000FRON rend=extern></FIGURE></NOTE>  Innentitel</P>
+<P id="jg45649">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO03 rend=extern></FIGURE></NOTE>  VORREDE  von Johann Joachim Schwabe 3</P>
+<P id="jg45650">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO04 rend=extern></FIGURE></NOTE>  VORREDE 4</P>
+<P id="jg45651">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO06 rend=extern></FIGURE></NOTE>  VORREDE 6</P>
+<P id="jg45652">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO08 rend=extern></FIGURE></NOTE>  VORREDE 8</P>
+<P id="jg45653">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO10 rend=extern></FIGURE></NOTE>  VORREDE 10</P>
+<P id="jg45654"></P>
+<P id="jg45655">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO11 rend=extern></FIGURE></NOTE>   VORBERICHT von Benjamin Hederich 11</P>
+<P id="jg45656">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO12 rend=extern></FIGURE></NOTE>   VORBERICHT 12</P>
+<P id="jg45657">&curren;<NOTE Type="Bild"><FIGURE entity=H0000VO14 rend=extern></FIGURE></NOTE>   VORBERICHT 14</P>
+<P id="jg45658"></P>
+<P id="jg45659">&curren;<NOTE Type="Bild"><FIGURE entity=H0001-ABA rend=extern></FIGURE></NOTE>   0001-ABA</P>
+<P id="jg45660">&curren;<NOTE Type="Bild"><FIGURE entity=H0011-ABV rend=extern></FIGURE></NOTE>   0011-ABV</P>
+<P id="jg45661">&curren;<NOTE Type="Bild"><FIGURE entity=H0015-ACA rend=extern></FIGURE></NOTE>   0015-ACA</P>
+<P id="jg45662">&curren;<NOTE Type="Bild"><FIGURE entity=H0023-ACH rend=extern></FIGURE></NOTE>   0023-ACH</P>
+<P id="jg45663">&curren;<NOTE Type="Bild"><FIGURE entity=H0027-ACH rend=extern></FIGURE></NOTE>   0027-ACH</P>
+<P id="jg45664">&curren;<NOTE Type="Bild"><FIGURE entity=H0043-ACI rend=extern></FIGURE></NOTE>   0043-ACI</P>
+<P id="jg45665">&curren;<NOTE Type="Bild"><FIGURE entity=H0047-ACO rend=extern></FIGURE></NOTE>   0047-ACO</P>
+<P id="jg45666">&curren;<NOTE Type="Bild"><FIGURE entity=H0051-ACR rend=extern></FIGURE></NOTE>   0051-ACR</P>
+<P id="jg45667">&curren;<NOTE Type="Bild"><FIGURE entity=H0055-ACT rend=extern></FIGURE></NOTE>   0055-ACT</P>
+<P id="jg45668">&curren;<NOTE Type="Bild"><FIGURE entity=H0059-ADA rend=extern></FIGURE></NOTE>  0059-ADA</P>
+<P id="jg45669">&curren;<NOTE Type="Bild"><FIGURE entity=H0063-ADM rend=extern></FIGURE></NOTE>  0063-ADM</P>
+<P id="jg45670">&curren;<NOTE Type="Bild"><FIGURE entity=H0067-ADO rend=extern></FIGURE></NOTE>  0067-ADO</P>
+<P id="jg45671">&curren;<NOTE Type="Bild"><FIGURE entity=H0071-ADR rend=extern></FIGURE></NOTE>  0071-ADR</P>
+<P id="jg45672">&curren;<NOTE Type="Bild"><FIGURE entity=H0075-AEA rend=extern></FIGURE></NOTE>  0075-AEA</P>
+<P id="jg45673">&curren;<NOTE Type="Bild"><FIGURE entity=H0079-AED rend=extern></FIGURE></NOTE>  0079-AED</P>
+<P id="jg45674">&curren;<NOTE Type="Bild"><FIGURE entity=H0083-AEG rend=extern></FIGURE></NOTE>  0083-AEG</P>
+<P id="jg45675">&curren;<NOTE Type="Bild"><FIGURE entity=H0103-AEN rend=extern></FIGURE></NOTE>  0103-AEN</P>
+<P id="jg45676">&curren;<NOTE Type="Bild"><FIGURE entity=H0107-AEO rend=extern></FIGURE></NOTE>  0107-AEO</P>
+<P id="jg45677">&curren;<NOTE Type="Bild"><FIGURE entity=H0123-AES rend=extern></FIGURE></NOTE>  0123-AES</P>
+<P id="jg45678">&curren;<NOTE Type="Bild"><FIGURE entity=H0127-AET rend=extern></FIGURE></NOTE>  0127-AET</P>
+<P id="jg45679">&curren;<NOTE Type="Bild"><FIGURE entity=H0135-AGA rend=extern></FIGURE></NOTE>  0135-AGA</P>
+<P id="jg45680">&curren;<NOTE Type="Bild"><FIGURE entity=H0147-AGL rend=extern></FIGURE></NOTE>  0147-AGL</P>
+<P id="jg45681">&curren;<NOTE Type="Bild"><FIGURE entity=H0151-AGR rend=extern></FIGURE></NOTE>  0151-AGR</P>
+<P id="jg45682">&curren;<NOTE Type="Bild"><FIGURE entity=H0155-AIA rend=extern></FIGURE></NOTE>  0155-AIA</P>
+<P id="jg45683">&curren;<NOTE Type="Bild"><FIGURE entity=H0163-AMO rend=extern></FIGURE></NOTE>  0163-AMO</P>
+<P id="jg45684">&curren;<NOTE Type="Bild"><FIGURE entity=H0167-ALB rend=extern></FIGURE></NOTE>  0167-ALB</P>
+<P id="jg45685">&curren;<NOTE Type="Bild"><FIGURE entity=H0171-ALC rend=extern></FIGURE></NOTE>  0171-ALC</P>
+<P id="jg45686">&curren;<NOTE Type="Bild"><FIGURE entity=H0187-ALE rend=extern></FIGURE></NOTE>  0187-ALE</P>
+<P id="jg45687">&curren;<NOTE Type="Bild"><FIGURE entity=H0191-ALO rend=extern></FIGURE></NOTE>  0191-ALO</P>
+<P id="jg45688">&curren;<NOTE Type="Bild"><FIGURE entity=H0195-ALT rend=extern></FIGURE></NOTE>  0195-ALT</P>
+<P id="jg45689">&curren;<NOTE Type="Bild"><FIGURE entity=H0199-ALV rend=extern></FIGURE></NOTE>  0199-ALV</P>
+<P id="jg45690">&curren;<NOTE Type="Bild"><FIGURE entity=H0203-AMA rend=extern></FIGURE></NOTE>  0203-AMA</P>
+<P id="jg45691">&curren;<NOTE Type="Bild"><FIGURE entity=H0211-AMB rend=extern></FIGURE></NOTE>  0211-AMB</P>
+<P id="jg45692">&curren;<NOTE Type="Bild"><FIGURE entity=H0215-AMM rend=extern></FIGURE></NOTE>  0215-AMM</P>
+<P id="jg45693">&curren;<NOTE Type="Bild"><FIGURE entity=H0219-AMO rend=extern></FIGURE></NOTE>  0219-AMO</P>
+<P id="jg45694">&curren;<NOTE Type="Bild"><FIGURE entity=H0223-AMP rend=extern></FIGURE></NOTE>  0223-AMP</P>
+<P id="jg45695">&curren;<NOTE Type="Bild"><FIGURE entity=H0243-AMY rend=extern></FIGURE></NOTE>  0243-AMY</P>
+<P id="jg45696">&curren;<NOTE Type="Bild"><FIGURE entity=H0247-ANA rend=extern></FIGURE></NOTE>  0247-ANA</P>
+<P id="jg45697">&curren;<NOTE Type="Bild"><FIGURE entity=H0251-ANA rend=extern></FIGURE></NOTE>  0251-ANA</P>
+<P id="jg45698">&curren;<NOTE Type="Bild"><FIGURE entity=H0255-ANC rend=extern></FIGURE></NOTE>  0255-ANC</P>
+<P id="jg45699">&curren;<NOTE Type="Bild"><FIGURE entity=H0259-AND rend=extern></FIGURE></NOTE>  0259-AND</P>
+<P id="jg45700">&curren;<NOTE Type="Bild"><FIGURE entity=H0267-ANI rend=extern></FIGURE></NOTE>  0267-ANI</P>
+<P id="jg45701">&curren;<NOTE Type="Bild"><FIGURE entity=H0271-ANN rend=extern></FIGURE></NOTE>  0271-ANN</P>
+<P id="jg45702">&curren;<NOTE Type="Bild"><FIGURE entity=H0275-ANT rend=extern></FIGURE></NOTE>  0275-ANT</P>
+<P id="jg45703">&curren;<NOTE Type="Bild"><FIGURE entity=H0299-ANV rend=extern></FIGURE></NOTE>   0299-ANV</P>
+<P id="jg45704">&curren;<NOTE Type="Bild"><FIGURE entity=H0303-ANY rend=extern></FIGURE></NOTE>   0303-ANY</P>
+<P id="jg45705">&curren;<NOTE Type="Bild"><FIGURE entity=H0307-APH rend=extern></FIGURE></NOTE>   0307-APH</P>
+<P id="jg45706">&curren;<NOTE Type="Bild"><FIGURE entity=H0311-API rend=extern></FIGURE></NOTE>   0311-API</P>
+<P id="jg45707">&curren;<NOTE Type="Bild"><FIGURE entity=H0331-APO rend=extern></FIGURE></NOTE>   0331-APO</P>
+<P id="jg45708">&curren;<NOTE Type="Bild"><FIGURE entity=H0351-ARA rend=extern></FIGURE></NOTE>   0351-ARA</P>
+<P id="jg45709">&curren;<NOTE Type="Bild"><FIGURE entity=H0355-ARC rend=extern></FIGURE></NOTE>   0355-ARC</P>
+<P id="jg45710">&curren;<NOTE Type="Bild"><FIGURE entity=H0363-ARE rend=extern></FIGURE></NOTE>   0363-ARE</P>
+<P id="jg45711">&curren;<NOTE Type="Bild"><FIGURE entity=H0371-ARG rend=extern></FIGURE></NOTE>   0371-ARG</P>
+<P id="jg45712">&curren;<NOTE Type="Bild"><FIGURE entity=H0407-ARI rend=extern></FIGURE></NOTE>   0407-ARI</P>
+<P id="jg45713">&curren;<NOTE Type="Bild"><FIGURE entity=H0427-ART rend=extern></FIGURE></NOTE>   0427-ART</P>
+<P id="jg45714">&curren;<NOTE Type="Bild"><FIGURE entity=H0431-ASC rend=extern></FIGURE></NOTE>   0431-ASC</P>
+<P id="jg45715">&curren;<NOTE Type="Bild"><FIGURE entity=H0435-ASO rend=extern></FIGURE></NOTE>   0435-ASO</P>
+<P id="jg45716">&curren;<NOTE Type="Bild"><FIGURE entity=H0447-AST rend=extern></FIGURE></NOTE>   0447-AST</P>
+<P id="jg45717">&curren;<NOTE Type="Bild"><FIGURE entity=H0451-ATA rend=extern></FIGURE></NOTE>   0451-ATA</P>
+<P id="jg45718">&curren;<NOTE Type="Bild"><FIGURE entity=H0459-ATE rend=extern></FIGURE></NOTE>   0459-ATE</P>
+<P id="jg45719">&curren;<NOTE Type="Bild"><FIGURE entity=H0463-ATH rend=extern></FIGURE></NOTE>   0463-ATH</P>
+<P id="jg45720">&curren;<NOTE Type="Bild"><FIGURE entity=H0467-ATL rend=extern></FIGURE></NOTE>   0467-ATL</P>
+<P id="jg45721">&curren;<NOTE Type="Bild"><FIGURE entity=H0471-ATR rend=extern></FIGURE></NOTE>   0471-ATR</P>
+<P id="jg45722">&curren;<NOTE Type="Bild"><FIGURE entity=H0475-ATT rend=extern></FIGURE></NOTE>   0475-ATT</P>
+<P id="jg45723">&curren;<NOTE Type="Bild"><FIGURE entity=H0483-AVG rend=extern></FIGURE></NOTE>   0483-AVG</P>
+<P id="jg45724">&curren;<NOTE Type="Bild"><FIGURE entity=H0487-AVR rend=extern></FIGURE></NOTE>   0487-AVR</P>
+<P id="jg45725">&curren;<NOTE Type="Bild"><FIGURE entity=H0491-AVS rend=extern></FIGURE></NOTE>   0491-AVS</P>
+<P id="jg45726">&curren;<NOTE Type="Bild"><FIGURE entity=H0495-AVT rend=extern></FIGURE></NOTE>   0495-AVT</P>
+<P id="jg45727">&curren;<NOTE Type="Bild"><FIGURE entity=H0499-BAA rend=extern></FIGURE></NOTE>   0499-BAA</P>
+<P id="jg45728">&curren;<NOTE Type="Bild"><FIGURE entity=H0503-BAC rend=extern></FIGURE></NOTE>   0503-BAC</P>
+<P id="jg45729">&curren;<NOTE Type="Bild"><FIGURE entity=H0523-BAE rend=extern></FIGURE></NOTE>   0523-BAE</P>
+<P id="jg45730">&curren;<NOTE Type="Bild"><FIGURE entity=H0527-BAS rend=extern></FIGURE></NOTE>   0527-BAS</P>
+<P id="jg45731">&curren;<NOTE Type="Bild"><FIGURE entity=H0531-BEB rend=extern></FIGURE></NOTE>   0531-BEB</P>
+<P id="jg45732">&curren;<NOTE Type="Bild"><FIGURE entity=H0535-BEL rend=extern></FIGURE></NOTE>   0535-BEL</P>
+<P id="jg45733">&curren;<NOTE Type="Bild"><FIGURE entity=H0547-BER rend=extern></FIGURE></NOTE>   0547-BER</P>
+<P id="jg45734">&curren;<NOTE Type="Bild"><FIGURE entity=H0551-BIT rend=extern></FIGURE></NOTE>   0551-BIT</P>
+<P id="jg45735">&curren;<NOTE Type="Bild"><FIGURE entity=H0555-BON rend=extern></FIGURE></NOTE>   0555-BON</P>
+<P id="jg45736">&curren;<NOTE Type="Bild"><FIGURE entity=H0559-BOR rend=extern></FIGURE></NOTE>   0559-BOR</P>
+<P id="jg45737">&curren;<NOTE Type="Bild"><FIGURE entity=H0563-BRI rend=extern></FIGURE></NOTE>   0563-BRI</P>
+<P id="jg45738">&curren;<NOTE Type="Bild"><FIGURE entity=H0567-BRO rend=extern></FIGURE></NOTE>   0567-BRO</P>
+<P id="jg45739">&curren;<NOTE Type="Bild"><FIGURE entity=H0571-BVP rend=extern></FIGURE></NOTE>   0571-BVP</P>
+<P id="jg45740">&curren;<NOTE Type="Bild"><FIGURE entity=H0575-BVT rend=extern></FIGURE></NOTE>   0575-BVT</P>
+<P id="jg45741">&curren;<NOTE Type="Bild"><FIGURE entity=H0579-BYS rend=extern></FIGURE></NOTE>   0579-BYS</P>
+<P id="jg45742">&curren;<NOTE Type="Bild"><FIGURE entity=H0583-CAB rend=extern></FIGURE></NOTE>   0583-CAB</P>
+<P id="jg45743">&curren;<NOTE Type="Bild"><FIGURE entity=H0587-CAC rend=extern></FIGURE></NOTE>   0587-CAC</P>
+<P id="jg45744">&curren;<NOTE Type="Bild"><FIGURE entity=H0591-CAD rend=extern></FIGURE></NOTE>   0591-CAD</P>
+<P id="jg45745">&curren;<NOTE Type="Bild"><FIGURE entity=H0599-CAE rend=extern></FIGURE></NOTE>   0599-CAE</P>
+<P id="jg45746">&curren;<NOTE Type="Bild"><FIGURE entity=H0603-CAL rend=extern></FIGURE></NOTE>   0603-CAL</P>
+<P id="jg45747">&curren;<NOTE Type="Bild"><FIGURE entity=H0619-CAM rend=extern></FIGURE></NOTE>   0619-CAM</P>
+<P id="jg45748">&curren;<NOTE Type="Bild"><FIGURE entity=H0623-CAN rend=extern></FIGURE></NOTE>   0623-CAN</P>
+<P id="jg45749">&curren;<NOTE Type="Bild"><FIGURE entity=H0627-CAN rend=extern></FIGURE></NOTE>   0627-CAN</P>
+<P id="jg45750">&curren;<NOTE Type="Bild"><FIGURE entity=H0631-CAP rend=extern></FIGURE></NOTE>   0631-CAP</P>
+<P id="jg45751">&curren;<NOTE Type="Bild"><FIGURE entity=H0635-CAR rend=extern></FIGURE></NOTE>   0635-CAR</P>
+<P id="jg45752">&curren;<NOTE Type="Bild"><FIGURE entity=H0643-CAS rend=extern></FIGURE></NOTE>   0643-CAS</P>
+<P id="jg45753">&curren;<NOTE Type="Bild"><FIGURE entity=H0651-CEC rend=extern></FIGURE></NOTE>   0651-CEC</P>
+<P id="jg45754">&curren;<NOTE Type="Bild"><FIGURE entity=H0659-CEN rend=extern></FIGURE></NOTE>   0659-CEN</P>
+<P id="jg45755">&curren;<NOTE Type="Bild"><FIGURE entity=H0663-CEP rend=extern></FIGURE></NOTE>   0663-CEP</P>
+<P id="jg45756">&curren;<NOTE Type="Bild"><FIGURE entity=H0683-CER rend=extern></FIGURE></NOTE>   0683-CER</P>
+<P id="jg45757">&curren;<NOTE Type="Bild"><FIGURE entity=H0687-CET rend=extern></FIGURE></NOTE>   0687-CET</P>
+<P id="jg45758">&curren;<NOTE Type="Bild"><FIGURE entity=H0691-CHA rend=extern></FIGURE></NOTE>   0691-CHA</P>
+<P id="jg45759">&curren;<NOTE Type="Bild"><FIGURE entity=H0703-CHI rend=extern></FIGURE></NOTE>   0703-CHI</P>
+<P id="jg45760">&curren;<NOTE Type="Bild"><FIGURE entity=H0707-CHI rend=extern></FIGURE></NOTE>   0707-CHI</P>
+<P id="jg45761">&curren;<NOTE Type="Bild"><FIGURE entity=H0715-CHR rend=extern></FIGURE></NOTE>   0715-CHR</P>
+<P id="jg45762">&curren;<NOTE Type="Bild"><FIGURE entity=H0727-CIL rend=extern></FIGURE></NOTE>   0727-CIL</P>
+<P id="jg45763">&curren;<NOTE Type="Bild"><FIGURE entity=H0731-CIR rend=extern></FIGURE></NOTE>   0731-CIR</P>
+<P id="jg45764">&curren;<NOTE Type="Bild"><FIGURE entity=H0735-CIS rend=extern></FIGURE></NOTE>   0735-CIS</P>
+<P id="jg45765">&curren;<NOTE Type="Bild"><FIGURE entity=H0739-CLA rend=extern></FIGURE></NOTE>   0739-CLA</P>
+<P id="jg45766">&curren;<NOTE Type="Bild"><FIGURE entity=H0743-CLE rend=extern></FIGURE></NOTE>   0743-CLE</P>
+<P id="jg45767">&curren;<NOTE Type="Bild"><FIGURE entity=H0747-CLI rend=extern></FIGURE></NOTE>   0747-CLI</P>
+<P id="jg45768">&curren;<NOTE Type="Bild"><FIGURE entity=H0751-CLY rend=extern></FIGURE></NOTE>   0751-CLY</P>
+<P id="jg45769">&curren;<NOTE Type="Bild"><FIGURE entity=H0763-COC rend=extern></FIGURE></NOTE>   0763-COC</P>
+<P id="jg45770">&curren;<NOTE Type="Bild"><FIGURE entity=H0767-COL rend=extern></FIGURE></NOTE>   0767-COL</P>
+<P id="jg45771">&curren;<NOTE Type="Bild"><FIGURE entity=H0771-CON rend=extern></FIGURE></NOTE>   0771-CON</P>
+<P id="jg45772">&curren;<NOTE Type="Bild"><FIGURE entity=H0779-COR rend=extern></FIGURE></NOTE>   0779-COR</P>
+<P id="jg45773">&curren;<NOTE Type="Bild"><FIGURE entity=H0787-COT rend=extern></FIGURE></NOTE>   0787-COT</P>
+<P id="jg45774">&curren;<NOTE Type="Bild"><FIGURE entity=H0789-CRA rend=extern></FIGURE></NOTE>   0789-CRA</P>
+<P id="jg45775">&curren;<NOTE Type="Bild"><FIGURE entity=H0795-CRE rend=extern></FIGURE></NOTE>   0795-CRE</P>
+<P id="jg45776">&curren;<NOTE Type="Bild"><FIGURE entity=H0799-CRI rend=extern></FIGURE></NOTE>   0799-CRI</P>
+<P id="jg45777">&curren;<NOTE Type="Bild"><FIGURE entity=H0803-CRY rend=extern></FIGURE></NOTE>   0803-CRY</P>
+<P id="jg45778">&curren;<NOTE Type="Bild"><FIGURE entity=H0807-CVP rend=extern></FIGURE></NOTE>   0807-CVP</P>
+<P id="jg45779">&curren;<NOTE Type="Bild"><FIGURE entity=H0819-CVR rend=extern></FIGURE></NOTE>   0819-CVR</P>
+<P id="jg45780">&curren;<NOTE Type="Bild"><FIGURE entity=H0823-CYA rend=extern></FIGURE></NOTE>   0823-CYA</P>
+<P id="jg45781">&curren;<NOTE Type="Bild"><FIGURE entity=H0831-CYB rend=extern></FIGURE></NOTE>   0831-CYB</P>
+<P id="jg45782">&curren;<NOTE Type="Bild"><FIGURE entity=H0839-CYC rend=extern></FIGURE></NOTE>   0839-CYC</P>
+<P id="jg45783">&curren;<NOTE Type="Bild"><FIGURE entity=H0843-CYM rend=extern></FIGURE></NOTE>   0843-CYM</P>
+<P id="jg45784">&curren;<NOTE Type="Bild"><FIGURE entity=H0847-CYR rend=extern></FIGURE></NOTE>   0847-CYR</P>
+<P id="jg45785">&curren;<NOTE Type="Bild"><FIGURE entity=H0851-DAE rend=extern></FIGURE></NOTE>   0851-DAE</P>
+<P id="jg45786">&curren;<NOTE Type="Bild"><FIGURE entity=H0859-DAG rend=extern></FIGURE></NOTE>   0859-DAG</P>
+<P id="jg45787">&curren;<NOTE Type="Bild"><FIGURE entity=H0863-DAN rend=extern></FIGURE></NOTE>   0863-DAN</P>
+<P id="jg45788">&curren;<NOTE Type="Bild"><FIGURE entity=H0871-DAP rend=extern></FIGURE></NOTE>   0871-DAP</P>
+<P id="jg45789">&curren;<NOTE Type="Bild"><FIGURE entity=H0875-DAR rend=extern></FIGURE></NOTE>   0875-DAR</P>
+<P id="jg45790">&curren;<NOTE Type="Bild"><FIGURE entity=H0879-DEI rend=extern></FIGURE></NOTE>   0879-DEI</P>
+<P id="jg45791">&curren;<NOTE Type="Bild"><FIGURE entity=H0887-DEL rend=extern></FIGURE></NOTE>   0887-DEL</P>
+<P id="jg45792">&curren;<NOTE Type="Bild"><FIGURE entity=H0891-DEM rend=extern></FIGURE></NOTE>   0891-DEM</P>
+<P id="jg45793">&curren;<NOTE Type="Bild"><FIGURE entity=H0899-DEV rend=extern></FIGURE></NOTE>   0899-DEV</P>
+<P id="jg45794">&curren;<NOTE Type="Bild"><FIGURE entity=H0907-DIA rend=extern></FIGURE></NOTE>   0907-DIA</P>
+<P id="jg45795">&curren;<NOTE Type="Bild"><FIGURE entity=H0919-DIC rend=extern></FIGURE></NOTE>   0919-DIC</P>
+<P id="jg45796">&curren;<NOTE Type="Bild"><FIGURE entity=H0923-DID rend=extern></FIGURE></NOTE>   0923-DID</P>
+<P id="jg45797">&curren;<NOTE Type="Bild"><FIGURE entity=H0927-DIE rend=extern></FIGURE></NOTE>   0927-DIE</P>
+<P id="jg45798">&curren;<NOTE Type="Bild"><FIGURE entity=H0931-DIO rend=extern></FIGURE></NOTE>   0931-DIO</P>
+<P id="jg45799">&curren;<NOTE Type="Bild"><FIGURE entity=H0951-DIV rend=extern></FIGURE></NOTE>   0951-DIV</P>
+<P id="jg45800">&curren;<NOTE Type="Bild"><FIGURE entity=H0955-DOL rend=extern></FIGURE></NOTE>   0955-DOL</P>
+<P id="jg45801">&curren;<NOTE Type="Bild"><FIGURE entity=H0959-DRI rend=extern></FIGURE></NOTE>   0959-DRI</P>
+<P id="jg45802">&curren;<NOTE Type="Bild"><FIGURE entity=H0963-DRY rend=extern></FIGURE></NOTE>   0963-DRY</P>
+<P id="jg45803">&curren;<NOTE Type="Bild"><FIGURE entity=H0967-ECH rend=extern></FIGURE></NOTE>   0967-ECH</P>
+<P id="jg45804">&curren;<NOTE Type="Bild"><FIGURE entity=H0975-EID rend=extern></FIGURE></NOTE>   0975-EID</P>
+<P id="jg45805">&curren;<NOTE Type="Bild"><FIGURE entity=H0979-ELE rend=extern></FIGURE></NOTE>   0979-ELE</P>
+<P id="jg45806">&curren;<NOTE Type="Bild"><FIGURE entity=H0987-ELY rend=extern></FIGURE></NOTE>   0987-ELY</P>
+<P id="jg45807">&curren;<NOTE Type="Bild"><FIGURE entity=H0991-EMA rend=extern></FIGURE></NOTE>   0991-EMA</P>
+<P id="jg45808">&curren;<NOTE Type="Bild"><FIGURE entity=H0995-END rend=extern></FIGURE></NOTE>   0995-END</P>
+<P id="jg45809">&curren;<NOTE Type="Bild"><FIGURE entity=H0999-ENE rend=extern></FIGURE></NOTE>   0999-ENE</P>
+<P id="jg45810">&curren;<NOTE Type="Bild"><FIGURE entity=H1003-EPA rend=extern></FIGURE></NOTE>   1003-EPA</P>
+<P id="jg45811">&curren;<NOTE Type="Bild"><FIGURE entity=H1007-EPI rend=extern></FIGURE></NOTE>   1007-EPI</P>
+<P id="jg45812">&curren;<NOTE Type="Bild"><FIGURE entity=H1019-EPO rend=extern></FIGURE></NOTE>   1019-EPO</P>
+<P id="jg45813">&curren;<NOTE Type="Bild"><FIGURE entity=H1023-ERA rend=extern></FIGURE></NOTE>   1023-ERA</P>
+<P id="jg45814">&curren;<NOTE Type="Bild"><FIGURE entity=H1027-ERG rend=extern></FIGURE></NOTE>   1027-ERG</P>
+<P id="jg45815">&curren;<NOTE Type="Bild"><FIGURE entity=H1031-ERI rend=extern></FIGURE></NOTE>   1031-ERI</P>
+<P id="jg45816">&curren;<NOTE Type="Bild"><FIGURE entity=H1043-ERY rend=extern></FIGURE></NOTE>   1043-ERY</P>
+<P id="jg45817">&curren;<NOTE Type="Bild"><FIGURE entity=H1047-ERY rend=extern></FIGURE></NOTE>   1047-ERY</P>
+<P id="jg45818">&curren;<NOTE Type="Bild"><FIGURE entity=H1051-ETE rend=extern></FIGURE></NOTE>   1051-ETE</P>
+<P id="jg45819">&curren;<NOTE Type="Bild"><FIGURE entity=H1059-EVA rend=extern></FIGURE></NOTE>   1059-EVA</P>
+<P id="jg45820">&curren;<NOTE Type="Bild"><FIGURE entity=H1063-EVE rend=extern></FIGURE></NOTE>   1063-EVE</P>
+<P id="jg45821">&curren;<NOTE Type="Bild"><FIGURE entity=H1067-EVM rend=extern></FIGURE></NOTE>   1067-EVM</P>
+<P id="jg45822">&curren;<NOTE Type="Bild"><FIGURE entity=H1071-EVN rend=extern></FIGURE></NOTE>   1071-EVN</P>
+<P id="jg45823">&curren;<NOTE Type="Bild"><FIGURE entity=H1075-EVR rend=extern></FIGURE></NOTE>   1075-EVR</P>
+<P id="jg45824">&curren;<NOTE Type="Bild"><FIGURE entity=H1103-EVT rend=extern></FIGURE></NOTE>   1103-EVT</P>
+<P id="jg45825">&curren;<NOTE Type="Bild"><FIGURE entity=H1111-FAV rend=extern></FIGURE></NOTE>   1111-FAV</P>
+<P id="jg45826">&curren;<NOTE Type="Bild"><FIGURE entity=H1115-FER rend=extern></FIGURE></NOTE>   1115-FER</P>
+<P id="jg45827">&curren;<NOTE Type="Bild"><FIGURE entity=H1119-FLO rend=extern></FIGURE></NOTE>   1119-FLO</P>
+<P id="jg45828">&curren;<NOTE Type="Bild"><FIGURE entity=H1123-FOR rend=extern></FIGURE></NOTE>   1123-FOR</P>
+<P id="jg45829">&curren;<NOTE Type="Bild"><FIGURE entity=H1131-FVR rend=extern></FIGURE></NOTE>   1131-FVR</P>
+<P id="jg45830">&curren;<NOTE Type="Bild"><FIGURE entity=H1135-GAL rend=extern></FIGURE></NOTE>   1135-GAL</P>
+<P id="jg45831">&curren;<NOTE Type="Bild"><FIGURE entity=H1139-GAN rend=extern></FIGURE></NOTE>   1139-GAN</P>
+<P id="jg45832">&curren;<NOTE Type="Bild"><FIGURE entity=H1143-GEN rend=extern></FIGURE></NOTE>   1143-GEN</P>
+<P id="jg45833">&curren;<NOTE Type="Bild"><FIGURE entity=H1147-GER rend=extern></FIGURE></NOTE>   1147-GER</P>
+<P id="jg45834">&curren;<NOTE Type="Bild"><FIGURE entity=H1155-GIG rend=extern></FIGURE></NOTE>   1155-GIG</P>
+<P id="jg45835">&curren;<NOTE Type="Bild"><FIGURE entity=H1163-GLA rend=extern></FIGURE></NOTE>   1163-GLA</P>
+<P id="jg45836">&curren;<NOTE Type="Bild"><FIGURE entity=H1167-GOR rend=extern></FIGURE></NOTE>   1167-GOR</P>
+<P id="jg45837">&curren;<NOTE Type="Bild"><FIGURE entity=H1175-GRA rend=extern></FIGURE></NOTE>   1175-GRA</P>
+<P id="jg45838">&curren;<NOTE Type="Bild"><FIGURE entity=H1183-HAE rend=extern></FIGURE></NOTE>   1183-HAE</P>
+<P id="jg45839">&curren;<NOTE Type="Bild"><FIGURE entity=H1187-HAM rend=extern></FIGURE></NOTE>   1187-HAM</P>
+<P id="jg45840">&curren;<NOTE Type="Bild"><FIGURE entity=H1191-HAR rend=extern></FIGURE></NOTE>   1191-HAR</P>
+<P id="jg45841">&curren;<NOTE Type="Bild"><FIGURE entity=H1203-HEC rend=extern></FIGURE></NOTE>   1203-HEC</P>
+<P id="jg45842">&curren;<NOTE Type="Bild"><FIGURE entity=H1207-HEC rend=extern></FIGURE></NOTE>   1207-HEC</P>
+<P id="jg45843">&curren;<NOTE Type="Bild"><FIGURE entity=H1219-HEL rend=extern></FIGURE></NOTE>   1219-HEL</P>
+<P id="jg45844">&curren;<NOTE Type="Bild"><FIGURE entity=H1235-HEN rend=extern></FIGURE></NOTE>   1235-HEN</P>
+<P id="jg45845">&curren;<NOTE Type="Bild"><FIGURE entity=H1239-HER rend=extern></FIGURE></NOTE>   1239-HER</P>
+<P id="jg45846">&curren;<NOTE Type="Bild"><FIGURE entity=H1263-HES rend=extern></FIGURE></NOTE>   1263-HES</P>
+<P id="jg45847">&curren;<NOTE Type="Bild"><FIGURE entity=H1271-HET rend=extern></FIGURE></NOTE>   1271-HET</P>
+<P id="jg45848">&curren;<NOTE Type="Bild"><FIGURE entity=H1275-HIP rend=extern></FIGURE></NOTE>   1275-HIP</P>
+<P id="jg45849">&curren;<NOTE Type="Bild"><FIGURE entity=H1291-HOR rend=extern></FIGURE></NOTE>   1291-HOR</P>
+<P id="jg45850">&curren;<NOTE Type="Bild"><FIGURE entity=H1295-HOS rend=extern></FIGURE></NOTE>   1295-HOS</P>
+<P id="jg45851">&curren;<NOTE Type="Bild"><FIGURE entity=H1299-HYA rend=extern></FIGURE></NOTE>   1299-HYA</P>
+<P id="jg45852">&curren;<NOTE Type="Bild"><FIGURE entity=H1303-HYL rend=extern></FIGURE></NOTE>   1303-HYL</P>
+<P id="jg45853">&curren;<NOTE Type="Bild"><FIGURE entity=H1307-HYM rend=extern></FIGURE></NOTE>   1307-HYM</P>
+<P id="jg45854">&curren;<NOTE Type="Bild"><FIGURE entity=H1311-HYP rend=extern></FIGURE></NOTE>   1311-HYP</P>
+<P id="jg45855">&curren;<NOTE Type="Bild"><FIGURE entity=H1315-IAC rend=extern></FIGURE></NOTE>   1315-IAC</P>
+<P id="jg45856">&curren;<NOTE Type="Bild"><FIGURE entity=H1319-IAN rend=extern></FIGURE></NOTE>   1319-IAN</P>
+<P id="jg45857">&curren;<NOTE Type="Bild"><FIGURE entity=H1327-IAS rend=extern></FIGURE></NOTE>   1327-IAS</P>
+<P id="jg45858">&curren;<NOTE Type="Bild"><FIGURE entity=H1335-ICA rend=extern></FIGURE></NOTE>   1335-ICA</P>
+<P id="jg45859">&curren;<NOTE Type="Bild"><FIGURE entity=H1339-IDO rend=extern></FIGURE></NOTE>   1339-IDO</P>
+<P id="jg45860">&curren;<NOTE Type="Bild"><FIGURE entity=H1343-IMB rend=extern></FIGURE></NOTE>   1343-IMB</P>
+<P id="jg45861">&curren;<NOTE Type="Bild"><FIGURE entity=H1347-INS rend=extern></FIGURE></NOTE>   1347-INS</P>
+<P id="jg45862">&curren;<NOTE Type="Bild"><FIGURE entity=H1351-IO rend=extern></FIGURE></NOTE>   1351-IO</P>
+<P id="jg45863">&curren;<NOTE Type="Bild"><FIGURE entity=H1355-IOL rend=extern></FIGURE></NOTE>   1355-IOL</P>
+<P id="jg45864">&curren;<NOTE Type="Bild"><FIGURE entity=H1359-ION rend=extern></FIGURE></NOTE>   1359-ION</P>
+<P id="jg45865">&curren;<NOTE Type="Bild"><FIGURE entity=H1363-IPH rend=extern></FIGURE></NOTE>   1363-IPH</P>
+<P id="jg45866">&curren;<NOTE Type="Bild"><FIGURE entity=H1371-IRI rend=extern></FIGURE></NOTE>   1371-IRI</P>
+<P id="jg45867">&curren;<NOTE Type="Bild"><FIGURE entity=H1375-ISI rend=extern></FIGURE></NOTE>   1375-ISI</P>
+<P id="jg45868">&curren;<NOTE Type="Bild"><FIGURE entity=H1387-ISM rend=extern></FIGURE></NOTE>   1387-ISM</P>
+<P id="jg45869">&curren;<NOTE Type="Bild"><FIGURE entity=H1391-IVG rend=extern></FIGURE></NOTE>   1391-IVG</P>
+<P id="jg45870">&curren;<NOTE Type="Bild"><FIGURE entity=H1399-IVN rend=extern></FIGURE></NOTE>   1399-IVN</P>
+<P id="jg45871">&curren;<NOTE Type="Bild"><FIGURE entity=H1411-IVP rend=extern></FIGURE></NOTE>   1411-IVP</P>
+<P id="jg45872">&curren;<NOTE Type="Bild"><FIGURE entity=H1415-IVV rend=extern></FIGURE></NOTE>   1415-IVV</P>
+<P id="jg45873">&curren;<NOTE Type="Bild"><FIGURE entity=H1419-LAB rend=extern></FIGURE></NOTE>   1419-LAB</P>
+<P id="jg45874">&curren;<NOTE Type="Bild"><FIGURE entity=H1423-LAE rend=extern></FIGURE></NOTE>   1423-LAE</P>
+<P id="jg45875">&curren;<NOTE Type="Bild"><FIGURE entity=H1427-LAO rend=extern></FIGURE></NOTE>   1427-LAO</P>
+<P id="jg45876">&curren;<NOTE Type="Bild"><FIGURE entity=H1439-LAR rend=extern></FIGURE></NOTE>   1439-LAR</P>
+<P id="jg45877">&curren;<NOTE Type="Bild"><FIGURE entity=H1443-LAT rend=extern></FIGURE></NOTE>   1443-LAT</P>
+<P id="jg45878">&curren;<NOTE Type="Bild"><FIGURE entity=H1447-LED rend=extern></FIGURE></NOTE>   1447-LED</P>
+<P id="jg45879">&curren;<NOTE Type="Bild"><FIGURE entity=H1451-LEN rend=extern></FIGURE></NOTE>   1451-LEN</P>
+<P id="jg45880">&curren;<NOTE Type="Bild"><FIGURE entity=H1455-LER rend=extern></FIGURE></NOTE>   1455-LER</P>
+<P id="jg45881">&curren;<NOTE Type="Bild"><FIGURE entity=H1459-LET rend=extern></FIGURE></NOTE>   1459-LET</P>
+<P id="jg45882">&curren;<NOTE Type="Bild"><FIGURE entity=H1463-LEV rend=extern></FIGURE></NOTE>   1463-LEV</P>
+<P id="jg45883">&curren;<NOTE Type="Bild"><FIGURE entity=H1467-LIB rend=extern></FIGURE></NOTE>   1467-LIB</P>
+<P id="jg45884">&curren;<NOTE Type="Bild"><FIGURE entity=H1471-LIN rend=extern></FIGURE></NOTE>   1471-LIN</P>
+<P id="jg45885">&curren;<NOTE Type="Bild"><FIGURE entity=H1475-LOX rend=extern></FIGURE></NOTE>   1475-LOX</P>
+<P id="jg45886">&curren;<NOTE Type="Bild"><FIGURE entity=H1479-LVN rend=extern></FIGURE></NOTE>   1479-LVN</P>
+<P id="jg45887">&curren;<NOTE Type="Bild"><FIGURE entity=H1483-LVP rend=extern></FIGURE></NOTE>   1483-LVP</P>
+<P id="jg45888">&curren;<NOTE Type="Bild"><FIGURE entity=H1487-LYC rend=extern></FIGURE></NOTE>   1487-LYC</P>
+<P id="jg45889">&curren;<NOTE Type="Bild"><FIGURE entity=H1503-LYN rend=extern></FIGURE></NOTE>   1503-LYN</P>
+<P id="jg45890">&curren;<NOTE Type="Bild"><FIGURE entity=H1507-MA rend=extern></FIGURE></NOTE>   1507-MA</P>
+<P id="jg45891">&curren;<NOTE Type="Bild"><FIGURE entity=H1511-MAC rend=extern></FIGURE></NOTE>   1511-MAC</P>
+<P id="jg45892">&curren;<NOTE Type="Bild"><FIGURE entity=H1515-MAI rend=extern></FIGURE></NOTE>   1515-MAI</P>
+<P id="jg45893">&curren;<NOTE Type="Bild"><FIGURE entity=H1519-MAN rend=extern></FIGURE></NOTE>   1519-MAN</P>
+<P id="jg45894">&curren;<NOTE Type="Bild"><FIGURE entity=H1523-MAR rend=extern></FIGURE></NOTE>   1523-MAR</P>
+<P id="jg45895">&curren;<NOTE Type="Bild"><FIGURE entity=H1539-MEC rend=extern></FIGURE></NOTE>   1539-MEC</P>
+<P id="jg45896">&curren;<NOTE Type="Bild"><FIGURE entity=H1547-MED rend=extern></FIGURE></NOTE>   1547-MED</P>
+<P id="jg45897">&curren;<NOTE Type="Bild"><FIGURE entity=H1551-MEG rend=extern></FIGURE></NOTE>   1551-MEG</P>
+<P id="jg45898">&curren;<NOTE Type="Bild"><FIGURE entity=H1555-MEL rend=extern></FIGURE></NOTE>   1555-MEL</P>
+<P id="jg45899">&curren;<NOTE Type="Bild"><FIGURE entity=H1575-MEM rend=extern></FIGURE></NOTE>   1575-MEM</P>
+<P id="jg45900">&curren;<NOTE Type="Bild"><FIGURE entity=H1583-MEN rend=extern></FIGURE></NOTE>   1583-MEN</P>
+<P id="jg45901">&curren;<NOTE Type="Bild"><FIGURE entity=H1595-MER rend=extern></FIGURE></NOTE>   1595-MER</P>
+<P id="jg45902">&curren;<NOTE Type="Bild"><FIGURE entity=H1611-MET rend=extern></FIGURE></NOTE>   1611-MET</P>
+<P id="jg45903">&curren;<NOTE Type="Bild"><FIGURE entity=H1615-MIC rend=extern></FIGURE></NOTE>   1615-MIC</P>
+<P id="jg45904">&curren;<NOTE Type="Bild"><FIGURE entity=H1619-MID rend=extern></FIGURE></NOTE>   1619-MID</P>
+<P id="jg45905">&curren;<NOTE Type="Bild"><FIGURE entity=H1623-MIM rend=extern></FIGURE></NOTE>   1623-MIM</P>
+<P id="jg45906">&curren;<NOTE Type="Bild"><FIGURE entity=H1627-MIN rend=extern></FIGURE></NOTE>   1627-MIN</P>
+<P id="jg45907">&curren;<NOTE Type="Bild"><FIGURE entity=H1651-MIT rend=extern></FIGURE></NOTE>   1651-MIT</P>
+<P id="jg45908">&curren;<NOTE Type="Bild"><FIGURE entity=H1655-MNE rend=extern></FIGURE></NOTE>   1655-MNE</P>
+<P id="jg45909">&curren;<NOTE Type="Bild"><FIGURE entity=H1659-MOL rend=extern></FIGURE></NOTE>   1659-MOL</P>
+<P id="jg45910">&curren;<NOTE Type="Bild"><FIGURE entity=H1663-MON rend=extern></FIGURE></NOTE>   1663-MON</P>
+<P id="jg45911">&curren;<NOTE Type="Bild"><FIGURE entity=H1667-MVL rend=extern></FIGURE></NOTE>   1667-MVL</P>
+<P id="jg45912">&curren;<NOTE Type="Bild"><FIGURE entity=H1675-MVS rend=extern></FIGURE></NOTE>   1675-MVS</P>
+<P id="jg45913">&curren;<NOTE Type="Bild"><FIGURE entity=H1679-MYL rend=extern></FIGURE></NOTE>   1679-MYL</P>
+<P id="jg45914">&curren;<NOTE Type="Bild"><FIGURE entity=H1683-MYR rend=extern></FIGURE></NOTE>   1683-MYR</P>
+<P id="jg45915">&curren;<NOTE Type="Bild"><FIGURE entity=H1687-NAS rend=extern></FIGURE></NOTE>   1687-NAS</P>
+<P id="jg45916">&curren;<NOTE Type="Bild"><FIGURE entity=H1691-NAV rend=extern></FIGURE></NOTE>   1691-NAV</P>
+<P id="jg45917">&curren;<NOTE Type="Bild"><FIGURE entity=H1695-NED rend=extern></FIGURE></NOTE>   1695-NED</P>
+<P id="jg45918">&curren;<NOTE Type="Bild"><FIGURE entity=H1699-NEL rend=extern></FIGURE></NOTE>   1699-NEL</P>
+<P id="jg45919">&curren;<NOTE Type="Bild"><FIGURE entity=H1703-NEM rend=extern></FIGURE></NOTE>   1703-NEM</P>
+<P id="jg45920">&curren;<NOTE Type="Bild"><FIGURE entity=H1711-NEP rend=extern></FIGURE></NOTE>   1711-NEP</P>
+<P id="jg45921">&curren;<NOTE Type="Bild"><FIGURE entity=H1723-NER rend=extern></FIGURE></NOTE>   1723-NER</P>
+<P id="jg45922">&curren;<NOTE Type="Bild"><FIGURE entity=H1727-NER rend=extern></FIGURE></NOTE>   1727-NER</P>
+<P id="jg45923">&curren;<NOTE Type="Bild"><FIGURE entity=H1731-NES rend=extern></FIGURE></NOTE>   1731-NES</P>
+<P id="jg45924">&curren;<NOTE Type="Bild"><FIGURE entity=H1735-NIC rend=extern></FIGURE></NOTE>   1735-NIC</P>
+<P id="jg45925">&curren;<NOTE Type="Bild"><FIGURE entity=H1739-NIO rend=extern></FIGURE></NOTE>   1739-NIO</P>
+<P id="jg45926">&curren;<NOTE Type="Bild"><FIGURE entity=H1743-NOD rend=extern></FIGURE></NOTE>   1743-NOD</P>
+<P id="jg45927">&curren;<NOTE Type="Bild"><FIGURE entity=H1747-NOX rend=extern></FIGURE></NOTE>   1747-NOX</P>
+<P id="jg45928">&curren;<NOTE Type="Bild"><FIGURE entity=H1751-NYM rend=extern></FIGURE></NOTE>   1751-NYM</P>
+<P id="jg45929">&curren;<NOTE Type="Bild"><FIGURE entity=H1755-OAN rend=extern></FIGURE></NOTE>   1755-OAN</P>
+<P id="jg45930">&curren;<NOTE Type="Bild"><FIGURE entity=H1759-OCE rend=extern></FIGURE></NOTE>   1759-OCE</P>
+<P id="jg45931">&curren;<NOTE Type="Bild"><FIGURE entity=H1763-OCY rend=extern></FIGURE></NOTE>   1763-OCY</P>
+<P id="jg45932">&curren;<NOTE Type="Bild"><FIGURE entity=H1767-OED rend=extern></FIGURE></NOTE>   1767-OED</P>
+<P id="jg45933">&curren;<NOTE Type="Bild"><FIGURE entity=H1771-OEN rend=extern></FIGURE></NOTE>   1771-OEN</P>
+<P id="jg45934">&curren;<NOTE Type="Bild"><FIGURE entity=H1775-OEN rend=extern></FIGURE></NOTE>   1775-OEN</P>
+<P id="jg45935">&curren;<NOTE Type="Bild"><FIGURE entity=H1779-OGY rend=extern></FIGURE></NOTE>   1779-OGY</P>
+<P id="jg45936">&curren;<NOTE Type="Bild"><FIGURE entity=H1783-OLY rend=extern></FIGURE></NOTE>   1783-OLY</P>
+<P id="jg45937">&curren;<NOTE Type="Bild"><FIGURE entity=H1787-ONA rend=extern></FIGURE></NOTE>   1787-ONA</P>
+<P id="jg45938">&curren;<NOTE Type="Bild"><FIGURE entity=H1791-OPH rend=extern></FIGURE></NOTE>   1791-OPH</P>
+<P id="jg45939">&curren;<NOTE Type="Bild"><FIGURE entity=H1795-ORE rend=extern></FIGURE></NOTE>   1795-ORE</P>
+<P id="jg45940">&curren;<NOTE Type="Bild"><FIGURE entity=H1803-ORI rend=extern></FIGURE></NOTE>   1803-ORI</P>
+<P id="jg45941">&curren;<NOTE Type="Bild"><FIGURE entity=H1811-ORP rend=extern></FIGURE></NOTE>   1811-ORP</P>
+<P id="jg45942">&curren;<NOTE Type="Bild"><FIGURE entity=H1823-ORT rend=extern></FIGURE></NOTE>   1823-ORT</P>
+<P id="jg45943">&curren;<NOTE Type="Bild"><FIGURE entity=H1831-OSI rend=extern></FIGURE></NOTE>   1831-OSI</P>
+<P id="jg45944">&curren;<NOTE Type="Bild"><FIGURE entity=H1835-OXY rend=extern></FIGURE></NOTE>   1835-OXY</P>
+<P id="jg45945">&curren;<NOTE Type="Bild"><FIGURE entity=H1855-PAL rend=extern></FIGURE></NOTE>   1855-PAL</P>
+<P id="jg45946">&curren;<NOTE Type="Bild"><FIGURE entity=H1859-PAN rend=extern></FIGURE></NOTE>   1859-PAN</P>
+<P id="jg45947">&curren;<NOTE Type="Bild"><FIGURE entity=H1879-PAR rend=extern></FIGURE></NOTE>   1879-PAR</P>
+<P id="jg45948">&curren;<NOTE Type="Bild"><FIGURE entity=H1899-PAS rend=extern></FIGURE></NOTE>   1899-PAS</P>
+<P id="jg45949">&curren;<NOTE Type="Bild"><FIGURE entity=H1903-PAT rend=extern></FIGURE></NOTE>   1903-PAT</P>
+<P id="jg45950">&curren;<NOTE Type="Bild"><FIGURE entity=H1907-PAT rend=extern></FIGURE></NOTE>   1907-PAT</P>
+<P id="jg45951">&curren;<NOTE Type="Bild"><FIGURE entity=H1911-PEG rend=extern></FIGURE></NOTE>   1911-PEG</P>
+<P id="jg45952">&curren;<NOTE Type="Bild"><FIGURE entity=H1915-PEL rend=extern></FIGURE></NOTE>   1915-PEL</P>
+<P id="jg45953">&curren;<NOTE Type="Bild"><FIGURE entity=H1931-PEN rend=extern></FIGURE></NOTE>   1931-PEN</P>
+<P id="jg45954">&curren;<NOTE Type="Bild"><FIGURE entity=H1943-PER rend=extern></FIGURE></NOTE>   1943-PER</P>
+<P id="jg45955">&curren;<NOTE Type="Bild"><FIGURE entity=H1967-PHA rend=extern></FIGURE></NOTE>   1967-PHA</P>
+<P id="jg45956">&curren;<NOTE Type="Bild"><FIGURE entity=H1971-PHE rend=extern></FIGURE></NOTE>   1971-PHE</P>
+<P id="jg45957">&curren;<NOTE Type="Bild"><FIGURE entity=H1987-PHI rend=extern></FIGURE></NOTE>   1987-PHI</P>
+<P id="jg45958">&curren;<NOTE Type="Bild"><FIGURE entity=H1995-PHO rend=extern></FIGURE></NOTE>   1995-PHO</P>
+<P id="jg45959">&curren;<NOTE Type="Bild"><FIGURE entity=H1999-PHR rend=extern></FIGURE></NOTE>   1999-PHR</P>
+<P id="jg45960">&curren;<NOTE Type="Bild"><FIGURE entity=H2003-PHT rend=extern></FIGURE></NOTE>   2003-PHT</P>
+<P id="jg45961">&curren;<NOTE Type="Bild"><FIGURE entity=H2007-PHY rend=extern></FIGURE></NOTE>   2007-PHY</P>
+<P id="jg45962">&curren;<NOTE Type="Bild"><FIGURE entity=H2011-PIE rend=extern></FIGURE></NOTE>   2011-PIE</P>
+<P id="jg45963">&curren;<NOTE Type="Bild"><FIGURE entity=H2015-PIN rend=extern></FIGURE></NOTE>   2015-PIN</P>
+<P id="jg45964">&curren;<NOTE Type="Bild"><FIGURE entity=H2019-PIS rend=extern></FIGURE></NOTE>   2019-PIS</P>
+<P id="jg45965">&curren;<NOTE Type="Bild"><FIGURE entity=H2023-PLA rend=extern></FIGURE></NOTE>   2023-PLA</P>
+<P id="jg45966">&curren;<NOTE Type="Bild"><FIGURE entity=H2031-PLV rend=extern></FIGURE></NOTE>   2031-PLV</P>
+<P id="jg45967">&curren;<NOTE Type="Bild"><FIGURE entity=H2035-POE rend=extern></FIGURE></NOTE>   2035-POE</P>
+<P id="jg45968">&curren;<NOTE Type="Bild"><FIGURE entity=H2039-POL rend=extern></FIGURE></NOTE>   2039-POL</P>
+<P id="jg45969">&curren;<NOTE Type="Bild"><FIGURE entity=H2063-POM rend=extern></FIGURE></NOTE>   2063-POM</P>
+<P id="jg45970">&curren;<NOTE Type="Bild"><FIGURE entity=H2067-POR rend=extern></FIGURE></NOTE>   2067-POR</P>
+<P id="jg45971">&curren;<NOTE Type="Bild"><FIGURE entity=H2071-PRA rend=extern></FIGURE></NOTE>   2071-PRA</P>
+<P id="jg45972">&curren;<NOTE Type="Bild"><FIGURE entity=H2075-PRI rend=extern></FIGURE></NOTE>   2075-PRI</P>
+<P id="jg45973">&curren;<NOTE Type="Bild"><FIGURE entity=H2087-PRO rend=extern></FIGURE></NOTE>   2087-PRO</P>
+<P id="jg45974">&curren;<NOTE Type="Bild"><FIGURE entity=H2115-PSY rend=extern></FIGURE></NOTE>   2115-PSY</P>
+<P id="jg45975">&curren;<NOTE Type="Bild"><FIGURE entity=H2123-PVD rend=extern></FIGURE></NOTE>   2123-PVD</P>
+<P id="jg45976">&curren;<NOTE Type="Bild"><FIGURE entity=H2127-PYR rend=extern></FIGURE></NOTE>   2127-PYR</P>
+<P id="jg45977">&curren;<NOTE Type="Bild"><FIGURE entity=H2135-QVI rend=extern></FIGURE></NOTE>   2135-QVI</P>
+<P id="jg45978">&curren;<NOTE Type="Bild"><FIGURE entity=H2139-RHA rend=extern></FIGURE></NOTE>   2139-RHA</P>
+<P id="jg45979">&curren;<NOTE Type="Bild"><FIGURE entity=H2143-RHO rend=extern></FIGURE></NOTE>   2143-RHO</P>
+<P id="jg45980">&curren;<NOTE Type="Bild"><FIGURE entity=H2147-ROB rend=extern></FIGURE></NOTE>   2147-ROB</P>
+<P id="jg45981">&curren;<NOTE Type="Bild"><FIGURE entity=H2151-SAC rend=extern></FIGURE></NOTE>   2151-SAC</P>
+<P id="jg45982">&curren;<NOTE Type="Bild"><FIGURE entity=H2155-SAL rend=extern></FIGURE></NOTE>   2155-SAL</P>
+<P id="jg45983">&curren;<NOTE Type="Bild"><FIGURE entity=H2159-SAN rend=extern></FIGURE></NOTE>   2159-SAN</P>
+<P id="jg45984">&curren;<NOTE Type="Bild"><FIGURE entity=H2163-SAT rend=extern></FIGURE></NOTE>   2163-SAT</P>
+<P id="jg45985">&curren;<NOTE Type="Bild"><FIGURE entity=H2175-SCH rend=extern></FIGURE></NOTE>   2175-SCH</P>
+<P id="jg45986">&curren;<NOTE Type="Bild"><FIGURE entity=H2179-SCY rend=extern></FIGURE></NOTE>   2179-SCY</P>
+<P id="jg45987">&curren;<NOTE Type="Bild"><FIGURE entity=H2183-SEG rend=extern></FIGURE></NOTE>   2183-SEG</P>
+<P id="jg45988">&curren;<NOTE Type="Bild"><FIGURE entity=H2187-SEM rend=extern></FIGURE></NOTE>   2187-SEM</P>
+<P id="jg45989">&curren;<NOTE Type="Bild"><FIGURE entity=H2191-SER rend=extern></FIGURE></NOTE>   2191-SER</P>
+<P id="jg45990">&curren;<NOTE Type="Bild"><FIGURE entity=H2199-SIB rend=extern></FIGURE></NOTE>   2199-SIB</P>
+<P id="jg45991">&curren;<NOTE Type="Bild"><FIGURE entity=H2211-SIL rend=extern></FIGURE></NOTE>   2211-SIL</P>
+<P id="jg45992">&curren;<NOTE Type="Bild"><FIGURE entity=H2215-SIL rend=extern></FIGURE></NOTE>   2215-SIL</P>
+<P id="jg45993">&curren;<NOTE Type="Bild"><FIGURE entity=H2219-SIN rend=extern></FIGURE></NOTE>   2219-SIN</P>
+<P id="jg45994">&curren;<NOTE Type="Bild"><FIGURE entity=H2223-SIR rend=extern></FIGURE></NOTE>   2223-SIR</P>
+<P id="jg45995">&curren;<NOTE Type="Bild"><FIGURE entity=H2227-SIT rend=extern></FIGURE></NOTE>   2227-SIT</P>
+<P id="jg45996">&curren;<NOTE Type="Bild"><FIGURE entity=H2231-SMY rend=extern></FIGURE></NOTE>   2231-SMY</P>
+<P id="jg45997">&curren;<NOTE Type="Bild"><FIGURE entity=H2235-SOL rend=extern></FIGURE></NOTE>   2235-SOL</P>
+<P id="jg45998">&curren;<NOTE Type="Bild"><FIGURE entity=H2239-SOM rend=extern></FIGURE></NOTE>   2239-SOM</P>
+<P id="jg45999">&curren;<NOTE Type="Bild"><FIGURE entity=H2247-SOS rend=extern></FIGURE></NOTE>   2247-SOS</P>
+<P id="jg46000">&curren;<NOTE Type="Bild"><FIGURE entity=H2251-SPA rend=extern></FIGURE></NOTE>   2251-SPA</P>
+<P id="jg46001">&curren;<NOTE Type="Bild"><FIGURE entity=H2255-SPH rend=extern></FIGURE></NOTE>   2255-SPH</P>
+<P id="jg46002">&curren;<NOTE Type="Bild"><FIGURE entity=H2259-SPO rend=extern></FIGURE></NOTE>   2259-SPO</P>
+<P id="jg46003">&curren;<NOTE Type="Bild"><FIGURE entity=H2263-STH rend=extern></FIGURE></NOTE>   2263-STH</P>
+<P id="jg46004">&curren;<NOTE Type="Bild"><FIGURE entity=H2267-STY rend=extern></FIGURE></NOTE>   2267-STY</P>
+<P id="jg46005">&curren;<NOTE Type="Bild"><FIGURE entity=H2271-STY rend=extern></FIGURE></NOTE>   2271-STY</P>
+<P id="jg46006">&curren;<NOTE Type="Bild"><FIGURE entity=H2275-SYL rend=extern></FIGURE></NOTE>   2275-SYL</P>
+<P id="jg46007">&curren;<NOTE Type="Bild"><FIGURE entity=H2279-TAL rend=extern></FIGURE></NOTE>   2279-TAL</P>
+<P id="jg46008">&curren;<NOTE Type="Bild"><FIGURE entity=H2283-TAN rend=extern></FIGURE></NOTE>   2283-TAN</P>
+<P id="jg46009">&curren;<NOTE Type="Bild"><FIGURE entity=H2287-TAR rend=extern></FIGURE></NOTE>   2287-TAR</P>
+<P id="jg46010">&curren;<NOTE Type="Bild"><FIGURE entity=H2291-TAV rend=extern></FIGURE></NOTE>   2291-TAV</P>
+<P id="jg46011">&curren;<NOTE Type="Bild"><FIGURE entity=H2295-TEC rend=extern></FIGURE></NOTE>   2295-TEC</P>
+<P id="jg46012">&curren;<NOTE Type="Bild"><FIGURE entity=H2299-TEL rend=extern></FIGURE></NOTE>   2299-TEL</P>
+<P id="jg46013">&curren;<NOTE Type="Bild"><FIGURE entity=H2315-TER rend=extern></FIGURE></NOTE>   2315-TER</P>
+<P id="jg46014">&curren;<NOTE Type="Bild"><FIGURE entity=H2323-TEV rend=extern></FIGURE></NOTE>   2323-TEV</P>
+<P id="jg46015">&curren;<NOTE Type="Bild"><FIGURE entity=H2327-THA rend=extern></FIGURE></NOTE>   2327-THA</P>
+<P id="jg46016">&curren;<NOTE Type="Bild"><FIGURE entity=H2335-THE rend=extern></FIGURE></NOTE>   2335-THE</P>
+<P id="jg46017">&curren;<NOTE Type="Bild"><FIGURE entity=H2339-THE rend=extern></FIGURE></NOTE>   2339-THE</P>
+<P id="jg46018">&curren;<NOTE Type="Bild"><FIGURE entity=H2363-THI rend=extern></FIGURE></NOTE>   2363-THI</P>
+<P id="jg46019">&curren;<NOTE Type="Bild"><FIGURE entity=H2367-THO rend=extern></FIGURE></NOTE>   2367-THO</P>
+<P id="jg46020">&curren;<NOTE Type="Bild"><FIGURE entity=H2371-THR rend=extern></FIGURE></NOTE>   2371-THR</P>
+<P id="jg46021">&curren;<NOTE Type="Bild"><FIGURE entity=H2375-THY rend=extern></FIGURE></NOTE>   2375-THY</P>
+<P id="jg46022">&curren;<NOTE Type="Bild"><FIGURE entity=H2379-TIR rend=extern></FIGURE></NOTE>   2379-TIR</P>
+<P id="jg46023">&curren;<NOTE Type="Bild"><FIGURE entity=H2383-TIT rend=extern></FIGURE></NOTE>   2383-TIT</P>
+<P id="jg46024">&curren;<NOTE Type="Bild"><FIGURE entity=H2395-TRA rend=extern></FIGURE></NOTE>   2395-TRA</P>
+<P id="jg46025">&curren;<NOTE Type="Bild"><FIGURE entity=H2407-TRI rend=extern></FIGURE></NOTE>   2407-TRI</P>
+<P id="jg46026">&curren;<NOTE Type="Bild"><FIGURE entity=H2411-TVI rend=extern></FIGURE></NOTE>   2411-TVI</P>
+<P id="jg46027">&curren;<NOTE Type="Bild"><FIGURE entity=H2415-TYD rend=extern></FIGURE></NOTE>   2415-TYD</P>
+<P id="jg46028">&curren;<NOTE Type="Bild"><FIGURE entity=H2419-TYP rend=extern></FIGURE></NOTE>   2419-TYP</P>
+<P id="jg46029">&curren;<NOTE Type="Bild"><FIGURE entity=H2431-TYR rend=extern></FIGURE></NOTE>   2431-TYR</P>
+<P id="jg46030">&curren;<NOTE Type="Bild"><FIGURE entity=H2435-VBE rend=extern></FIGURE></NOTE>   2435-VBE</P>
+<P id="jg46031">&curren;<NOTE Type="Bild"><FIGURE entity=H2439-VEN rend=extern></FIGURE></NOTE>   2439-VEN</P>
+<P id="jg46032">&curren;<NOTE Type="Bild"><FIGURE entity=H2447-VER rend=extern></FIGURE></NOTE>   2447-VER</P>
+<P id="jg46033">&curren;<NOTE Type="Bild"><FIGURE entity=H2454-VES rend=extern></FIGURE></NOTE>   2454-VES</P>
+<P id="jg46034">&curren;<NOTE Type="Bild"><FIGURE entity=H2459-VIC rend=extern></FIGURE></NOTE>   2459-VIC</P>
+<P id="jg46035">&curren;<NOTE Type="Bild"><FIGURE entity=H2463-VIR rend=extern></FIGURE></NOTE>   2463-VIR</P>
+<P id="jg46036">&curren;<NOTE Type="Bild"><FIGURE entity=H2467-VIT rend=extern></FIGURE></NOTE>   2467-VIT</P>
+<P id="jg46037">&curren;<NOTE Type="Bild"><FIGURE entity=H2471-VLY rend=extern></FIGURE></NOTE>   2471-VLY</P>
+<P id="jg46038">&curren;<NOTE Type="Bild"><FIGURE entity=H2479-VRA rend=extern></FIGURE></NOTE>   2479-VRA</P>
+<P id="jg46039">&curren;<NOTE Type="Bild"><FIGURE entity=H2483-VRE rend=extern></FIGURE></NOTE>   2483-VRE</P>
+<P id="jg46040">&curren;<NOTE Type="Bild"><FIGURE entity=H2487-VVL rend=extern></FIGURE></NOTE>   2487-VVL</P>
+<P id="jg46041">&curren;<NOTE Type="Bild"><FIGURE entity=H2495-XEN rend=extern></FIGURE></NOTE>   2495-XEN</P>
+<P id="jg46042">&curren;<NOTE Type="Bild"><FIGURE entity=H2499-ZER rend=extern></FIGURE></NOTE>   2499-ZER</P>
+<P id="jg46043">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB00 rend=extern></FIGURE></NOTE>   Genealogische Tabellen</P>
+<P id="jg46044">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB01 rend=extern></FIGURE></NOTE>   Erinnerung - I. Nachkommen der Caligo (Finsternis)</P>
+<P id="jg46045">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB02-03 rend=extern></FIGURE></NOTE>   II. Nachkommen des Coelus, III. des Oceanus</P>
+<P id="jg46046">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB04-05 rend=extern></FIGURE></NOTE>   IV. Nachkommen des Pontus, V. des Tartarus</P>
+<P id="jg46047">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB06-07 rend=extern></FIGURE></NOTE>   VI. Nachkommen des Sol, VII.  der Aurora</P>
+<P id="jg46048">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB08-09 rend=extern></FIGURE></NOTE>   VIII. Nachkommen des Iapetus, IX. der Aurora</P>
+<P id="jg46049">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB10 rend=extern></FIGURE></NOTE>   X. Nachkommen des Jupiter</P>
+<P id="jg46050">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB11 rend=extern></FIGURE></NOTE>   XI. Nachkommen des Neptun</P>
+<P id="jg46051">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB12-13 rend=extern></FIGURE></NOTE>   XII. Nachkommen des Mars, XIII. des Vulcanus</P>
+<P id="jg46052">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB14-15 rend=extern></FIGURE></NOTE>   XIV. Nachkommen des Apollo</P>
+<P id="jg46053">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB15-16 rend=extern></FIGURE></NOTE>   XV. Nachkommen des Merkur, XVI. des Bacchus</P>
+<P id="jg46054">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB17-18 rend=extern></FIGURE></NOTE>   XVII. Nachkommen des Herkules, XVIII. des Inachus und der Melissa</P>
+<P id="jg46055">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB19-20 rend=extern></FIGURE></NOTE>   IXX. Nachkommen des Pelasgus und der Meliboea, XX. des Agenor</P>
+<P id="jg46056">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB21-22 rend=extern></FIGURE></NOTE>   XXI. Nachkommen des Perseus und der Andromeda, XXII. des Cadmus und der Harmonia</P>
+<P id="jg46057">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB23-24 rend=extern></FIGURE></NOTE>   XXIII. Nachkommen des Lelex und der Cleocharea, XXIV. des Asopus und der Methone</P>
+<P id="jg46058">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB25 rend=extern></FIGURE></NOTE>   XXV. Nachkommen des Deucalion und der Pyrrha</P>
+<P id="jg46059">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB26-28 rend=extern></FIGURE></NOTE>   XXVI. Nachkommen des Endymion, XXVII. des Aktaeus, XXVIII. des Cranaus und der Pedias</P>
+<P id="jg46060">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB29-30 rend=extern></FIGURE></NOTE>   XXIX. Nachkommen des Erichtoneus, XXX. des Tantalus</P>
+<P id="jg46061">&curren;<NOTE Type="Bild"><FIGURE entity=HTAB31 rend=extern></FIGURE></NOTE>   XXXIII. Nachkommen des Teucer</P>
+<P id="jg83282"></P>
+
+</DIV1>
+</BODY>
+</TEXT>
+</TEI.2>

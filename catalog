@@ -1,0 +1,42 @@
+PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//HTML" 
+	"iso-lat1.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN"
+       "iso-lat1.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Added Latin 2//EN"
+       "iso-lat2.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Numeric and Special Graphic//EN"
+       "iso-num.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Publishing//EN"
+       "iso-pub.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Greek Symbols//EN"
+       "iso-grk3.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Diacritical Marks//EN"
+       "iso-dia.ent"
+PUBLIC "ISO 8879-1986//ENTITIES General Technical//EN"
+       "iso-tech.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Greek Letters//EN"
+       "iso-grk1.ent"
+PUBLIC "ISO 8879-1986//ENTITIES Monotoniko Greek//EN"
+       "iso-grk2.ent"
+
+
+PUBLIC "-//TEI//DTD TEI Lite 1.6 //EN" "teilite.dtd"
+PUBLIC "-//TEI U5-1995//DTD TEI Lite 1.0 Extensions//EN" "usermod.ent"
+
+
+---- Einträge für SQ Panorama
+
+-- Explorer Style Sheet --
+PUBLIC "-//Synex Information AB//DTD Stylesheet Explorer//EN"
+       "sheet.ent"
+ENTITY "STYLESHEET"
+       "sheet.ent"
+
+
+-- Explorer Navigator --
+
+PUBLIC "-//Synex Information AB//DTD Navigator Explorer//EN"
+       "nav.ent"
+ENTITY "TOC-DEF"
+       "nav.ent"
+
