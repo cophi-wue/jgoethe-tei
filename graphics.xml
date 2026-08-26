@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <graphics>
     <graphic xml:id="PFEILOB" url="bilder/pfeilob.gif"/>
     <graphic xml:id="PFEILRE" url="bilder/pfeilre.gif"/>
@@ -14,7 +13,7 @@
     <graphic xml:id="TB1" url="handschr/briefe/tb1.gif"/>
     <graphic xml:id="TB3" url="handschr/briefe/tb3.gif"/>
     <graphic xml:id="HEBR1" url="handschr/briefe/hebr1.gif"/>
-    <graphic xml:id="ORVGO" url="handschr/briefe/orvgö.gif"/>
+    <graphic xml:id="ORVGO" url="handschr/briefe/orvg&#xF6;.gif"/>
     <graphic xml:id="TB4" url="handschr/briefe/tb4.gif"/>
     <graphic xml:id="GOEWIE00" url="handschr/drama/goewie/goewie00.gif"/>
     <graphic xml:id="GOEWIE01" url="handschr/drama/goewie/goewie01.gif"/>
@@ -725,14 +724,14 @@
     <graphic xml:id="HTAB31" url="hederich/tab31.gif"/>
     <graphic xml:id="HTAB00" url="hederich/tab00.gif"/>
     <graphic xml:id="HPFEILOB" url="bilder/pfeilob.gif"/>
-    <graphic xml:id="CLA1GO" url="handschr/drama/cla1gö.gif"/>
+    <graphic xml:id="CLA1GO" url="handschr/drama/cla1g&#xF6;.gif"/>
     <graphic xml:id="FAUSTCNE" url="handschr/drama/faustcne.gif"/>
     <graphic xml:id="FAUT1NE" url="handschr/drama/faut1ne.gif"/>
     <graphic xml:id="GLEIBO" url="handschr/drama/gleibo.gif"/>
     <graphic xml:id="PROMBO" url="handschr/drama/prombo.gif"/>
     <graphic xml:id="BELINDE" url="handschr/lyrik/belinde.gif"/>
     <graphic xml:id="PROMET" url="handschr/lyrik/promet.gif"/>
-    <graphic xml:id="MUENSTER" url="handschr/prosa/münster.gif"/>
+    <graphic xml:id="MUENSTER" url="handschr/prosa/m&#xFC;nster.gif"/>
     <graphic xml:id="QUART" url="handschr/prosa/quart.gif"/>
     <graphic xml:id="WERTH1" url="handschr/prosa/werth1.gif"/>
     <graphic xml:id="WERTH2" url="handschr/prosa/werth2.gif"/>

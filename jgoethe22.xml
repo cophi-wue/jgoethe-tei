@@ -1,11 +1,1607 @@
-<?xml version="1.0"?>
-<?TAGLINK xref "TEI-P3"?><!DOCTYPE tei.2 [
-<!ENTITY PFEILOB SYSTEM "bilder/pfeilob.gif" NDATA gif>
-<!ENTITY JGOETHE0 SYSTEM "jgoethe0.sgm" NDATA sgml>
-<!ENTITY JGOETHE1 SYSTEM "jgoethe1.sgm" NDATA sgml>
-<!ENTITY JGOETHE2 SYSTEM "jgoethe2.sgm" NDATA sgml>
-<!ENTITY JGOETHE3 SYSTEM "jgoethe3.sgm" NDATA sgml>
-]>
-<tei.2 teiform="TEI.2"><teiheader type="text" status="new" teiform="teiHeader"><filedesc teiform="fileDesc"><titlestmt teiform="titleStmt"><title teiform="title">Der junge Goethe in seiner Zeit. Texte und Kontexte. </title><author teiform="author">Johann Wolfgang Goethe</author><respstmt teiform="respStmt"><resp teiform="resp">Herausgegeben von </resp><name teiform="name">Karl Eibl, Fotis Jannidis, Marianne Willems</name></respstmt></titlestmt><editionstmt teiform="editionStmt"><edition teiform="edition">Erste Ausgabe 
-			<date teiform="date">1998</date>
-		</edition></editionstmt><publicationstmt teiform="publicationStmt"><p teiform="p">Der junge Goethe in seiner Zeit</p><p teiform="p">Herausgegeben von Karl Eibl, Fotis Jannidis und Marianne Willems</p><p teiform="p">Erste Auflage 1998</p><p teiform="p">ISBN	gebunden 3-458-16914-8</p><p teiform="p">Taschenbuch 3-458-33800-4</p><p teiform="p">Insel Verlag Frankfurt/Main</p><p teiform="p">Weitere Informationen: http://www.jgoethe.uni-muenchen.de/</p></publicationstmt><sourcedesc default="no" teiform="sourceDesc"><p teiform="p">Die Texte des Jungen Goethe entstammen, so weit nicht anders angegeben, der Ausgabe: Der junge Goethe. Neu bearb. 3. Ausgabe. 5 Bde. und 1 Reg.-Bd. Hrsg. v. Hanna Fischer-Lamberg. Berlin bzw. Bd. 5 und Reg.-Bd. Berlin und New York 1963 - 1974. (Sigle FL). Das Nähere jeweils im Kommentar. Die Herkunft der anderen Vorlagen wird jeweils unter dem Titel genannt. Wo kein spezieller Herkunftsvermerk steht, war das Original die Vorlage.</p></sourcedesc></filedesc><encodingdesc teiform="encodingDesc"><projectdesc default="no" teiform="projectDesc"><p teiform="p">Die TEI-Dateien wurden durch Konvertierung der Folio Flat Files gewonnen. Zur besseren Handhabung mit SGML-Browsern wurden die Daten in 24 Dateien gespeichert: jgoethe0.sgm - jgoethe23.sgm. Die zugehörigen Entities befinden sich in den gleichnamigen Dateien mit der Endung .ent. Das Tag milestone wurde zweckentfremdet, um Informationen zum Entstehungszeitraum nicht zu verlieren (genaueres in der readme.txt). </p></projectdesc><editorialdecl default="no" teiform="editorialDecl"><p teiform="p">Die editorischen Prinzipien der Ausgabe sind im Nachwort (Teil des Textes) nachzulesen. Eine Beschreibung der Tags und zur Formatierung wesentlicher Attribute befindet sich in der beiliegenden readme.txt</p></editorialdecl></encodingdesc></teiheader><text teiform="text"><body teiform="body"><div1 id="jg81530" type="Überschrift1" org="uniform" sample="complete" part="n" teiform="div1"><head teiform="head"><anchor id="werktitel" teiform="anchor"/>Werktitel und Gedichtanfänge</head><p id="jg81531" teiform="p"><xref targorder="u" doc="JGOETHE0" from="id (Anfang)" to="DITTO" teiform="xref"><figure rend="intern" entity="PFEILOB" teiform="figure"></figure></xref></p><p id="jg81532" teiform="p"></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Hoffman)" to="DITTO" teiform="xref">A Monsieur le Major General de Hoffmann</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaUnconfidence)" to="DITTO" teiform="xref">A Song over the Unconfidence toeards my self</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Achfandefurmich)" to="DITTO" teiform="xref">Ach fände für mich</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AchichwarauchindiesemFalle)" to="DITTO" teiform="xref">Ach ich war auch in diesem Falle</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AchihrGottergroseGotter)" to="DITTO" teiform="xref">Ach ihr Götter, grose Götter</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Achwiesehn)" to="DITTO" teiform="xref">Ach wie sehn ich mich nach Dir </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AlsichnocheinKnabewarIris)" to="DITTO" teiform="xref">Als ich noch ein Knabe war (Iris)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AlsichnocheinKnabewarHB)" to="DITTO" teiform="xref">Als ich noch ein Knabe war (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeAmorsGrab)" to="DITTO" teiform="xref">Amors Grab (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLAmorsGrab)" to="DITTO" teiform="xref">Amors Grab (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Scheintod)" to="DITTO" teiform="xref">Scheintod (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnAnnetten)" to="DITTO" teiform="xref">An Annetten</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnBelinden)" to="DITTO" teiform="xref">An Belinden </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SAnBelinden)" to="DITTO" teiform="xref">An Belinden (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBAnChristel)" to="DITTO" teiform="xref">An Christel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SChristel)" to="DITTO" teiform="xref">An Christel (H3 1788)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (ChristelAHAE)" to="DITTO" teiform="xref">An Christel (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Handel)" to="DITTO" teiform="xref">An den Kuchenbäcker Hendel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AndenMond)" to="DITTO" teiform="xref">An den Mond</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (AnLuna)" to="DITTO" teiform="xref">An Luna (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AndenSchlaf)" to="DITTO" teiform="xref">An den Schlaf</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLAndieUnschuld)" to="DITTO" teiform="xref">An die Unschuld</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Unschukd)" to="DITTO" teiform="xref">Unschuld (1815) </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LavaterBistduhier)" to="DITTO" teiform="xref">An die Wand von Lavaters Stube im Pfarrhaus von Oberried </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AneinenjungenPrahler)" to="DITTO" teiform="xref">An einen jungen Prahler</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MonologdesLiebhabers)" to="DITTO" teiform="xref">An Kenner und Liebhaber</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBMonologdesLiebhabers)" to="DITTO" teiform="xref">An Kenner und Liebhaber (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SMonologdesLiebhabers)" to="DITTO" teiform="xref">Monolog des Liebhabers (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LebensMuh)" to="DITTO" teiform="xref">An Kestner </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnMeineLieder)" to="DITTO" teiform="xref">An meine Lieder (Annette)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLAnmeineLieder)" to="DITTO" teiform="xref">An meine Lieder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaWeise)" to="DITTO" teiform="xref">An meine Mutter</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnSchwagerKronos)" to="DITTO" teiform="xref">An Schwager Kronos in der Postchaise d. 10 Oktbr 1774</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBAnSchwagerKronos)" to="DITTO" teiform="xref">An Schwager Kronos (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SAnSchwagerKronos)" to="DITTO" teiform="xref">An Schwager Kronos (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeAnVenus)" to="DITTO" teiform="xref">An Venus</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBKennerundEnthusiast)" to="DITTO" teiform="xref">Aneckdote unsrer Tage</xref> siehe <lb teiform="lb"/></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WahrhaftesMahrgen)" to="DITTO" teiform="xref">Wahrhaftes Mährgen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Anekdote)" to="DITTO" teiform="xref">Anekdote zu den Freuden des jungen Werther</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnnetteanihrenGeliebten)" to="DITTO" teiform="xref">Annette an ihren Geliebten</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ANTEILANLAVATERSPHYSIOGNOMISCHENFRAGMENTEN)" to="DITTO" teiform="xref">Anteil an Lavaters physiognomischen Fragmenten Einzelne Charakteristiken</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ArianneanWetty)" to="DITTO" teiform="xref">Arianne an Wetty</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AuchindieallergrobsteLugen)" to="DITTO" teiform="xref">Auch in die allergröbste Lügen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnChristel)" to="DITTO" teiform="xref">Auf Christianen R.  [An Christel]</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchsauganmeinerNabelschnur)" to="DITTO" teiform="xref">Auf dem See</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SAufdemSee)" to="DITTO" teiform="xref">Auf dem See (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AufKieselnimBache)" to="DITTO" teiform="xref">Auf Kieseln im Bache, da lieg ich, wie helle</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AufMsllN)" to="DITTO" teiform="xref">Auf Msll. N. N. </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NicolaiDunkelhafterMann)" to="DITTO" teiform="xref">Auf Nicolai</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AugmeinAugwassinckstdunieder)" to="DITTO" teiform="xref">Aug mein Aug was sinckst du nieder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AUSGOETHESBRIEFTASCHE)" to="DITTO" teiform="xref">Aus Goethes Brieftasche</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BaldleuchtestduoGraf)" to="DITTO" teiform="xref">Bald leuchtest du o Graf, in engelheiterm Schimmer</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BaldesehichRickgenwieder)" to="DITTO" teiform="xref">Balde seh ich Rickgen wieder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BedeckedeinenHimmelZevs)" to="DITTO" teiform="xref">Bedecke deinen Himmel Zevs (Handschrift für Merck)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BedeckedeinenHimmelZevsHB)" to="DITTO" teiform="xref">Bedecke deinen Himmel Zevs (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BedenkoKindwohersinddieseGaben)" to="DITTO" teiform="xref">Bedenk, o Kind, woher sind diese Gaben (Wandsbecker Bote)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BedenckoKindwohersinddieseGaben)" to="DITTO" teiform="xref">Bedenck o Kind woher sind diese Gaben (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Beidemerfreulichen)" to="DITTO" teiform="xref">Bei dem erfreulichen Anbruche  Des 1757. Jahres wollte seinen Hochgeehrtesten und Hertzlichgeliebten Gros Eltern Die Gesinnungen Kindlicher Hochachtung und Liebe durch Folgende Segens Wünsche zu erkennen geben Deroselben Treugehorsamster Enckel Johann Wolfgang Goethe</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BEITRAGEZUDENFRANKFURTERGELEHRTENANZEIGEN)" to="DITTO" teiform="xref">Beiträge zu den Frankfurter Gelehrten Anzeigen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Belsazar)" to="DITTO" teiform="xref">Belsazar</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BESCHREIBUNGEINERSCHWEIZERLANDSCHAFT)" to="DITTO" teiform="xref">Beschreibung einer Schweizer Landschaft</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Beydiesemneuen)" to="DITTO" teiform="xref">Bey diesem neuen Jahres Wechsel überreichet Seinen Verehrungswürdigen GrossEltern, dieses Opfer aus kindlicher Hochachtung Joh: Wolfg: Goethe den 1. Jenner. 1762</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LavaterBistduhier)" to="DITTO" teiform="xref">Bist du hier</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Bleibebleibebeymir)" to="DITTO" teiform="xref">Bleibe, bleibe bey mir</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BlindeKuh)" to="DITTO" teiform="xref">Blinde Kuh</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Brief)" to="DITTO" teiform="xref">Brief.</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKunstlersAbendlied)" to="DITTO" teiform="xref">Künstlers Abendlied (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Sendschreiben)" to="DITTO" teiform="xref">Sendschreiben (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnLottchen)" to="DITTO" teiform="xref">Brief an Lottchen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SAnLottchen)" to="DITTO" teiform="xref">An Lottchen (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BRIEFDESPASTORSANDENNEUENPASTOR)" to="DITTO" teiform="xref">Brief des Pastors von  * * * an den neuen Pastor von * * *</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (TrappMuller)" to="DITTO" teiform="xref">Briefgedicht an Augustin Trapp, Leipzig 2. 6. 1766 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (BehrischPleasure)" to="DITTO" teiform="xref">Briefgedicht an Behrisch, 12. 10. 1766 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaAmi)" to="DITTO" teiform="xref">Briefgedicht an die Schwester Cornelia, 13. 10. 1767 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaKloster)" to="DITTO" teiform="xref">Briefgedichte an die Schwester  Cornelia, 7. 12. 1765  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaUnconfidence)" to="DITTO" teiform="xref">Briefgedichte an die Schwester Cornelia, 11. 5. 1766 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaWeise)" to="DITTO" teiform="xref">Briefgedichte an die Schwester Cornelia, 11. 5. 1767  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaACAXAGFF)" to="DITTO" teiform="xref">Briefgedichte an die Schwester Cornelia, 13. 10. 1766 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeserBriefgedicht)" to="DITTO" teiform="xref">Briefgedicht an Friederike Oeser, 6. 11. 1768 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GotterSchickedirhier)" to="DITTO" teiform="xref">Briefgedicht an Friedrich Wilhelm Gotter, ?. 6. 1773 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchlosserDudemdieMusen)" to="DITTO" teiform="xref">Briefgedicht an Hieronymus Peter Schlosser, Frankfurt Ende 11. 1774 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OrvilleLieberHerrO)" to="DITTO" teiform="xref">Briefgedicht an Johann Georg und Rahel d'Orville, Frankfurt 30. 7. oder  3. 9. 1775 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MerckSchickedirhier)" to="DITTO" teiform="xref">Briefgedicht an Johann Heinrich Merck, 3./4. 1773 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenndemPapa)" to="DITTO" teiform="xref">Briefgedicht an Kestner, ?. 1. 1773 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenneinenseelgenBiedermann)" to="DITTO" teiform="xref">Briefgedicht an Lotte Kestner, 5. 9. 1773 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MerckLieberBruder)" to="DITTO" teiform="xref">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MerckMeinaltesEvangelium)" to="DITTO" teiform="xref">Briefgedicht an Merck, Frankfurt ? 5. 12. 1774</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Sendschreiben)" to="DITTO" teiform="xref">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 (Sendschreiben 1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Sendschreiben)" to="DITTO" teiform="xref">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 (Sendschreiben 1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKunstlersAbendlied)" to="DITTO" teiform="xref">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 (Künstlers Abendlied 1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (RieseVogel)" to="DITTO" teiform="xref">Briefgedicht an Riese, Leipzig, 20. 10. 1765 </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (RieseVergnugen)" to="DITTO" teiform="xref">Briefgedichte an Riese, 28. 4. 1766  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (RieseDieVersartdie)" to="DITTO" teiform="xref">Briefgedichte an Riese, 8. 11. 1765  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Bundeslied)" to="DITTO" teiform="xref">Bundeslied (Merkur)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBBundeslied)" to="DITTO" teiform="xref">Bundeslied (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SBundeslied)" to="DITTO" teiform="xref">Bundeslied (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Caesar)" to="DITTO" teiform="xref">Caesar</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBCatechisation)" to="DITTO" teiform="xref">Catechisation</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CatechetischeInduction)" to="DITTO" teiform="xref">Cathechetische Induction</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (CatechisationAHAE)" to="DITTO" teiform="xref">Cathechetische Induction (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Ceslignesmonami)" to="DITTO" teiform="xref">Ces lignes mon ami, que je vais Vous ecrire</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ClaudinevonVillaBella)" to="DITTO" teiform="xref">Claudine von Villa Bella</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Clavigo)" to="DITTO" teiform="xref">Clavigo</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ClimenelebtintausendSorgen)" to="DITTO" teiform="xref">Climene lebt in tausend Sorgen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ConcertoDramatico)" to="DITTO" teiform="xref">Concerto dramatico composto dal Sigr Dottore Flamminio detto Panurgo secondo</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DaflattertumdieQvelle)" to="DITTO" teiform="xref">Da flattert um die Qvelle (Oeser-Lieder) </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DaflattertumdieQuelle)" to="DITTO" teiform="xref">Da flattert um die Quelle (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DahatticheinenKerlzuGast)" to="DITTO" teiform="xref">Da hatt ich einen Kerl zu Gast</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (RezensentAHAE)" to="DITTO" teiform="xref">Da hatt ich einen Kerl zu Gast (Rezensent 1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DasindsienunDahabtihrsie)" to="DITTO" teiform="xref">Da sind sie nun! Da habt ihr sie!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DawirdmeinHerzvonJammervoll)" to="DITTO" teiform="xref">Da wird mein Herz von Jammer voll</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DasEndekrontjetztdievergangneZeiten)" to="DITTO" teiform="xref">Das Ende krönt jetzt die vergangne </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenneinenseelgenBiedermann)" to="DITTO" teiform="xref">Das garstige Gesicht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (DasgarstigeGesichtAHAE)" to="DITTO" teiform="xref">Das garstige Gesicht (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeDasGluck)" to="DITTO" teiform="xref">Das Glück an Annetten (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDasGluck)" to="DITTO" teiform="xref">Das Glück (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (GluckundTraumAHAE)" to="DITTO" teiform="xref">Glück und Traum (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDasGluckderLiebe)" to="DITTO" teiform="xref">Das Glück der Liebe</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (GluckderEntfernung)" to="DITTO" teiform="xref">Glück der Entfernung (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DasistmeinLeib)" to="DITTO" teiform="xref">Das ist mein Leib, nehmt hin und esset</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (AnSchreyen)" to="DITTO" teiform="xref">Das Schreyen nach dem Italiänischen (Annette)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeDasSchreyen)" to="DITTO" teiform="xref">Das Schreyn (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDasSchreyen)" to="DITTO" teiform="xref">Das Schreyen (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DasVeilchen)" to="DITTO" teiform="xref">Das Veilchen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DemHimmelwachseentgegen)" to="DITTO" teiform="xref">Dem Himmel wachse entgegen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DemMadgenwardnebstandernGaben)" to="DITTO" teiform="xref">Dem Mädgen ward nebst andern Gaben</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DemPassavantundSchubleri)" to="DITTO" teiform="xref">Dem Passavant- und Schüblerischen Brautpaare</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DenkunftgenTagundStunden)" to="DITTO" teiform="xref">Den künftgen Tag und Stunden</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DenMannernzuzeigen)" to="DITTO" teiform="xref">Den Männern zu zeigen </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GuterRathaufeinReisbret)" to="DITTO" teiform="xref">Denck und Trostsprüchlein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SGuterRat)" to="DITTO" teiform="xref">Denck und Trostsprüchlein (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Dennwersiekenntderfliehtsienicht)" to="DITTO" teiform="xref">Denn wer sie kennt, der flieht sie nicht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerAbschied)" to="DITTO" teiform="xref">Der Abschied</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerAdlerunddieTaube)" to="DITTO" teiform="xref">Der Adler und die Taube</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SAdlerundTaube)" to="DITTO" teiform="xref">Adler und Taube (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerdumitdeinemMohne)" to="DITTO" teiform="xref">Der du mit deinem Mohne</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKennerundEnthusiast)" to="DITTO" teiform="xref">Kenner und Enthusiast (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerKonigvonThule)" to="DITTO" teiform="xref">Der König von Thule</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerLugner)" to="DITTO" teiform="xref">Der Lügner</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDerMisanthrop)" to="DITTO" teiform="xref">Der Misanthrop</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerneueAmadis)" to="DITTO" teiform="xref">Der neue Amadis (Iris)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBDerneueAmadis)" to="DITTO" teiform="xref">Der neue Amadis (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SAmadis)" to="DITTO" teiform="xref">Der neue Amadis (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeDerSchmetterling)" to="DITTO" teiform="xref">Der Schmetterling (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDerSchmetterling)" to="DITTO" teiform="xref">Der Schmetterling (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SchmetterlingAHAE)" to="DITTO" teiform="xref">Schadenfreude (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerTeufelhohldasMenschengeschlecht)" to="DITTO" teiform="xref">Der Teufel hohl das </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerTugendspiegel)" to="DITTO" teiform="xref">Der Tugendspiegel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DeruntreueKnabe)" to="DITTO" teiform="xref">Der untreue Knabe </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDerwahreGenus)" to="DITTO" teiform="xref">Der wahre Genuß</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SGenuss)" to="DITTO" teiform="xref">Genuß (1788)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerWandrer)" to="DITTO" teiform="xref">Der Wandrer (Mercks Abschrift)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBDerWandrer)" to="DITTO" teiform="xref">Der Wandrer (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SDerWandrer)" to="DITTO" teiform="xref">Der Wandrer (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DerewigeJude)" to="DITTO" teiform="xref">Des ewigen Juden, erster Fetzen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DesKunstlersErdewallen)" to="DITTO" teiform="xref">Des Künstlers Erdewallen.</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DesKunstlersVergotterung)" to="DITTO" teiform="xref">Des Künstlers Vergötterung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DiedusteigstimWinterwetter)" to="DITTO" teiform="xref">Die du steigst im Winterwetter</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeDieFreuden)" to="DITTO" teiform="xref">Die Freuden (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDieFreuden)" to="DITTO" teiform="xref">Die Freuden (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SDieFreuden)" to="DITTO" teiform="xref">Die Freuden (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GESANGEVONSELMA)" to="DITTO" teiform="xref">Die Gesänge von Selma</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DiekoniglicheEinsiedlerin)" to="DITTO" teiform="xref">Die königliche Einsiedlerin</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DieLauneDesVerliebten)" to="DITTO" teiform="xref">Die Laune des Verliebten</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DIELEIDENDESJUNGENWERTHERS)" to="DITTO" teiform="xref">Die Leiden des jungen Werthers</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDieLiebewiderWillen)" to="DITTO" teiform="xref">Die Liebe wider Willen </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DieLiebhaber)" to="DITTO" teiform="xref">Die Liebhaber</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DieMitschuldigenA)" to="DITTO" teiform="xref">Die Mitschuldigen (1. Fassung)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DieMitschuldigen)" to="DITTO" teiform="xref">Die Mitschuldigen (2. Fassung)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeDieNacht)" to="DITTO" teiform="xref">Die Nacht (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDieNacht)" to="DITTO" teiform="xref">Die Nacht (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SDieNacht)" to="DITTO" teiform="xref">Die schöne Nacht (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLDieReliquie)" to="DITTO" teiform="xref">Die Reliquie</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (LebendigesAndenken)" to="DITTO" teiform="xref">Lebendiges Andenken (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DieVersartdiedemMadgen)" to="DITTO" teiform="xref">Die Versart, die dem Mädgen wohl gefiel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DieswirddieletzteTrahnnichtseyn)" to="DITTO" teiform="xref">Dies wird die letzte Trähn' nicht seyn</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DiesesistdasBildderWelt)" to="DITTO" teiform="xref">Dieses ist das Bild der Welt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DinezuKoblenz)" to="DITTO" teiform="xref">Diné zu Koblenz</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DirdarfdiesBlateinKettchenbringen)" to="DITTO" teiform="xref">Dir darf dies Blat ein Kettchen bringen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DritteOde)" to="DITTO" teiform="xref">Dritte Ode</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DRITTEWALLFAHRTnachErwinsGrabeimJuliAGGE)" to="DITTO" teiform="xref">Dritte Wallfahrt nach Erwins Grabe im Juli 1775</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Dubrauchstnichtscharfzuzielen)" to="DITTO" teiform="xref">Du brauchst nicht scharf zu zielen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DudemdieMusenvondenAktenStocken)" to="DITTO" teiform="xref">Du dem die Musen von den Akten </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DugehstIchmurre)" to="DITTO" teiform="xref">Du gehst! Ich murre</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DuhastunsoftimTraumgesehen)" to="DITTO" teiform="xref">Du hast uns oft im Traum gesehen (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DuhastunsoftimTraumgesehen)" to="DITTO" teiform="xref">Du hast uns oft im Traum gesehen (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinAdlerjunglinghobdieFlugel)" to="DITTO" teiform="xref">Ein Adlerjüngling hob die Flügel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinFastnachtsspiel)" to="DITTO" teiform="xref">Ein Fastnachtsspiel,</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Autoren)" to="DITTO" teiform="xref">Ein Gleichniss [Autoren] (Wandsbecker Bote)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBAutoren)" to="DITTO" teiform="xref">Ein Gleichniss [Autoren] (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (DilettantundKritiker)" to="DITTO" teiform="xref">Ein Gleichniss </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBDilettantundKritiker)" to="DITTO" teiform="xref">Ein Gleichniss [Dilettant und Krtitiker] (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EingrauertruberMorgen)" to="DITTO" teiform="xref">Ein grauer trüber Morgen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EiniungerMenschichweisnichtwie)" to="DITTO" teiform="xref">Ein iunger Mensch ich weis nicht wie</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinLutherischerGeistlicher)" to="DITTO" teiform="xref">Ein lutherischer Geistlicher spricht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinReicher)" to="DITTO" teiform="xref">Ein Reicher dem gemeinen Wesen zur Nachricht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EintheuresBuchleinsiehstduhier)" to="DITTO" teiform="xref">Ein theures Büchlein siehst du hier</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinVeilchenaufderWiesestand)" to="DITTO" teiform="xref">Ein Veilchen auf der Wiese stand</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinzartlichiugendlicherKummer)" to="DITTO" teiform="xref">Ein zärtlich iugendlicher Kummer</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EINFALLEUNDNOTIZEN)" to="DITTO" teiform="xref">Einfälle und Notizen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinstgiengichmeinemMadchennach)" to="DITTO" teiform="xref">Einst gieng ich meinem Mädchen nach</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EinstsassiemeinenLehren)" to="DITTO" teiform="xref">Einst saß sie meinen Lehren</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EislebensLied)" to="DITTO" teiform="xref">Eislebens Lied</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Muth)" to="DITTO" teiform="xref">Muth (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ElegieBruder)" to="DITTO" teiform="xref">Elegie  auf den Tod des Bruders meines Freundes </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Elisium)" to="DITTO" teiform="xref">Elisium an Uranien</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EntwurffurDieLeidendesjungenWerthers)" to="DITTO" teiform="xref">Entwurf für: Die Leiden des jungen Werthers</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErfliegthinwegDichzuumfangen)" to="DITTO" teiform="xref">Er fliegt hinweg Dich zu umfangen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErsuchtdieUrsachzuergrunden)" to="DITTO" teiform="xref">Er sucht die Ursach zu ergründen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErhabnerGrosPapa)" to="DITTO" teiform="xref">Erhabner GrosPapa! </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErstsitztereineWeile)" to="DITTO" teiform="xref">Erst sitzt er eine Weile</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErsteOde)" to="DITTO" teiform="xref">Erste Ode</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErwacheFriedericke)" to="DITTO" teiform="xref">Erwache Friedericke</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ErwinundElmire)" to="DITTO" teiform="xref">Erwin und Elmire</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsfuhreinFuhrknechtuberdenRhein)" to="DITTO" teiform="xref">Es fuhr ein Fuhrknecht über den Rhein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EshatteinKnabeineTaubezart)" to="DITTO" teiform="xref">Es hatt' ein Knab eine Taube zart [Ein Gleichnis] (Wandsbecker Bote)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EshatteinKnabeineTaubezart)" to="DITTO" teiform="xref">Es hatt ein Knab' eine Taube zart (Ein Gleichnis H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (DilettantundKritikerAHAE)" to="DITTO" teiform="xref">Es hatt' ein Knab eine Taube zart (Dilettant und Kritiker 1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsistmeineinzigesVergnugen)" to="DITTO" teiform="xref">Es ist mein einziges Vergnügen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsistsovielHeimwehinderWelt)" to="DITTO" teiform="xref">Es ist so viel Heimweh in der Welt </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsnanntenihreBucher)" to="DITTO" teiform="xref">Es nannten ihre Bücher</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsreitderHerrvonFalckenstein)" to="DITTO" teiform="xref">Es reit der Herr von Falckenstein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsSchlugmeinHertzgeschwindzuPferde)" to="DITTO" teiform="xref">Es Schlug mein Hertz, geschwind zu (Sessenheimer Fassung) (siehe auch: Mir schlug ...)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsstehendreySternenamHimmel)" to="DITTO" teiform="xref">Es stehen drey Sternen am Himmel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswareinadlicherLindenschmidt)" to="DITTO" teiform="xref">Es war ein ädlicher Lindenschmidt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswareinBulefrechgenung)" to="DITTO" teiform="xref">Es war ein Bule frech genung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswareinKoniginThule)" to="DITTO" teiform="xref">Es war ein König in Thule</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswareinmaleinedlerHerr)" to="DITTO" teiform="xref">Es war einmal ein edler Herr</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswareinmaleinHagenstolz)" to="DITTO" teiform="xref">Es war einmal ein Hagenstolz</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswareinmaleinZimmergesell)" to="DITTO" teiform="xref">Es war einmal ein Zimmergesell</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswarendreyJunggesellen)" to="DITTO" teiform="xref">Es waren drey Junggesellen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswerbteiniungerGrafenSohn)" to="DITTO" teiform="xref">Es werbt ein iunger Grafen Sohn</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EswollteinKnabspazierengehn)" to="DITTO" teiform="xref">Es wollt ein Knab spazieren gehn</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EuerBeyfallmachtmichfreyer)" to="DITTO" teiform="xref">Euer Beyfall macht mich freyer</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Fabeln)" to="DITTO" teiform="xref">Fabeln</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Faust)" to="DITTO" teiform="xref">Faust</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FelsWeihegesang)" to="DITTO" teiform="xref">Fels-Weihegesang an Psyche</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FettergruneduLaub)" to="DITTO" teiform="xref">Fetter grüne, du Laub!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FliehTaubchenflieh)" to="DITTO" teiform="xref">Flieh, Täubchen, flieh!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FreudendesjungenW)" to="DITTO" teiform="xref">Freuden des iungen Werthers</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FURLAVATERVERFASSTEERKLARUNG)" to="DITTO" teiform="xref">Für Lavater verfasste Erklärung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Ganymed)" to="DITTO" teiform="xref">Ganymed (Frühe Handschrift)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBGanymed)" to="DITTO" teiform="xref">Ganymed (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SGanymed)" to="DITTO" teiform="xref">Ganymed (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GanzandreWunschesteigenjezt)" to="DITTO" teiform="xref">Ganz andre Wünsche steigen jezt, als sonst</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GeistesGrus)" to="DITTO" teiform="xref">Geistes Gruss</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GelachtGeschrieben)" to="DITTO" teiform="xref">Gelacht! Geschrieben!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GernverlasichdieseHutteOe)" to="DITTO" teiform="xref">Gern verlaß ich diese Hütte (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GernverlasichdieseHutteNL)" to="DITTO" teiform="xref">Gern verlaß ich diese Hütte (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GeschichteGottfriedens)" to="DITTO" teiform="xref">Geschichte Gottfriedens von Berlichingen mit der </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GottseegedichiungeFrau)" to="DITTO" teiform="xref">Gott seegne dich iunge Frau (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GottsegnedichjungeFrau)" to="DITTO" teiform="xref">Gott segne dich junge Frau (Mercks Abschrift)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE3" from="id (GotterHeldenundWieland)" to="DITTO" teiform="xref">Götter Helden und Wieland</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (RieseDieVersartdie)" to="DITTO" teiform="xref">Gottsched ein Mann</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GotzvonBerlichingen)" to="DITTO" teiform="xref">Götz von Berlichingen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Grabschrift)" to="DITTO" teiform="xref">Grabschrift</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GrafFriedrichwolltausreiten)" to="DITTO" teiform="xref">Graf Friedrich wollt ausreiten</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GrosElterndadisJahr)" to="DITTO" teiform="xref">Gros Eltern da diß Jahr heut seinen Anfang nimt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GroseVenusmachtgeGottin)" to="DITTO" teiform="xref">Große Venus, mächtge Göttin!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GutbravmeinHerrAllein)" to="DITTO" teiform="xref">Gut brav mein Herr! Allein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLGuteNachtanAnnetten)" to="DITTO" teiform="xref">Gute Nacht an Annetten da sie heurahtete</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GuterRathaufeinReisbret)" to="DITTO" teiform="xref">Guter Rath auf ein Reisbret auch wohl Schreibtisch &amp;c.</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SGuterRat)" to="DITTO" teiform="xref">Guter Rat (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HaichbinHerrderWeltmichlieben)" to="DITTO" teiform="xref">Ha ich bin Herr der Welt! mich lieben</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HabeinbucklichMannelgnomme)" to="DITTO" teiform="xref">Hab ein bucklich Männel g'nomme</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HaboffteinendummendusternSinnHandschrift)" to="DITTO" teiform="xref">Hab offt einen dummen düstern Sinn (Boies Handschrift)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HaboffteinendummendusternSinnHB)" to="DITTO" teiform="xref">Hab offt einen dummen düstern Sinn (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HanswurstsHochzeit)" to="DITTO" teiform="xref">Hanswursts Hochzeit</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Heidenroslein)" to="DITTO" teiform="xref">Heidenröslein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HerzmeinHerzwassolldasgeben)" to="DITTO" teiform="xref">Herz, mein Herz, was soll das geben?</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HierschickichdireintheuresPfand)" to="DITTO" teiform="xref">Hier schick ich dir ein theures Pfand</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HochaufdemaltenThurnesteht)" to="DITTO" teiform="xref">Hoch auf dem alten Thurne steht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SGeistesGrus)" to="DITTO" teiform="xref">Geistes Gruß (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLHochzeitlied)" to="DITTO" teiform="xref">Hochzeitlied (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Hochzeitlied)" to="DITTO" teiform="xref">Hochzeitlied (Separat überliefert)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (Brautnacht)" to="DITTO" teiform="xref">Brautnacht (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HoherTugendenundOlympischerKranze)" to="DITTO" teiform="xref">Hoher Tugenden und</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Hypochonder)" to="DITTO" teiform="xref">Hypochonder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchfandmeinMadgeneinstallein)" to="DITTO" teiform="xref">Ich fand mein Mädgen einst allein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchfuhrteinenFreundzumMaideliung)" to="DITTO" teiform="xref">Ich führt einen Freund zum Maidel iung (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchhabeucheinenTempelbaut)" to="DITTO" teiform="xref">Ich hab euch einen Tempel baut (Aus Goethes Brieftasche)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchhabeucheinenTempelbaut)" to="DITTO" teiform="xref">Ich hab euch einen Tempel baut (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchkennoJunglingdeineFreude)" to="DITTO" teiform="xref">Ich kenn', o Jüngling, deine Freude</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchkommebaldihrgoldnenKinder)" to="DITTO" teiform="xref">Ich komme bald, ihr goldnen Kinder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchsahwieDorisbeyDamotenstand)" to="DITTO" teiform="xref">Ich sah wie Doris bey Damöten stand</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchsauganmeinerNabelschnur)" to="DITTO" teiform="xref">Ich saug an meiner Nabelschnur</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchschreibejetztvonmeinemBelsazer)" to="DITTO" teiform="xref">Ich schreibe jetzt von meinem Belsazer</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchstehaufeinemhohenBerg)" to="DITTO" teiform="xref">Ich steh auf einem hohen Berg</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IchwareinKnabewarmundgut)" to="DITTO" teiform="xref">Ich war ein Knabe warm und gut</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Ichweiseswohlundspotteviel)" to="DITTO" teiform="xref">Ich weiß es wohl, und spotte viel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IhrHerzistgleich)" to="DITTO" teiform="xref">Ihr Herz ist gleich</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IISura)" to="DITTO" teiform="xref">II. Sura</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ImdusternWaldaufdergespaltnenEiche)" to="DITTO" teiform="xref">Im düstern Wald, auf der gespaltnen </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ImFeldeschleichichstillundwild)" to="DITTO" teiform="xref">Im Felde schleich ich still und wild</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ImHerbstAGGE)" to="DITTO" teiform="xref">Im Herbst 1775</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SHerbstgefuhl)" to="DITTO" teiform="xref">Herbstgefühl (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ImSchlafgemachentferntvomFeste)" to="DITTO" teiform="xref">Im Schlafgemach, entfernt vom Feste</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ImSchlafgemachfernvondemFeste)" to="DITTO" teiform="xref">Im Schlafgemach, fern von dem Feste</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ImspielendenBachedaliegichwiehelle)" to="DITTO" teiform="xref">Im spielenden Bache da lieg ich wie </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (InallengutenStunden)" to="DITTO" teiform="xref">In allen guten Stunden </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchatzkMutter)" to="DITTO" teiform="xref">In das 'Güldne Schatzkästlein' der Mutter  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ReynierEinteuresBuchlein)" to="DITTO" teiform="xref">In das Stammbuch Johann Peter de Reyniers  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (StammbMoors)" to="DITTO" teiform="xref">In das Stammbuch von Friedrich Maximilian Moors </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GroningStamm)" to="DITTO" teiform="xref">In das Stammbuch von Georg Gröning </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (StammbClarus)" to="DITTO" teiform="xref">In das Stammbuch von Johann Christoph Clarus  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LenzStammbZurErinnrung)" to="DITTO" teiform="xref">In das Stammbuch von Lenz  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IndenWusteneinheiligerMann)" to="DITTO" teiform="xref">In den Wüsten ein heiliger Mann</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IndesPappillonsGestalt)" to="DITTO" teiform="xref">In des Pappillons Gestalt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IneinAlbum)" to="DITTO" teiform="xref">In ein Album </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WertherInjammervolle)" to="DITTO" teiform="xref">In ein Exemplar der Leiden des jungen Werthers </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MerckZeichenmappePfand)" to="DITTO" teiform="xref">In eine Zeichenmappe für Merck  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IngrosenStadtenlernenfruh)" to="DITTO" teiform="xref">In großen Städten lernen früh</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IniammervolleSeelenfreuden)" to="DITTO" teiform="xref">In iammervolle Seelenfreuden</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (IstdochkeineMenagerie)" to="DITTO" teiform="xref">Ist doch keine Menagerie</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JagersNachtlied)" to="DITTO" teiform="xref">Jägers Nachtlied</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (JagersAbendlied)" to="DITTO" teiform="xref">Jägers Abendlied (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JahrmarktsfestzuPlundersweilern)" to="DITTO" teiform="xref">Jahrmarktsfest zu </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JederJunglingsehntsichsozulieben)" to="DITTO" teiform="xref">Jeder Jüngling sehnt sich so zu lieben</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JetztfuhltderEngel)" to="DITTO" teiform="xref">Jetzt fühlt der Engel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JUDENPREDIGT)" to="DITTO" teiform="xref">Judenpredigt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JungstschlichichmeinemMadgennach)" to="DITTO" teiform="xref">Jüngst schlich ich meinem Mädgen nach</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KennerundKunstler)" to="DITTO" teiform="xref">Kenner und Künstler</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBKennerundKunstler)" to="DITTO" teiform="xref">Kenner und Künstler (1778)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKennerundKunstler)" to="DITTO" teiform="xref">Kenner und Künstler (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLKinderverstand)" to="DITTO" teiform="xref">Kinderverstand</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KleineBlumenKleineBlatter)" to="DITTO" teiform="xref">Kleine Blumen, Kleine Blätter (Sessenheimer Fassung)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KleineBlumenkleineBlatterIris)" to="DITTO" teiform="xref">Kleine Blumen, kleine Blätter (Iris)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KleineBlumenkleineBlatterHB)" to="DITTO" teiform="xref">Kleine Blumen kleine Blätter (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKleineBlumen)" to="DITTO" teiform="xref">Kleine Blumen, kleine Blätter (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KoniglichGebet)" to="DITTO" teiform="xref">Königlich Gebet</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (KoniglichGebetB)" to="DITTO" teiform="xref">Königlich Gebet (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KORANAUSZUGE)" to="DITTO" teiform="xref">Koran-Auszüge</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KunstsprodeA)" to="DITTO" teiform="xref">Kunst die Spröden zu fangen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KunstlersMorgenlied)" to="DITTO" teiform="xref">Künstlers Morgenlied</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBKunstlersMorgenlied)" to="DITTO" teiform="xref">Künstlers Morgenlied (1778)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKunstlersMorgenlied)" to="DITTO" teiform="xref">Künstlers Morgenlied (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LamortensortantduTartare)" to="DITTO" teiform="xref">La mort, en sortant du Tartare</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LAOKOONFRAGMENT)" to="DITTO" teiform="xref">Laokoonfragment</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LasmeinAugdirAbschiedsagen)" to="DITTO" teiform="xref">Laß mein Aug' dir Abschied sagen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (CorneliaAmi)" to="DITTO" teiform="xref">Le veritable Ami</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Legende)" to="DITTO" teiform="xref">Legende</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (LegendeB)" to="DITTO" teiform="xref">Legende (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeLiebeundTugend)" to="DITTO" teiform="xref">Liebe und Tugend (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLLiebeundTugend)" to="DITTO" teiform="xref">Liebe und Tugend (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LieberHerrDorwilleliebeFrau)" to="DITTO" teiform="xref">Lieber Herr Dorwille liebe Frau</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (LieddesphysZeichners)" to="DITTO" teiform="xref">Lied des Phisiognomischen Zeichners [Künstlers Abendlied]</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (KleineBlumenIris)" to="DITTO" teiform="xref">Lied, das ein selbst gemahltes Band begleitete</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Lilisark)" to="DITTO" teiform="xref">Lilis Parck</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SLilisPark)" to="DITTO" teiform="xref">Lilis Park (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Lyde)" to="DITTO" teiform="xref">Lyde, eine Erzählung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Madgensezzteuchzumirnieder)" to="DITTO" teiform="xref">Mädgen sezzt euch zu mir nieder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Madrigal)" to="DITTO" teiform="xref">Madrigal</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MadrigaladFrz)" to="DITTO" teiform="xref">Madrigal aus dem Französischen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MadrigaladFrzVoltaire)" to="DITTO" teiform="xref">Madrigal aus dem Französischen des Herrn Voltaire</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MagjenerdunkelhafteMann)" to="DITTO" teiform="xref">Mag jener dünkelhafte Mann</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Mahomet)" to="DITTO" teiform="xref">Mahomet (Dramenfragmente)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBMahomets)" to="DITTO" teiform="xref">Mahomets Gesang</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SMahomets)" to="DITTO" teiform="xref">Mahomets Gesang (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeserBriefgedicht)" to="DITTO" teiform="xref">Mamsell, so launisch wie ein  Kind</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Mayfest)" to="DITTO" teiform="xref">Mayfest (Iris)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SMaylied)" to="DITTO" teiform="xref">Mailied (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MeinaltesEvangelium)" to="DITTO" teiform="xref">Mein altes Evangelium</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MeinMadchenwardmirungetreu)" to="DITTO" teiform="xref">Mein Mädchen ward mir ungetreu</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MeinMadgenimSchattenderLaube)" to="DITTO" teiform="xref">Mein Mädgen im Schatten der Laube</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MeinMadgensagtemirWieschon)" to="DITTO" teiform="xref">Mein Mädgen sagte mir: Wie schön</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Menschengefuhl)" to="DITTO" teiform="xref">Menschengefühl</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MirschlugdasHerzgeschwindzuPferde)" to="DITTO" teiform="xref">Mir schlug das Herz; geschwind zu </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SWillkomm)" to="DITTO" teiform="xref">Mir schlug das Herz; geschwind zu (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MiteinemgoldnenHals)" to="DITTO" teiform="xref">Mit einem goldnen Halskettchen überschickt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SHalskettchen)" to="DITTO" teiform="xref">Mit einem goldnen Halskettchen überschickt (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MiteinerZeichnung)" to="DITTO" teiform="xref">Mit einer Zeichnung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MittenimGetummelmancherFreuden)" to="DITTO" teiform="xref">Mitten im Getümmel mancher Freuden</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MorgenNebelLila)" to="DITTO" teiform="xref">MorgenNebel, Lila</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (MullerJesuisfache)" to="DITTO" teiform="xref">Muller! Je suis fachè de ce malicieux</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NachMittagesasenwir)" to="DITTO" teiform="xref">Nach Mittage saßen wir</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NeueLiebeIris)" to="DITTO" teiform="xref">Neue Liebe, Neues Leben </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SNeueLiebe)" to="DITTO" teiform="xref">Neue Liebe, Neues Leben (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Prolog)" to="DITTO" teiform="xref">Neueröfnetes</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Neujahrslied)" to="DITTO" teiform="xref">Neujahrslied 1769</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLNeujahrslied)" to="DITTO" teiform="xref">Neujahrslied (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NieschmekteinMadgeneinenKus)" to="DITTO" teiform="xref">Nie schmekt ein Mädgen einen Kuß</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NunsitztderRitterandemOrt)" to="DITTO" teiform="xref">Nun sitzt der Ritter an dem Ort</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OdassdieinnreSchopfungskrafft)" to="DITTO" teiform="xref">O dass die innre Schöpfungskrafft</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Ofandefurmich)" to="DITTO" teiform="xref">O fände für mich</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OHendeldessenRuhm)" to="DITTO" teiform="xref">O Hendel, dessen Ruhm vom Süd zum Norden </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OlieblicheTherese)" to="DITTO" teiform="xref">O liebliche Therese!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ObichDichliebeweisichnicht)" to="DITTO" teiform="xref">Ob ich Dich liebe weiß ich nicht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ObgleichkeinGrusobgleichkeinBriefvonmir)" to="DITTO" teiform="xref">Obgleich kein Gruß, obgleich </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FunfteOde)" to="DITTO" teiform="xref">Ode 5 ('Pindar')</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OdeZacharia)" to="DITTO" teiform="xref">Ode an Herrn Professor Zachariae</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (OdeZachariaAHAE)" to="DITTO" teiform="xref">An Zachariae (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OFFENTLICHEERKLARUNG)" to="DITTO" teiform="xref">Öffentliche Erklärung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OftfuhrtichsiezumHayne)" to="DITTO" teiform="xref">Oft führt' ich sie zum Hayne</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OhneWeinkansunsaufErden)" to="DITTO" teiform="xref">Ohne Wein kan's uns auf Erden</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Otezmoilagrammaire)" to="DITTO" teiform="xref">Otez moi la grammaire!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (PilgersMorgenlied)" to="DITTO" teiform="xref">Pilgers Morgenlied an Lila</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (PoetischeGedancken)" to="DITTO" teiform="xref">Poetische Gedancken  über die Höllenfahrt Jesu Christi</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ProbstHee)" to="DITTO" teiform="xref">Probst Hee </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (PrologzudenneuestenOffenbahrungengottes)" to="DITTO" teiform="xref">Prolog zu den neuesten </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Prometheus)" to="DITTO" teiform="xref">Prometheus (Dramenfragment)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Prometheus)" to="DITTO" teiform="xref">Prometheus (Handschrift für Merck)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBPrometheus)" to="DITTO" teiform="xref">Prometheus (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SPrometheus)" to="DITTO" teiform="xref">Prometheus (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Pygmalion)" to="DITTO" teiform="xref">Pygmalion eine Romanze</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Rettung)" to="DITTO" teiform="xref">Rettung </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Rezensent)" to="DITTO" teiform="xref">Rezensent</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SaheinKnabeinRosleinstehn)" to="DITTO" teiform="xref">Sah ein Knab' ein Röslein stehn</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SALOMONSKONIGSVONISRAELUNDJUDAGULDNEWORTEVONDERCEDERBISSZUMISSOP)" to="DITTO" teiform="xref">SALOMONS KÖNIGS VON ISRAEL UND JUDA GÜLDNE WORTE VON DER CEDER BISS ZUM ISSOP</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SarahkochtunsermHerreGott)" to="DITTO" teiform="xref">Sarah kocht unserm Herre </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Satyros)" to="DITTO" teiform="xref">Satyros</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchickedirhierdenaltenGotzen)" to="DITTO" teiform="xref">Schicke dir hier den alten Götzen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchickedirhierinaltemKleid)" to="DITTO" teiform="xref">Schicke dir hier in altem Kleid</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchonwalzenschnelleRader)" to="DITTO" teiform="xref">Schon wälzen schnelle Räder rasselnd sich und </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchonsteTugendeinerSeele)" to="DITTO" teiform="xref">Schönste Tugend einer Seele</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SchwestervondemerstenLicht)" to="DITTO" teiform="xref">Schwester von dem ersten Licht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Seefahrt)" to="DITTO" teiform="xref">Seefahrt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SSeefahrt)" to="DITTO" teiform="xref">Seefahrt (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Sehnsucht)" to="DITTO" teiform="xref">Sehnsucht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SehtdenFelsenquell)" to="DITTO" teiform="xref">Seht den Felsenquell</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Seygefuhllos)" to="DITTO" teiform="xref">Sey gefühllos!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SeydgeliebtekleineLieder)" to="DITTO" teiform="xref">Seyd, geliebte kleine Lieder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SiehindiesemZauberspiegel)" to="DITTO" teiform="xref">Sieh in diesem Zauberspiegel</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SolaunischwieeinKinddaszahnt)" to="DITTO" teiform="xref">So launisch, wie ein Kind das zahnt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Soschweristsnichtwieichgeglaubt)" to="DITTO" teiform="xref">So schwer ist's nicht, wie ich geglaubt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SowieeinVogel)" to="DITTO" teiform="xref">So wie ein Vogel der auf einem Ast</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SorglosuberdieFlacheweg)" to="DITTO" teiform="xref">Sorglos über die Fläche weg</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Sprache)" to="DITTO" teiform="xref">Sprache</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SpracheAHAE)" to="DITTO" teiform="xref">Sprache (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (SpudedichKronos)" to="DITTO" teiform="xref">Spude dich Kronos</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Stella)" to="DITTO" teiform="xref">Stella</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (StirbtderFuchs)" to="DITTO" teiform="xref">Stirbt der Fuchs, so gilt der Balg</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (TaglangNachtlang)" to="DITTO" teiform="xref">Tag lang Nacht lang stand mein Schiff befrachtet</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ThouknowsthowheappilytheyFreind)" to="DITTO" teiform="xref">Thou knowst how heappily they Freind</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (JederJungling)" to="DITTO" teiform="xref">Titelstrophen für die Neuauflage der  "Leiden des jungen Werthers" </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (TrinkoJunglingheilgesGlucke)" to="DITTO" teiform="xref">Trink, o Jüngling, heilges Glücke</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (TriumphderTugendA)" to="DITTO" teiform="xref">Triumph der Tugend Erste Erzählung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (TriumphderTugendB)" to="DITTO" teiform="xref">Triumph der Tugend Zwote Erzählung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Trocknetnichttrocknetnicht)" to="DITTO" teiform="xref">Trocknet nicht! trocknet nicht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Uberdaswasmanist)" to="DITTO" teiform="xref">Über das was man ist</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UBERDIEFRANKFURTERQUARTIERORDNUNGVONAFAD)" to="DITTO" teiform="xref">Über die Frankfurter Quartierordnung von 1614</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UberdieWiesedenBachherab)" to="DITTO" teiform="xref">Über die Wiese, den Bach hinab </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (AutorenAHAE)" to="DITTO" teiform="xref">Über die Wiese, den Bach hinab (Autoren 1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FunfteOde)" to="DITTO" teiform="xref">Übersetzung der fünften olympischen Ode </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UmdieretohrischenFiguren)" to="DITTO" teiform="xref">Um die retohrischen Figuren auszuüben</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UmdieretohrischenFiguren)" to="DITTO" teiform="xref">Um die retohrischen Figuren auszuüben*</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UmMitternachtwohlfangichan)" to="DITTO" teiform="xref">Um Mitternacht wohl fang ich an</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UmsonstdasdueinHerzzulenken)" to="DITTO" teiform="xref">Umsonst, daß du ein Herz zu lenken</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLUnbestandigkeit)" to="DITTO" teiform="xref">Unbeständigkeit (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeUnbestandigkeit)" to="DITTO" teiform="xref">Unbeständigkeit (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SWechsel)" to="DITTO" teiform="xref">Wechsel (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (FragmentPollution)" to="DITTO" teiform="xref">Und fand als ich mich aufgerafft</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Undfandalsichmichaufgerafft)" to="DITTO" teiform="xref">Und fand als ich mich aufgerafft</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UndinPappillonsGestalt)" to="DITTO" teiform="xref">Und in Pappillons Gestalt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UndkraftlossankihrHauptzurukke)" to="DITTO" teiform="xref">Und kraftlos sank ihr Haupt zurükke</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UndwienachEmmausweitergings)" to="DITTO" teiform="xref">Und, wie nach Emmaus, weiter ging's</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UnsgabendieGotter)" to="DITTO" teiform="xref">Uns gaben die Götter</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (UNTEREINESILHOUETTEVONCHARLOTTEVSTEIN)" to="DITTO" teiform="xref">Unter eine Silhouette von Charlotte v. Stein</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Vatesevrerdesbaisersdetabelle)" to="DITTO" teiform="xref">Va te sevrer des baisers de ta belle</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Otezmoila)" to="DITTO" teiform="xref">Vaudeville a Mr. Pfeil </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Veilchenbringichgetragen)" to="DITTO" teiform="xref">Veilchen bring' ich getragen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VerfliesetvielgeliebteLieder)" to="DITTO" teiform="xref">Verfließet, vielgeliebte Lieder</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VerpflanzedenschonenBaum)" to="DITTO" teiform="xref">Verpflanze den schönen Baum</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VomBerge)" to="DITTO" teiform="xref">Vom Berge in die See</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SVomBerge)" to="DITTO" teiform="xref">Vom Berge (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Plauderhafte)" to="DITTO" teiform="xref">Vom plauderhafften Knaben</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VONDEUTSCHERBAUKUNST)" to="DITTO" teiform="xref">Von deutscher Baukunst</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VonkaltenWeisenringsumgeben)" to="DITTO" teiform="xref">Von kalten Weisen rings umgeben</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VonstillerWollusteingeladen)" to="DITTO" teiform="xref">Von stiller Wollust eingeladen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Vonwemichshabedassagicheuchnicht)" to="DITTO" teiform="xref">Von wem ich's habe das sag ich euch </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (VorGericht)" to="DITTO" teiform="xref">Vor Gericht</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (VorGerichtB)" to="DITTO" teiform="xref">Vor Gericht (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WahrhaftesMahrgen)" to="DITTO" teiform="xref">Wahrhaftes Mährgen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBKennerundEnthusiast)" to="DITTO" teiform="xref">Kenner und Enthusiast (1778)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SKennerundEnthusiast)" to="DITTO" teiform="xref">Kenner und Enthusiast (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WandrersSturmliedJacobifassung)" to="DITTO" teiform="xref">Wandrers Sturmlied (Jacobi-Handschrift)  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBWandrersSturmlied)" to="DITTO" teiform="xref">Wandrers Sturmlied (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SturmliedAHAE)" to="DITTO" teiform="xref">Wandrers Sturmlied (1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Warumziehstdumichunwiederstehlich)" to="DITTO" teiform="xref">Warum ziehst du mich unwiederstehlich</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Wasreichundarm)" to="DITTO" teiform="xref">Was reich und arm! was stark und schwach!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WasfrommtdiegluhendeNaturMerkur)" to="DITTO" teiform="xref">Was frommt die glühende Natur (Merkur)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WasfrommtdiegluhendeNaturHB)" to="DITTO" teiform="xref">Was frommt die glühende Natur (H2)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (GroningStamm)" to="DITTO" teiform="xref">Was unterm Monde liegt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WeintMadgenhierbeyAmorsGrabe)" to="DITTO" teiform="xref">Weint Mädgen, hier, bey Amors Grabe</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WeintMadgenhierbeyAmorsGrabe)" to="DITTO" teiform="xref">Weint, Mädgen! hier bey Amors Grabe </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WelchungewohnlichesGetummel)" to="DITTO" teiform="xref">Welch ungewöhnliches Getümmel!</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WendemPapaseinPfeifgenschmeckt)" to="DITTO" teiform="xref">Wen dem Papa sein Pfeifgen schmeckt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WendunichtverlassestGenius)" to="DITTO" teiform="xref">Wen du nicht verlässest Genius</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WennDudarnachwasfragst)" to="DITTO" teiform="xref">Wenn Du darnach was fragst</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenneinemMadgen)" to="DITTO" teiform="xref">Wenn einem Mädgen das uns liebt (Oeser-Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenneinemMadgendasunsliebt)" to="DITTO" teiform="xref">Wenn einem Mädgen das uns liebt (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenneinenseeligenBiedermann)" to="DITTO" teiform="xref">Wenn einen seeligen Biedermann</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WenneinstnachuberstandnenLebensmuh)" to="DITTO" teiform="xref">Wenn einst nach überstandnen Lebens </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WennichliebeLilidichnichtliebte)" to="DITTO" teiform="xref">Wenn ich liebe Lili dich nicht liebte</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WennmansieineinKlostersteckte)" to="DITTO" teiform="xref">Wenn man sie in ein Kloster steckte</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WennmanzwanzigFreyerzahlet)" to="DITTO" teiform="xref">Wenn man zwanzig Freyer zählet</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WerkommtwerkauftvonmeinerWaar)" to="DITTO" teiform="xref">Wer kommt! wer kauft von meiner </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WerkommtWerkauftvonmeinerWaar)" to="DITTO" teiform="xref">Wer kömmt! Wer kauft von meiner </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Wernichtrichtetsondernfleisigis)" to="DITTO" teiform="xref">Wer nicht richtet sondern fleisig ist</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WhatpleasureGod)" to="DITTO" teiform="xref">What pleasure, God! of like a flame to born</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Wieherrlichleuchtet)" to="DITTO" teiform="xref">Wie herrlich leuchtet</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WieimMorgenroth)" to="DITTO" teiform="xref">Wie im Morgenroth</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WieimMorgenrothduringsmich)" to="DITTO" teiform="xref">Wie im Morgenroth du rings mich</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WillkommIris)" to="DITTO" teiform="xref">Willkomm und Abschied </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (EsschlugmeinHerz)" to="DITTO" teiform="xref">Willkommen und Abschied  (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Wirwerdennun)" to="DITTO" teiform="xref">Wir werden nun recht gut geführt</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Wolltihrwissenwoherichshab)" to="DITTO" teiform="xref">Wollt ihr wissen woher ich's hab</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (WonnederWehmut)" to="DITTO" teiform="xref">Wonne der Wehmut  </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (SWonnedWehmut)" to="DITTO" teiform="xref">Wonne der Wehmut (1789)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (OeWunscheinesklMadchens)" to="DITTO" teiform="xref">Wunsch eines kleinen Mädgens (Oeser-Lieder) </xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLWunscheinesjgMad)" to="DITTO" teiform="xref">Wunsch eines jungen Mädgens (Neue Lieder)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (Ziblis)" to="DITTO" teiform="xref">Ziblis, eine Erzählung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (HBKleineBlumen)" to="DITTO" teiform="xref">Zu einem gemahlten Band</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (NLZueignung)" to="DITTO" teiform="xref">Zueignung</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ZUMSCHAKESPEARSTAG)" to="DITTO" teiform="xref">Zum Schäkespears Tag</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ZurErinnerungguterStunden)" to="DITTO" teiform="xref">Zur Erinnerung guter Stunden</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ZwischenLavaterundBasedow)" to="DITTO" teiform="xref">Zwischen Lavater und Basedow</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE2" from="id (DinezuKoblenzAHAE)" to="DITTO" teiform="xref">Zwischen Lavater und Basedow (Diné zu Koblenz 1815)</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ZWOWICHTIGEBISHERUNERORTERTEBIBLISCHEFRAGEN)" to="DITTO" teiform="xref">Zwo wichtige bisher unerörterte biblische Fragen</xref></p><p rend="Liste" teiform="p"><xref targorder="u" doc="JGOETHE1" from="id (ZwooteOde)" to="DITTO" teiform="xref">Zwoote Ode</xref></p></div1></body></text></tei.2>
+<?TAGLINK xref "TEI-P3"?><TEI.2 TEIform="TEI.2">
+  <teiHeader type="text" TEIform="teiHeader">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title>Der junge Goethe in seiner Zeit. Texte und Kontexte. </title>
+        <author>Johann Wolfgang Goethe</author>
+        <respStmt TEIform="respStmt">
+          <resp>Herausgegeben von </resp>
+          <name>Karl Eibl, Fotis Jannidis, Marianne Willems</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt TEIform="editionStmt">
+        <edition>Erste Ausgabe 
+			<date>1998</date>
+		</edition>
+      </editionStmt>
+      <publicationStmt TEIform="publicationStmt">
+        <p>Der junge Goethe in seiner Zeit</p>
+        <p>Herausgegeben von Karl Eibl, Fotis Jannidis und Marianne Willems</p>
+        <p>Erste Auflage 1998</p>
+        <p>ISBN	gebunden 3-458-16914-8</p>
+        <p>Taschenbuch 3-458-33800-4</p>
+        <p>Insel Verlag Frankfurt/Main</p>
+        <p>Weitere Informationen: http://www.jgoethe.uni-muenchen.de/</p>
+      </publicationStmt>
+      <sourceDesc TEIform="sourceDesc">
+        <p>Die Texte des Jungen Goethe entstammen, so weit nicht anders angegeben, der Ausgabe: Der junge Goethe. Neu bearb. 3. Ausgabe. 5 Bde. und 1 Reg.-Bd. Hrsg. v. Hanna Fischer-Lamberg. Berlin bzw. Bd. 5 und Reg.-Bd. Berlin und New York 1963 - 1974. (Sigle FL). Das Nähere jeweils im Kommentar. Die Herkunft der anderen Vorlagen wird jeweils unter dem Titel genannt. Wo kein spezieller Herkunftsvermerk steht, war das Original die Vorlage.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <projectDesc TEIform="projectDesc">
+        <p>Die TEI-Dateien wurden durch Konvertierung der Folio Flat Files gewonnen. Zur besseren Handhabung mit SGML-Browsern wurden die Daten in 24 Dateien gespeichert: jgoethe0.sgm - jgoethe23.sgm. Die zugehörigen Entities befinden sich in den gleichnamigen Dateien mit der Endung .ent. Das Tag milestone wurde zweckentfremdet, um Informationen zum Entstehungszeitraum nicht zu verlieren (genaueres in der readme.txt). </p>
+      </projectDesc>
+      <editorialDecl TEIform="editorialDecl">
+        <p>Die editorischen Prinzipien der Ausgabe sind im Nachwort (Teil des Textes) nachzulesen. Eine Beschreibung der Tags und zur Formatierung wesentlicher Attribute befindet sich in der beiliegenden readme.txt</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 id="jg81530" type="&#xDC;berschrift1">
+        <head><anchor id="werktitel"/>Werktitel und Gedichtanfänge</head>
+        <p id="jg81531">
+          <xref doc="JGOETHE0" from="id (Anfang)">
+            <figure rend="intern" entity="PFEILOB"/>
+          </xref>
+        </p>
+        <p id="jg81532"/>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Hoffman)">A Monsieur le Major General de Hoffmann</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaUnconfidence)">A Song over the Unconfidence toeards my self</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Achfandefurmich)">Ach fände für mich</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AchichwarauchindiesemFalle)">Ach ich war auch in diesem Falle</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AchihrGottergroseGotter)">Ach ihr Götter, grose Götter</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Achwiesehn)">Ach wie sehn ich mich nach Dir </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AlsichnocheinKnabewarIris)">Als ich noch ein Knabe war (Iris)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AlsichnocheinKnabewarHB)">Als ich noch ein Knabe war (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeAmorsGrab)">Amors Grab (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLAmorsGrab)">Amors Grab (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Scheintod)">Scheintod (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnAnnetten)">An Annetten</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnBelinden)">An Belinden </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SAnBelinden)">An Belinden (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBAnChristel)">An Christel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SChristel)">An Christel (H3 1788)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (ChristelAHAE)">An Christel (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Handel)">An den Kuchenbäcker Hendel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AndenMond)">An den Mond</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (AnLuna)">An Luna (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AndenSchlaf)">An den Schlaf</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLAndieUnschuld)">An die Unschuld</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Unschukd)">Unschuld (1815) </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LavaterBistduhier)">An die Wand von Lavaters Stube im Pfarrhaus von Oberried </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AneinenjungenPrahler)">An einen jungen Prahler</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MonologdesLiebhabers)">An Kenner und Liebhaber</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBMonologdesLiebhabers)">An Kenner und Liebhaber (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SMonologdesLiebhabers)">Monolog des Liebhabers (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LebensMuh)">An Kestner </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnMeineLieder)">An meine Lieder (Annette)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLAnmeineLieder)">An meine Lieder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaWeise)">An meine Mutter</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnSchwagerKronos)">An Schwager Kronos in der Postchaise d. 10 Oktbr 1774</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBAnSchwagerKronos)">An Schwager Kronos (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SAnSchwagerKronos)">An Schwager Kronos (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeAnVenus)">An Venus</xref>
+        </p>
+        <p rend="Liste"><xref doc="JGOETHE1" from="id (HBKennerundEnthusiast)">Aneckdote unsrer Tage</xref> siehe <lb/></p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WahrhaftesMahrgen)">Wahrhaftes Mährgen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Anekdote)">Anekdote zu den Freuden des jungen Werther</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnnetteanihrenGeliebten)">Annette an ihren Geliebten</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ANTEILANLAVATERSPHYSIOGNOMISCHENFRAGMENTEN)">Anteil an Lavaters physiognomischen Fragmenten Einzelne Charakteristiken</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ArianneanWetty)">Arianne an Wetty</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AuchindieallergrobsteLugen)">Auch in die allergröbste Lügen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnChristel)">Auf Christianen R.  [An Christel]</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchsauganmeinerNabelschnur)">Auf dem See</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SAufdemSee)">Auf dem See (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AufKieselnimBache)">Auf Kieseln im Bache, da lieg ich, wie helle</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AufMsllN)">Auf Msll. N. N. </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NicolaiDunkelhafterMann)">Auf Nicolai</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AugmeinAugwassinckstdunieder)">Aug mein Aug was sinckst du nieder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AUSGOETHESBRIEFTASCHE)">Aus Goethes Brieftasche</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BaldleuchtestduoGraf)">Bald leuchtest du o Graf, in engelheiterm Schimmer</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BaldesehichRickgenwieder)">Balde seh ich Rickgen wieder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BedeckedeinenHimmelZevs)">Bedecke deinen Himmel Zevs (Handschrift für Merck)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BedeckedeinenHimmelZevsHB)">Bedecke deinen Himmel Zevs (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BedenkoKindwohersinddieseGaben)">Bedenk, o Kind, woher sind diese Gaben (Wandsbecker Bote)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BedenckoKindwohersinddieseGaben)">Bedenck o Kind woher sind diese Gaben (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Beidemerfreulichen)">Bei dem erfreulichen Anbruche  Des 1757. Jahres wollte seinen Hochgeehrtesten und Hertzlichgeliebten Gros Eltern Die Gesinnungen Kindlicher Hochachtung und Liebe durch Folgende Segens Wünsche zu erkennen geben Deroselben Treugehorsamster Enckel Johann Wolfgang Goethe</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BEITRAGEZUDENFRANKFURTERGELEHRTENANZEIGEN)">Beiträge zu den Frankfurter Gelehrten Anzeigen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Belsazar)">Belsazar</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BESCHREIBUNGEINERSCHWEIZERLANDSCHAFT)">Beschreibung einer Schweizer Landschaft</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Beydiesemneuen)">Bey diesem neuen Jahres Wechsel überreichet Seinen Verehrungswürdigen GrossEltern, dieses Opfer aus kindlicher Hochachtung Joh: Wolfg: Goethe den 1. Jenner. 1762</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LavaterBistduhier)">Bist du hier</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Bleibebleibebeymir)">Bleibe, bleibe bey mir</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BlindeKuh)">Blinde Kuh</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Brief)">Brief.</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKunstlersAbendlied)">Künstlers Abendlied (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Sendschreiben)">Sendschreiben (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnLottchen)">Brief an Lottchen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SAnLottchen)">An Lottchen (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BRIEFDESPASTORSANDENNEUENPASTOR)">Brief des Pastors von  * * * an den neuen Pastor von * * *</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (TrappMuller)">Briefgedicht an Augustin Trapp, Leipzig 2. 6. 1766 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (BehrischPleasure)">Briefgedicht an Behrisch, 12. 10. 1766 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaAmi)">Briefgedicht an die Schwester Cornelia, 13. 10. 1767 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaKloster)">Briefgedichte an die Schwester  Cornelia, 7. 12. 1765  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaUnconfidence)">Briefgedichte an die Schwester Cornelia, 11. 5. 1766 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaWeise)">Briefgedichte an die Schwester Cornelia, 11. 5. 1767  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaACAXAGFF)">Briefgedichte an die Schwester Cornelia, 13. 10. 1766 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeserBriefgedicht)">Briefgedicht an Friederike Oeser, 6. 11. 1768 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GotterSchickedirhier)">Briefgedicht an Friedrich Wilhelm Gotter, ?. 6. 1773 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchlosserDudemdieMusen)">Briefgedicht an Hieronymus Peter Schlosser, Frankfurt Ende 11. 1774 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OrvilleLieberHerrO)">Briefgedicht an Johann Georg und Rahel d'Orville, Frankfurt 30. 7. oder  3. 9. 1775 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MerckSchickedirhier)">Briefgedicht an Johann Heinrich Merck, 3./4. 1773 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenndemPapa)">Briefgedicht an Kestner, ?. 1. 1773 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenneinenseelgenBiedermann)">Briefgedicht an Lotte Kestner, 5. 9. 1773 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MerckLieberBruder)">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MerckMeinaltesEvangelium)">Briefgedicht an Merck, Frankfurt ? 5. 12. 1774</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Sendschreiben)">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 (Sendschreiben 1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Sendschreiben)">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 (Sendschreiben 1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKunstlersAbendlied)">Briefgedicht an Merck, Frankfurt ? 4. 12. 1774 (Künstlers Abendlied 1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (RieseVogel)">Briefgedicht an Riese, Leipzig, 20. 10. 1765 </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (RieseVergnugen)">Briefgedichte an Riese, 28. 4. 1766  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (RieseDieVersartdie)">Briefgedichte an Riese, 8. 11. 1765  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Bundeslied)">Bundeslied (Merkur)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBBundeslied)">Bundeslied (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SBundeslied)">Bundeslied (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Caesar)">Caesar</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBCatechisation)">Catechisation</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CatechetischeInduction)">Cathechetische Induction</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (CatechisationAHAE)">Cathechetische Induction (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Ceslignesmonami)">Ces lignes mon ami, que je vais Vous ecrire</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ClaudinevonVillaBella)">Claudine von Villa Bella</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Clavigo)">Clavigo</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ClimenelebtintausendSorgen)">Climene lebt in tausend Sorgen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ConcertoDramatico)">Concerto dramatico composto dal Sigr Dottore Flamminio detto Panurgo secondo</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DaflattertumdieQvelle)">Da flattert um die Qvelle (Oeser-Lieder) </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DaflattertumdieQuelle)">Da flattert um die Quelle (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DahatticheinenKerlzuGast)">Da hatt ich einen Kerl zu Gast</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (RezensentAHAE)">Da hatt ich einen Kerl zu Gast (Rezensent 1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DasindsienunDahabtihrsie)">Da sind sie nun! Da habt ihr sie!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DawirdmeinHerzvonJammervoll)">Da wird mein Herz von Jammer voll</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DasEndekrontjetztdievergangneZeiten)">Das Ende krönt jetzt die vergangne </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenneinenseelgenBiedermann)">Das garstige Gesicht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (DasgarstigeGesichtAHAE)">Das garstige Gesicht (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeDasGluck)">Das Glück an Annetten (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDasGluck)">Das Glück (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (GluckundTraumAHAE)">Glück und Traum (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDasGluckderLiebe)">Das Glück der Liebe</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (GluckderEntfernung)">Glück der Entfernung (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DasistmeinLeib)">Das ist mein Leib, nehmt hin und esset</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (AnSchreyen)">Das Schreyen nach dem Italiänischen (Annette)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeDasSchreyen)">Das Schreyn (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDasSchreyen)">Das Schreyen (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DasVeilchen)">Das Veilchen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DemHimmelwachseentgegen)">Dem Himmel wachse entgegen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DemMadgenwardnebstandernGaben)">Dem Mädgen ward nebst andern Gaben</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DemPassavantundSchubleri)">Dem Passavant- und Schüblerischen Brautpaare</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DenkunftgenTagundStunden)">Den künftgen Tag und Stunden</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DenMannernzuzeigen)">Den Männern zu zeigen </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GuterRathaufeinReisbret)">Denck und Trostsprüchlein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SGuterRat)">Denck und Trostsprüchlein (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Dennwersiekenntderfliehtsienicht)">Denn wer sie kennt, der flieht sie nicht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerAbschied)">Der Abschied</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerAdlerunddieTaube)">Der Adler und die Taube</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SAdlerundTaube)">Adler und Taube (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerdumitdeinemMohne)">Der du mit deinem Mohne</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKennerundEnthusiast)">Kenner und Enthusiast (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerKonigvonThule)">Der König von Thule</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerLugner)">Der Lügner</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDerMisanthrop)">Der Misanthrop</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerneueAmadis)">Der neue Amadis (Iris)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBDerneueAmadis)">Der neue Amadis (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SAmadis)">Der neue Amadis (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeDerSchmetterling)">Der Schmetterling (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDerSchmetterling)">Der Schmetterling (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SchmetterlingAHAE)">Schadenfreude (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerTeufelhohldasMenschengeschlecht)">Der Teufel hohl das </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerTugendspiegel)">Der Tugendspiegel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DeruntreueKnabe)">Der untreue Knabe </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDerwahreGenus)">Der wahre Genuß</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SGenuss)">Genuß (1788)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerWandrer)">Der Wandrer (Mercks Abschrift)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBDerWandrer)">Der Wandrer (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SDerWandrer)">Der Wandrer (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DerewigeJude)">Des ewigen Juden, erster Fetzen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DesKunstlersErdewallen)">Des Künstlers Erdewallen.</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DesKunstlersVergotterung)">Des Künstlers Vergötterung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DiedusteigstimWinterwetter)">Die du steigst im Winterwetter</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeDieFreuden)">Die Freuden (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDieFreuden)">Die Freuden (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SDieFreuden)">Die Freuden (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GESANGEVONSELMA)">Die Gesänge von Selma</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DiekoniglicheEinsiedlerin)">Die königliche Einsiedlerin</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DieLauneDesVerliebten)">Die Laune des Verliebten</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DIELEIDENDESJUNGENWERTHERS)">Die Leiden des jungen Werthers</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDieLiebewiderWillen)">Die Liebe wider Willen </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DieLiebhaber)">Die Liebhaber</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DieMitschuldigenA)">Die Mitschuldigen (1. Fassung)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DieMitschuldigen)">Die Mitschuldigen (2. Fassung)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeDieNacht)">Die Nacht (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDieNacht)">Die Nacht (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SDieNacht)">Die schöne Nacht (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLDieReliquie)">Die Reliquie</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (LebendigesAndenken)">Lebendiges Andenken (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DieVersartdiedemMadgen)">Die Versart, die dem Mädgen wohl gefiel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DieswirddieletzteTrahnnichtseyn)">Dies wird die letzte Trähn' nicht seyn</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DiesesistdasBildderWelt)">Dieses ist das Bild der Welt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DinezuKoblenz)">Diné zu Koblenz</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DirdarfdiesBlateinKettchenbringen)">Dir darf dies Blat ein Kettchen bringen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DritteOde)">Dritte Ode</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DRITTEWALLFAHRTnachErwinsGrabeimJuliAGGE)">Dritte Wallfahrt nach Erwins Grabe im Juli 1775</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Dubrauchstnichtscharfzuzielen)">Du brauchst nicht scharf zu zielen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DudemdieMusenvondenAktenStocken)">Du dem die Musen von den Akten </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DugehstIchmurre)">Du gehst! Ich murre</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DuhastunsoftimTraumgesehen)">Du hast uns oft im Traum gesehen (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DuhastunsoftimTraumgesehen)">Du hast uns oft im Traum gesehen (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinAdlerjunglinghobdieFlugel)">Ein Adlerjüngling hob die Flügel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinFastnachtsspiel)">Ein Fastnachtsspiel,</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Autoren)">Ein Gleichniss [Autoren] (Wandsbecker Bote)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBAutoren)">Ein Gleichniss [Autoren] (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (DilettantundKritiker)">Ein Gleichniss </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBDilettantundKritiker)">Ein Gleichniss [Dilettant und Krtitiker] (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EingrauertruberMorgen)">Ein grauer trüber Morgen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EiniungerMenschichweisnichtwie)">Ein iunger Mensch ich weis nicht wie</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinLutherischerGeistlicher)">Ein lutherischer Geistlicher spricht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinReicher)">Ein Reicher dem gemeinen Wesen zur Nachricht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EintheuresBuchleinsiehstduhier)">Ein theures Büchlein siehst du hier</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinVeilchenaufderWiesestand)">Ein Veilchen auf der Wiese stand</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinzartlichiugendlicherKummer)">Ein zärtlich iugendlicher Kummer</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EINFALLEUNDNOTIZEN)">Einfälle und Notizen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinstgiengichmeinemMadchennach)">Einst gieng ich meinem Mädchen nach</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EinstsassiemeinenLehren)">Einst saß sie meinen Lehren</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EislebensLied)">Eislebens Lied</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Muth)">Muth (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ElegieBruder)">Elegie  auf den Tod des Bruders meines Freundes </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Elisium)">Elisium an Uranien</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EntwurffurDieLeidendesjungenWerthers)">Entwurf für: Die Leiden des jungen Werthers</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErfliegthinwegDichzuumfangen)">Er fliegt hinweg Dich zu umfangen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErsuchtdieUrsachzuergrunden)">Er sucht die Ursach zu ergründen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErhabnerGrosPapa)">Erhabner GrosPapa! </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErstsitztereineWeile)">Erst sitzt er eine Weile</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErsteOde)">Erste Ode</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErwacheFriedericke)">Erwache Friedericke</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ErwinundElmire)">Erwin und Elmire</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsfuhreinFuhrknechtuberdenRhein)">Es fuhr ein Fuhrknecht über den Rhein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EshatteinKnabeineTaubezart)">Es hatt' ein Knab eine Taube zart [Ein Gleichnis] (Wandsbecker Bote)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EshatteinKnabeineTaubezart)">Es hatt ein Knab' eine Taube zart (Ein Gleichnis H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (DilettantundKritikerAHAE)">Es hatt' ein Knab eine Taube zart (Dilettant und Kritiker 1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsistmeineinzigesVergnugen)">Es ist mein einziges Vergnügen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsistsovielHeimwehinderWelt)">Es ist so viel Heimweh in der Welt </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsnanntenihreBucher)">Es nannten ihre Bücher</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsreitderHerrvonFalckenstein)">Es reit der Herr von Falckenstein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsSchlugmeinHertzgeschwindzuPferde)">Es Schlug mein Hertz, geschwind zu (Sessenheimer Fassung) (siehe auch: Mir schlug ...)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsstehendreySternenamHimmel)">Es stehen drey Sternen am Himmel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswareinadlicherLindenschmidt)">Es war ein ädlicher Lindenschmidt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswareinBulefrechgenung)">Es war ein Bule frech genung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswareinKoniginThule)">Es war ein König in Thule</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswareinmaleinedlerHerr)">Es war einmal ein edler Herr</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswareinmaleinHagenstolz)">Es war einmal ein Hagenstolz</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswareinmaleinZimmergesell)">Es war einmal ein Zimmergesell</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswarendreyJunggesellen)">Es waren drey Junggesellen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswerbteiniungerGrafenSohn)">Es werbt ein iunger Grafen Sohn</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EswollteinKnabspazierengehn)">Es wollt ein Knab spazieren gehn</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EuerBeyfallmachtmichfreyer)">Euer Beyfall macht mich freyer</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Fabeln)">Fabeln</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Faust)">Faust</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FelsWeihegesang)">Fels-Weihegesang an Psyche</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FettergruneduLaub)">Fetter grüne, du Laub!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FliehTaubchenflieh)">Flieh, Täubchen, flieh!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FreudendesjungenW)">Freuden des iungen Werthers</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FURLAVATERVERFASSTEERKLARUNG)">Für Lavater verfasste Erklärung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Ganymed)">Ganymed (Frühe Handschrift)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBGanymed)">Ganymed (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SGanymed)">Ganymed (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GanzandreWunschesteigenjezt)">Ganz andre Wünsche steigen jezt, als sonst</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GeistesGrus)">Geistes Gruss</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GelachtGeschrieben)">Gelacht! Geschrieben!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GernverlasichdieseHutteOe)">Gern verlaß ich diese Hütte (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GernverlasichdieseHutteNL)">Gern verlaß ich diese Hütte (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GeschichteGottfriedens)">Geschichte Gottfriedens von Berlichingen mit der </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GottseegedichiungeFrau)">Gott seegne dich iunge Frau (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GottsegnedichjungeFrau)">Gott segne dich junge Frau (Mercks Abschrift)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE3" from="id (GotterHeldenundWieland)">Götter Helden und Wieland</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (RieseDieVersartdie)">Gottsched ein Mann</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GotzvonBerlichingen)">Götz von Berlichingen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Grabschrift)">Grabschrift</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GrafFriedrichwolltausreiten)">Graf Friedrich wollt ausreiten</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GrosElterndadisJahr)">Gros Eltern da diß Jahr heut seinen Anfang nimt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GroseVenusmachtgeGottin)">Große Venus, mächtge Göttin!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GutbravmeinHerrAllein)">Gut brav mein Herr! Allein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLGuteNachtanAnnetten)">Gute Nacht an Annetten da sie heurahtete</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GuterRathaufeinReisbret)">Guter Rath auf ein Reisbret auch wohl Schreibtisch &amp;c.</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SGuterRat)">Guter Rat (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HaichbinHerrderWeltmichlieben)">Ha ich bin Herr der Welt! mich lieben</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HabeinbucklichMannelgnomme)">Hab ein bucklich Männel g'nomme</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HaboffteinendummendusternSinnHandschrift)">Hab offt einen dummen düstern Sinn (Boies Handschrift)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HaboffteinendummendusternSinnHB)">Hab offt einen dummen düstern Sinn (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HanswurstsHochzeit)">Hanswursts Hochzeit</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Heidenroslein)">Heidenröslein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HerzmeinHerzwassolldasgeben)">Herz, mein Herz, was soll das geben?</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HierschickichdireintheuresPfand)">Hier schick ich dir ein theures Pfand</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HochaufdemaltenThurnesteht)">Hoch auf dem alten Thurne steht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SGeistesGrus)">Geistes Gruß (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLHochzeitlied)">Hochzeitlied (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Hochzeitlied)">Hochzeitlied (Separat überliefert)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (Brautnacht)">Brautnacht (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HoherTugendenundOlympischerKranze)">Hoher Tugenden und</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Hypochonder)">Hypochonder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchfandmeinMadgeneinstallein)">Ich fand mein Mädgen einst allein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchfuhrteinenFreundzumMaideliung)">Ich führt einen Freund zum Maidel iung (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchhabeucheinenTempelbaut)">Ich hab euch einen Tempel baut (Aus Goethes Brieftasche)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchhabeucheinenTempelbaut)">Ich hab euch einen Tempel baut (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchkennoJunglingdeineFreude)">Ich kenn', o Jüngling, deine Freude</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchkommebaldihrgoldnenKinder)">Ich komme bald, ihr goldnen Kinder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchsahwieDorisbeyDamotenstand)">Ich sah wie Doris bey Damöten stand</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchsauganmeinerNabelschnur)">Ich saug an meiner Nabelschnur</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchschreibejetztvonmeinemBelsazer)">Ich schreibe jetzt von meinem Belsazer</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchstehaufeinemhohenBerg)">Ich steh auf einem hohen Berg</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IchwareinKnabewarmundgut)">Ich war ein Knabe warm und gut</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Ichweiseswohlundspotteviel)">Ich weiß es wohl, und spotte viel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IhrHerzistgleich)">Ihr Herz ist gleich</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IISura)">II. Sura</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ImdusternWaldaufdergespaltnenEiche)">Im düstern Wald, auf der gespaltnen </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ImFeldeschleichichstillundwild)">Im Felde schleich ich still und wild</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ImHerbstAGGE)">Im Herbst 1775</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SHerbstgefuhl)">Herbstgefühl (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ImSchlafgemachentferntvomFeste)">Im Schlafgemach, entfernt vom Feste</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ImSchlafgemachfernvondemFeste)">Im Schlafgemach, fern von dem Feste</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ImspielendenBachedaliegichwiehelle)">Im spielenden Bache da lieg ich wie </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (InallengutenStunden)">In allen guten Stunden </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchatzkMutter)">In das 'Güldne Schatzkästlein' der Mutter  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ReynierEinteuresBuchlein)">In das Stammbuch Johann Peter de Reyniers  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (StammbMoors)">In das Stammbuch von Friedrich Maximilian Moors </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GroningStamm)">In das Stammbuch von Georg Gröning </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (StammbClarus)">In das Stammbuch von Johann Christoph Clarus  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LenzStammbZurErinnrung)">In das Stammbuch von Lenz  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IndenWusteneinheiligerMann)">In den Wüsten ein heiliger Mann</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IndesPappillonsGestalt)">In des Pappillons Gestalt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IneinAlbum)">In ein Album </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WertherInjammervolle)">In ein Exemplar der Leiden des jungen Werthers </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MerckZeichenmappePfand)">In eine Zeichenmappe für Merck  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IngrosenStadtenlernenfruh)">In großen Städten lernen früh</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IniammervolleSeelenfreuden)">In iammervolle Seelenfreuden</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (IstdochkeineMenagerie)">Ist doch keine Menagerie</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JagersNachtlied)">Jägers Nachtlied</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (JagersAbendlied)">Jägers Abendlied (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JahrmarktsfestzuPlundersweilern)">Jahrmarktsfest zu </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JederJunglingsehntsichsozulieben)">Jeder Jüngling sehnt sich so zu lieben</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JetztfuhltderEngel)">Jetzt fühlt der Engel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JUDENPREDIGT)">Judenpredigt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JungstschlichichmeinemMadgennach)">Jüngst schlich ich meinem Mädgen nach</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KennerundKunstler)">Kenner und Künstler</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBKennerundKunstler)">Kenner und Künstler (1778)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKennerundKunstler)">Kenner und Künstler (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLKinderverstand)">Kinderverstand</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KleineBlumenKleineBlatter)">Kleine Blumen, Kleine Blätter (Sessenheimer Fassung)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KleineBlumenkleineBlatterIris)">Kleine Blumen, kleine Blätter (Iris)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KleineBlumenkleineBlatterHB)">Kleine Blumen kleine Blätter (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKleineBlumen)">Kleine Blumen, kleine Blätter (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KoniglichGebet)">Königlich Gebet</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (KoniglichGebetB)">Königlich Gebet (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KORANAUSZUGE)">Koran-Auszüge</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KunstsprodeA)">Kunst die Spröden zu fangen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KunstlersMorgenlied)">Künstlers Morgenlied</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBKunstlersMorgenlied)">Künstlers Morgenlied (1778)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKunstlersMorgenlied)">Künstlers Morgenlied (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LamortensortantduTartare)">La mort, en sortant du Tartare</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LAOKOONFRAGMENT)">Laokoonfragment</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LasmeinAugdirAbschiedsagen)">Laß mein Aug' dir Abschied sagen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (CorneliaAmi)">Le veritable Ami</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Legende)">Legende</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (LegendeB)">Legende (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeLiebeundTugend)">Liebe und Tugend (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLLiebeundTugend)">Liebe und Tugend (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LieberHerrDorwilleliebeFrau)">Lieber Herr Dorwille liebe Frau</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (LieddesphysZeichners)">Lied des Phisiognomischen Zeichners [Künstlers Abendlied]</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (KleineBlumenIris)">Lied, das ein selbst gemahltes Band begleitete</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Lilisark)">Lilis Parck</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SLilisPark)">Lilis Park (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Lyde)">Lyde, eine Erzählung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Madgensezzteuchzumirnieder)">Mädgen sezzt euch zu mir nieder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Madrigal)">Madrigal</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MadrigaladFrz)">Madrigal aus dem Französischen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MadrigaladFrzVoltaire)">Madrigal aus dem Französischen des Herrn Voltaire</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MagjenerdunkelhafteMann)">Mag jener dünkelhafte Mann</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Mahomet)">Mahomet (Dramenfragmente)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBMahomets)">Mahomets Gesang</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SMahomets)">Mahomets Gesang (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeserBriefgedicht)">Mamsell, so launisch wie ein  Kind</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Mayfest)">Mayfest (Iris)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SMaylied)">Mailied (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MeinaltesEvangelium)">Mein altes Evangelium</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MeinMadchenwardmirungetreu)">Mein Mädchen ward mir ungetreu</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MeinMadgenimSchattenderLaube)">Mein Mädgen im Schatten der Laube</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MeinMadgensagtemirWieschon)">Mein Mädgen sagte mir: Wie schön</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Menschengefuhl)">Menschengefühl</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MirschlugdasHerzgeschwindzuPferde)">Mir schlug das Herz; geschwind zu </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SWillkomm)">Mir schlug das Herz; geschwind zu (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MiteinemgoldnenHals)">Mit einem goldnen Halskettchen überschickt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SHalskettchen)">Mit einem goldnen Halskettchen überschickt (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MiteinerZeichnung)">Mit einer Zeichnung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MittenimGetummelmancherFreuden)">Mitten im Getümmel mancher Freuden</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MorgenNebelLila)">MorgenNebel, Lila</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (MullerJesuisfache)">Muller! Je suis fachè de ce malicieux</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NachMittagesasenwir)">Nach Mittage saßen wir</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NeueLiebeIris)">Neue Liebe, Neues Leben </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SNeueLiebe)">Neue Liebe, Neues Leben (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Prolog)">Neueröfnetes</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Neujahrslied)">Neujahrslied 1769</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLNeujahrslied)">Neujahrslied (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NieschmekteinMadgeneinenKus)">Nie schmekt ein Mädgen einen Kuß</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NunsitztderRitterandemOrt)">Nun sitzt der Ritter an dem Ort</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OdassdieinnreSchopfungskrafft)">O dass die innre Schöpfungskrafft</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Ofandefurmich)">O fände für mich</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OHendeldessenRuhm)">O Hendel, dessen Ruhm vom Süd zum Norden </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OlieblicheTherese)">O liebliche Therese!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ObichDichliebeweisichnicht)">Ob ich Dich liebe weiß ich nicht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ObgleichkeinGrusobgleichkeinBriefvonmir)">Obgleich kein Gruß, obgleich </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FunfteOde)">Ode 5 ('Pindar')</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OdeZacharia)">Ode an Herrn Professor Zachariae</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (OdeZachariaAHAE)">An Zachariae (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OFFENTLICHEERKLARUNG)">Öffentliche Erklärung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OftfuhrtichsiezumHayne)">Oft führt' ich sie zum Hayne</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OhneWeinkansunsaufErden)">Ohne Wein kan's uns auf Erden</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Otezmoilagrammaire)">Otez moi la grammaire!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (PilgersMorgenlied)">Pilgers Morgenlied an Lila</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (PoetischeGedancken)">Poetische Gedancken  über die Höllenfahrt Jesu Christi</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ProbstHee)">Probst Hee </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (PrologzudenneuestenOffenbahrungengottes)">Prolog zu den neuesten </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Prometheus)">Prometheus (Dramenfragment)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Prometheus)">Prometheus (Handschrift für Merck)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBPrometheus)">Prometheus (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SPrometheus)">Prometheus (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Pygmalion)">Pygmalion eine Romanze</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Rettung)">Rettung </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Rezensent)">Rezensent</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SaheinKnabeinRosleinstehn)">Sah ein Knab' ein Röslein stehn</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SALOMONSKONIGSVONISRAELUNDJUDAGULDNEWORTEVONDERCEDERBISSZUMISSOP)">SALOMONS KÖNIGS VON ISRAEL UND JUDA GÜLDNE WORTE VON DER CEDER BISS ZUM ISSOP</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SarahkochtunsermHerreGott)">Sarah kocht unserm Herre </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Satyros)">Satyros</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchickedirhierdenaltenGotzen)">Schicke dir hier den alten Götzen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchickedirhierinaltemKleid)">Schicke dir hier in altem Kleid</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchonwalzenschnelleRader)">Schon wälzen schnelle Räder rasselnd sich und </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchonsteTugendeinerSeele)">Schönste Tugend einer Seele</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SchwestervondemerstenLicht)">Schwester von dem ersten Licht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Seefahrt)">Seefahrt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SSeefahrt)">Seefahrt (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Sehnsucht)">Sehnsucht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SehtdenFelsenquell)">Seht den Felsenquell</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Seygefuhllos)">Sey gefühllos!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SeydgeliebtekleineLieder)">Seyd, geliebte kleine Lieder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SiehindiesemZauberspiegel)">Sieh in diesem Zauberspiegel</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SolaunischwieeinKinddaszahnt)">So launisch, wie ein Kind das zahnt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Soschweristsnichtwieichgeglaubt)">So schwer ist's nicht, wie ich geglaubt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SowieeinVogel)">So wie ein Vogel der auf einem Ast</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SorglosuberdieFlacheweg)">Sorglos über die Fläche weg</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Sprache)">Sprache</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SpracheAHAE)">Sprache (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (SpudedichKronos)">Spude dich Kronos</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Stella)">Stella</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (StirbtderFuchs)">Stirbt der Fuchs, so gilt der Balg</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (TaglangNachtlang)">Tag lang Nacht lang stand mein Schiff befrachtet</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ThouknowsthowheappilytheyFreind)">Thou knowst how heappily they Freind</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (JederJungling)">Titelstrophen für die Neuauflage der  "Leiden des jungen Werthers" </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (TrinkoJunglingheilgesGlucke)">Trink, o Jüngling, heilges Glücke</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (TriumphderTugendA)">Triumph der Tugend Erste Erzählung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (TriumphderTugendB)">Triumph der Tugend Zwote Erzählung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Trocknetnichttrocknetnicht)">Trocknet nicht! trocknet nicht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Uberdaswasmanist)">Über das was man ist</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UBERDIEFRANKFURTERQUARTIERORDNUNGVONAFAD)">Über die Frankfurter Quartierordnung von 1614</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UberdieWiesedenBachherab)">Über die Wiese, den Bach hinab </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (AutorenAHAE)">Über die Wiese, den Bach hinab (Autoren 1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FunfteOde)">Übersetzung der fünften olympischen Ode </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UmdieretohrischenFiguren)">Um die retohrischen Figuren auszuüben</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UmdieretohrischenFiguren)">Um die retohrischen Figuren auszuüben*</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UmMitternachtwohlfangichan)">Um Mitternacht wohl fang ich an</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UmsonstdasdueinHerzzulenken)">Umsonst, daß du ein Herz zu lenken</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLUnbestandigkeit)">Unbeständigkeit (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeUnbestandigkeit)">Unbeständigkeit (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SWechsel)">Wechsel (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (FragmentPollution)">Und fand als ich mich aufgerafft</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Undfandalsichmichaufgerafft)">Und fand als ich mich aufgerafft</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UndinPappillonsGestalt)">Und in Pappillons Gestalt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UndkraftlossankihrHauptzurukke)">Und kraftlos sank ihr Haupt zurükke</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UndwienachEmmausweitergings)">Und, wie nach Emmaus, weiter ging's</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UnsgabendieGotter)">Uns gaben die Götter</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (UNTEREINESILHOUETTEVONCHARLOTTEVSTEIN)">Unter eine Silhouette von Charlotte v. Stein</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Vatesevrerdesbaisersdetabelle)">Va te sevrer des baisers de ta belle</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Otezmoila)">Vaudeville a Mr. Pfeil </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Veilchenbringichgetragen)">Veilchen bring' ich getragen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VerfliesetvielgeliebteLieder)">Verfließet, vielgeliebte Lieder</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VerpflanzedenschonenBaum)">Verpflanze den schönen Baum</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VomBerge)">Vom Berge in die See</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SVomBerge)">Vom Berge (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Plauderhafte)">Vom plauderhafften Knaben</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VONDEUTSCHERBAUKUNST)">Von deutscher Baukunst</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VonkaltenWeisenringsumgeben)">Von kalten Weisen rings umgeben</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VonstillerWollusteingeladen)">Von stiller Wollust eingeladen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Vonwemichshabedassagicheuchnicht)">Von wem ich's habe das sag ich euch </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (VorGericht)">Vor Gericht</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (VorGerichtB)">Vor Gericht (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WahrhaftesMahrgen)">Wahrhaftes Mährgen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBKennerundEnthusiast)">Kenner und Enthusiast (1778)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SKennerundEnthusiast)">Kenner und Enthusiast (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WandrersSturmliedJacobifassung)">Wandrers Sturmlied (Jacobi-Handschrift)  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBWandrersSturmlied)">Wandrers Sturmlied (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SturmliedAHAE)">Wandrers Sturmlied (1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Warumziehstdumichunwiederstehlich)">Warum ziehst du mich unwiederstehlich</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Wasreichundarm)">Was reich und arm! was stark und schwach!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WasfrommtdiegluhendeNaturMerkur)">Was frommt die glühende Natur (Merkur)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WasfrommtdiegluhendeNaturHB)">Was frommt die glühende Natur (H2)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (GroningStamm)">Was unterm Monde liegt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WeintMadgenhierbeyAmorsGrabe)">Weint Mädgen, hier, bey Amors Grabe</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WeintMadgenhierbeyAmorsGrabe)">Weint, Mädgen! hier bey Amors Grabe </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WelchungewohnlichesGetummel)">Welch ungewöhnliches Getümmel!</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WendemPapaseinPfeifgenschmeckt)">Wen dem Papa sein Pfeifgen schmeckt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WendunichtverlassestGenius)">Wen du nicht verlässest Genius</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WennDudarnachwasfragst)">Wenn Du darnach was fragst</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenneinemMadgen)">Wenn einem Mädgen das uns liebt (Oeser-Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenneinemMadgendasunsliebt)">Wenn einem Mädgen das uns liebt (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenneinenseeligenBiedermann)">Wenn einen seeligen Biedermann</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WenneinstnachuberstandnenLebensmuh)">Wenn einst nach überstandnen Lebens </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WennichliebeLilidichnichtliebte)">Wenn ich liebe Lili dich nicht liebte</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WennmansieineinKlostersteckte)">Wenn man sie in ein Kloster steckte</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WennmanzwanzigFreyerzahlet)">Wenn man zwanzig Freyer zählet</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WerkommtwerkauftvonmeinerWaar)">Wer kommt! wer kauft von meiner </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WerkommtWerkauftvonmeinerWaar)">Wer kömmt! Wer kauft von meiner </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Wernichtrichtetsondernfleisigis)">Wer nicht richtet sondern fleisig ist</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WhatpleasureGod)">What pleasure, God! of like a flame to born</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Wieherrlichleuchtet)">Wie herrlich leuchtet</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WieimMorgenroth)">Wie im Morgenroth</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WieimMorgenrothduringsmich)">Wie im Morgenroth du rings mich</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WillkommIris)">Willkomm und Abschied </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (EsschlugmeinHerz)">Willkommen und Abschied  (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Wirwerdennun)">Wir werden nun recht gut geführt</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Wolltihrwissenwoherichshab)">Wollt ihr wissen woher ich's hab</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (WonnederWehmut)">Wonne der Wehmut  </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (SWonnedWehmut)">Wonne der Wehmut (1789)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (OeWunscheinesklMadchens)">Wunsch eines kleinen Mädgens (Oeser-Lieder) </xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLWunscheinesjgMad)">Wunsch eines jungen Mädgens (Neue Lieder)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (Ziblis)">Ziblis, eine Erzählung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (HBKleineBlumen)">Zu einem gemahlten Band</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (NLZueignung)">Zueignung</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ZUMSCHAKESPEARSTAG)">Zum Schäkespears Tag</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ZurErinnerungguterStunden)">Zur Erinnerung guter Stunden</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ZwischenLavaterundBasedow)">Zwischen Lavater und Basedow</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE2" from="id (DinezuKoblenzAHAE)">Zwischen Lavater und Basedow (Diné zu Koblenz 1815)</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ZWOWICHTIGEBISHERUNERORTERTEBIBLISCHEFRAGEN)">Zwo wichtige bisher unerörterte biblische Fragen</xref>
+        </p>
+        <p rend="Liste">
+          <xref doc="JGOETHE1" from="id (ZwooteOde)">Zwoote Ode</xref>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>
