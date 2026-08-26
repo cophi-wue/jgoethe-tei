@@ -8,47 +8,47 @@
        "ISO 8879-1986//ENTITIES Greek Symbols//EN">
      %ISOgrk3;
 -->
-<!ENTITY alpha    SDATA "[alpha ]"--=small alpha, Greek-->
-<!ENTITY beta     SDATA "[beta  ]"--=small beta, Greek-->
-<!ENTITY gamma    SDATA "[gamma ]"--=small gamma, Greek-->
-<!ENTITY Gamma    SDATA "[Gamma ]"--=capital Gamma, Greek-->
-<!ENTITY gammad   SDATA "[gammad]"--/digamma-->
-<!ENTITY delta    SDATA "[delta ]"--=small delta, Greek-->
-<!ENTITY Delta    SDATA "[Delta ]"--=capital Delta, Greek-->
-<!ENTITY epsi     SDATA "[epsi  ]"--=small epsilon, Greek-->
+<!ENTITY alpha    SDATA "&#945;"--=small alpha, Greek-->
+<!ENTITY beta     SDATA "&#946;"--=small beta, Greek-->
+<!ENTITY gamma    SDATA "&#947;"--=small gamma, Greek-->
+<!ENTITY Gamma    SDATA "&#915;"--=capital Gamma, Greek-->
+<!ENTITY gammad   SDATA "&#988;"--/digamma-->
+<!ENTITY delta    SDATA "&#948;"--=small delta, Greek-->
+<!ENTITY Delta    SDATA "&#916;"--=capital Delta, Greek-->
+<!ENTITY epsi     SDATA "&#949;"--=small epsilon, Greek-->
 <!ENTITY epsiv    SDATA "[epsiv ]"--/varepsilon-->
-<!ENTITY epsis    SDATA "[epsis ]"--/straightepsilon-->
-<!ENTITY zeta     SDATA "[zeta  ]"--=small zeta, Greek-->
-<!ENTITY eta      SDATA "[eta   ]"--=small eta, Greek-->
-<!ENTITY thetas   SDATA "[thetas]"--straight theta-->
-<!ENTITY Theta    SDATA "[Theta ]"--=capital Theta, Greek-->
-<!ENTITY thetav   SDATA "[thetav]"--/vartheta - curly or open theta-->
-<!ENTITY iota     SDATA "[iota  ]"--=small iota, Greek-->
-<!ENTITY kappa    SDATA "[kappa ]"--=small kappa, Greek-->
-<!ENTITY kappav   SDATA "[kappav]"--/varkappa-->
-<!ENTITY lambda   SDATA "[lambda]"--=small lambda, Greek-->
-<!ENTITY Lambda   SDATA "[Lambda]"--=capital Lambda, Greek-->
-<!ENTITY mu       SDATA "[mu    ]"--=small mu, Greek-->
-<!ENTITY nu       SDATA "[nu    ]"--=small nu, Greek-->
-<!ENTITY xi       SDATA "[xi    ]"--=small xi, Greek-->
-<!ENTITY Xi       SDATA "[Xi    ]"--=capital Xi, Greek-->
-<!ENTITY pi       SDATA "[pi    ]"--=small pi, Greek-->
-<!ENTITY piv      SDATA "[piv   ]"--/varpi-->
-<!ENTITY Pi       SDATA "[Pi    ]"--=capital Pi, Greek-->
-<!ENTITY rho      SDATA "[rho   ]"--=small rho, Greek-->
-<!ENTITY rhov     SDATA "[rhov  ]"--/varrho-->
-<!ENTITY sigma    SDATA "[sigma ]"--=small sigma, Greek-->
-<!ENTITY Sigma    SDATA "[Sigma ]"--=capital Sigma, Greek-->
-<!ENTITY sigmav   SDATA "[sigmav]"--/varsigma-->
-<!ENTITY tau      SDATA "[tau   ]"--=small tau, Greek-->
-<!ENTITY upsi     SDATA "[upsi  ]"--=small upsilon, Greek-->
-<!ENTITY Upsi     SDATA "[Upsi  ]"--=capital Upsilon, Greek-->
-<!ENTITY phis     SDATA "[phis  ]"--/straightphi - straight phi-->
-<!ENTITY Phi      SDATA "[Phi   ]"--=capital Phi, Greek-->
-<!ENTITY phiv     SDATA "[phiv  ]"--/varphi - curly or open phi-->
-<!ENTITY chi      SDATA "[chi   ]"--=small chi, Greek-->
-<!ENTITY psi      SDATA "[psi   ]"--=small psi, Greek-->
-<!ENTITY Psi      SDATA "[Psi   ]"--=capital Psi, Greek-->
-<!ENTITY omega    SDATA "[omega ]"--=small omega, Greek-->
-<!ENTITY Omega    SDATA "[Omega ]"--=capital Omega, Greek-->
+<!ENTITY epsis    SDATA "&#8714;"--/straightepsilon-->
+<!ENTITY zeta     SDATA "&#950;"--=small zeta, Greek-->
+<!ENTITY eta      SDATA "&#951;"--=small eta, Greek-->
+<!ENTITY thetas   SDATA "&#952;"--straight theta-->
+<!ENTITY Theta    SDATA "&#920;"--=capital Theta, Greek-->
+<!ENTITY thetav   SDATA "&#977;"--/vartheta - curly or open theta-->
+<!ENTITY iota     SDATA "&#953;"--=small iota, Greek-->
+<!ENTITY kappa    SDATA "&#954;"--=small kappa, Greek-->
+<!ENTITY kappav   SDATA "&#1008;"--/varkappa-->
+<!ENTITY lambda   SDATA "&#955;"--=small lambda, Greek-->
+<!ENTITY Lambda   SDATA "&#923;"--=capital Lambda, Greek-->
+<!ENTITY mu       SDATA "&#956;"--=small mu, Greek-->
+<!ENTITY nu       SDATA "&#957;"--=small nu, Greek-->
+<!ENTITY xi       SDATA "&#958;"--=small xi, Greek-->
+<!ENTITY Xi       SDATA "&#926;"--=capital Xi, Greek-->
+<!ENTITY pi       SDATA "&#960;"--=small pi, Greek-->
+<!ENTITY piv      SDATA "&#982;"--/varpi-->
+<!ENTITY Pi       SDATA "&#928;"--=capital Pi, Greek-->
+<!ENTITY rho      SDATA "&#961;"--=small rho, Greek-->
+<!ENTITY rhov     SDATA "&#1009;"--/varrho-->
+<!ENTITY sigma    SDATA "&#963;"--=small sigma, Greek-->
+<!ENTITY Sigma    SDATA "&#931;"--=capital Sigma, Greek-->
+<!ENTITY sigmav   SDATA "&#962;"--/varsigma-->
+<!ENTITY tau      SDATA "&#964;"--=small tau, Greek-->
+<!ENTITY upsi     SDATA "&#965;"--=small upsilon, Greek-->
+<!ENTITY Upsi     SDATA "&#933;"--=capital Upsilon, Greek-->
+<!ENTITY phis     SDATA "&#966;"--/straightphi - straight phi-->
+<!ENTITY Phi      SDATA "&#934;"--=capital Phi, Greek-->
+<!ENTITY phiv     SDATA "&#981;"--/varphi - curly or open phi-->
+<!ENTITY chi      SDATA "&#967;"--=small chi, Greek-->
+<!ENTITY psi      SDATA "&#968;"--=small psi, Greek-->
+<!ENTITY Psi      SDATA "&#936;"--=capital Psi, Greek-->
+<!ENTITY omega    SDATA "&#969;"--=small omega, Greek-->
+<!ENTITY Omega    SDATA "&#937;"--=capital Omega, Greek-->
  
