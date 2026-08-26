@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?TAGLINK xref "TEI-P3"?><!DOCTYPE tei.2 [
+<!ENTITY PFEILOB SYSTEM "bilder/pfeilob.gif" NDATA gif>
+<!ENTITY PFEILRE SYSTEM "bilder/pfeilre.gif" NDATA gif>
+<!ENTITY JGOETHE14 SYSTEM "jgoethe14.sgm" NDATA sgml>
+<!ENTITY JGOETHE10 SYSTEM "jgoethe10.sgm" NDATA sgml>
+<!ENTITY JGOETHE11 SYSTEM "jgoethe11.sgm" NDATA sgml>
+<!ENTITY JGOETHE12 SYSTEM "jgoethe12.sgm" NDATA sgml>
+<!ENTITY JGOETHE13 SYSTEM "jgoethe13.sgm" NDATA sgml>
+<!ENTITY JGOETHE15 SYSTEM "jgoethe15.sgm" NDATA sgml>
+<!ENTITY JGOETHE16 SYSTEM "jgoethe16.sgm" NDATA sgml>
+<!ENTITY JGOETHE17 SYSTEM "jgoethe17.sgm" NDATA sgml>
+<!ENTITY JGOETHE18 SYSTEM "jgoethe18.sgm" NDATA sgml>
+<!ENTITY JGOETHE19 SYSTEM "jgoethe19.sgm" NDATA sgml>
+<!ENTITY JGOETHE22 SYSTEM "jgoethe22.sgm" NDATA sgml>
+<!ENTITY JGOETHE20 SYSTEM "jgoethe20.sgm" NDATA sgml>
+<!ENTITY JGOETHE21 SYSTEM "jgoethe21.sgm" NDATA sgml>
+<!ENTITY JGOETHE23 SYSTEM "jgoethe23.sgm" NDATA sgml>
+<!ENTITY JGOETHE9 SYSTEM "jgoethe9.sgm" NDATA sgml>
+<!ENTITY JGOETHE0 SYSTEM "jgoethe0.sgm" NDATA sgml>
+<!ENTITY JGOETHE1 SYSTEM "jgoethe1.sgm" NDATA sgml>
+<!ENTITY JGOETHE2 SYSTEM "jgoethe2.sgm" NDATA sgml>
+<!ENTITY JGOETHE3 SYSTEM "jgoethe3.sgm" NDATA sgml>
+<!ENTITY JGOETHE4 SYSTEM "jgoethe4.sgm" NDATA sgml>
+<!ENTITY JGOETHE5 SYSTEM "jgoethe5.sgm" NDATA sgml>
+<!ENTITY JGOETHE6 SYSTEM "jgoethe6.sgm" NDATA sgml>
+<!ENTITY JGOETHE7 SYSTEM "jgoethe7.sgm" NDATA sgml>
+<!ENTITY JGOETHE8 SYSTEM "jgoethe8.sgm" NDATA sgml>
+]>
+<tei.2 teiform="TEI.2"><teiheader type="text" status="new" teiform="teiHeader"><filedesc teiform="fileDesc"><titlestmt teiform="titleStmt"><title teiform="title">Der junge Goethe in seiner Zeit. Texte und Kontexte. </title><author teiform="author">Johann Wolfgang Goethe</author><respstmt teiform="respStmt"><resp teiform="resp">Herausgegeben von </resp><name teiform="name">Karl Eibl, Fotis Jannidis, Marianne Willems</name></respstmt></titlestmt><editionstmt teiform="editionStmt"><edition teiform="edition">Erste Ausgabe 
+			<date teiform="date">1998</date>
+		</edition></editionstmt><publicationstmt teiform="publicationStmt"><p teiform="p">Der junge Goethe in seiner Zeit</p><p teiform="p">Herausgegeben von Karl Eibl, Fotis Jannidis und Marianne Willems</p><p teiform="p">Erste Auflage 1998</p><p teiform="p">ISBN	gebunden 3-458-16914-8</p><p teiform="p">Taschenbuch 3-458-33800-4</p><p teiform="p">Insel Verlag Frankfurt/Main</p><p teiform="p">Weitere Informationen: http://www.jgoethe.uni-muenchen.de/</p></publicationstmt><sourcedesc default="no" teiform="sourceDesc"><p teiform="p">Die Texte des Jungen Goethe entstammen, so weit nicht anders angegeben, der Ausgabe: Der junge Goethe. Neu bearb. 3. Ausgabe. 5 Bde. und 1 Reg.-Bd. Hrsg. v. Hanna Fischer-Lamberg. Berlin bzw. Bd. 5 und Reg.-Bd. Berlin und New York 1963 - 1974. (Sigle FL). Das Nähere jeweils im Kommentar. Die Herkunft der anderen Vorlagen wird jeweils unter dem Titel genannt. Wo kein spezieller Herkunftsvermerk steht, war das Original die Vorlage.</p></sourcedesc></filedesc><encodingdesc teiform="encodingDesc"><projectdesc default="no" teiform="projectDesc"><p teiform="p">Die TEI-Dateien wurden durch Konvertierung der Folio Flat Files gewonnen. Zur besseren Handhabung mit SGML-Browsern wurden die Daten in 24 Dateien gespeichert: jgoethe0.sgm - jgoethe23.sgm. Die zugehörigen Entities befinden sich in den gleichnamigen Dateien mit der Endung .ent </p></projectdesc><editorialdecl default="no" teiform="editorialDecl"><p teiform="p">Die editorischen Prinzipien der Ausgabe sind im Nachwort (Teil des Textes) nachzulesen. Eine Beschreibung der Tags und zur Formatierung wesentlicher Attribute befindet sich in der beiliegenden readme.txt</p></editorialdecl></encodingdesc></teiheader><text teiform="text"><body teiform="body"><div1 type="Textebenen" org="uniform" sample="complete" part="n" teiform="div1"><head teiform="head">Der junge Goethe in seiner Zeit. <lb teiform="lb"/>Texte und Kontexte</head><p id="jg1" teiform="p"><anchor id="destinationa" teiform="anchor"/><anchor id="anfang" teiform="anchor"/>
+<table teiform="table"><row role="data" teiform="row"><cell role="data" rows="1" cols="1" teiform="cell"><hi teiform="hi"><xref targorder="u" doc="JGOETHE1" from="id (DerjungeGoethe)" to="DITTO" teiform="xref"><emph teiform="emph">Der junge Goethe</emph></xref></hi><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (Drama)" to="DITTO" teiform="xref">Dramatische Schriften</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (LyrikAnfang)" to="DITTO" teiform="xref">Gedichte</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (PoetischeProsa)" to="DITTO" teiform="xref">Poetische Prosa</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (EssayistischeProsa)" to="DITTO" teiform="xref">Essayistische Prosa</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (Briefe)" to="DITTO" teiform="xref">Briefe</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (Juristisches)" to="DITTO" teiform="xref">Juristisches</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE1" from="id (Zeichnungen)" to="DITTO" teiform="xref">Zeichnungen</xref><lb teiform="lb"/>    
+* * * * * * <lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE2" from="id (Uberarbeitungen)" to="DITTO" teiform="xref">Überarbeitungen</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE3" from="id (Erinnerungen)" to="DITTO" teiform="xref">Erinnerungen</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE4" from="id (Parallel)" to="DITTO" teiform="xref">Paralleldarstellungen</xref><lb teiform="lb"/><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE0" from="id (Chronologie)" to="DITTO" teiform="xref">Chronologie</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE23" from="id (ZudieserAusgabe)" to="DITTO" teiform="xref">Zu dieser Ausgabe </xref></cell><cell role="data" rows="1" cols="1" teiform="cell"><hi teiform="hi"><xref targorder="u" doc="JGOETHE5" from="id (Kontexte)" to="DITTO" teiform="xref"><emph teiform="emph">Kontexte</emph></xref></hi><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE5" from="id (stoffeundvorlagen)" to="DITTO" teiform="xref">Stoffe und Vorlagen einzelner Werke</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE6" from="id (Ausdrucksformen)" to="DITTO" teiform="xref">Literarische Ausdrucksformen der Zeit</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE7" from="id (Dichtungslebenskonzepte)" to="DITTO" teiform="xref">Dichtungs- und Lebenskonzepte</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE8" from="id (Gemeinschaftsprojekte)" to="DITTO" teiform="xref">Gemeinschaftsprojekte</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE9" from="id (BriefeanGoethe)" to="DITTO" teiform="xref">Briefe an Goethe</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE10" from="id (BerichteuberGoethe)" to="DITTO" teiform="xref">Zeitgenössische Berichte und Urteile über Goethe</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE11" from="id (RezensionenBerichteAbhandlungen)" to="DITTO" teiform="xref">Rezensionen, Polemiken, Parodien</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE12" from="id (DichtungenderGefahrten)" to="DITTO" teiform="xref">Goethe in Schriften der Gefährten</xref><lb teiform="lb"/></cell><cell role="data" rows="1" cols="1" teiform="cell"><hi teiform="hi"><xref targorder="u" doc="JGOETHE13" from="id (SemantischeVorrate)" to="DITTO" teiform="xref"><emph teiform="emph">Semantische Vorräte</emph></xref></hi><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE13" from="id (Laboresjuveniles)" to="DITTO" teiform="xref">Labores juveniles</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE14" from="id (Ephemerides)" to="DITTO" teiform="xref">Ephemeriden</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE15" from="id (BibliothekElternhaus)" to="DITTO" teiform="xref">Die Bibliothek in Goethes Elternhaus </xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE16" from="id (Hederich)" to="DITTO" teiform="xref">Hederichs Mythologisches Lexikon</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE17" from="id (Bibel)" to="DITTO" teiform="xref">Die Bibel</xref><lb teiform="lb"/>
+<hi teiform="hi"><xref targorder="u" doc="JGOETHE18" from="id (Erschliesungshilfen)" to="DITTO" teiform="xref"><emph teiform="emph">Erschließungshilfen</emph></xref></hi><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE18" from="id (Werkkommentare)" to="DITTO" teiform="xref">Kommentare</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE19" from="id (Namen)" to="DITTO" teiform="xref">Namenglossar</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE20" from="id (Chronik)" to="DITTO" teiform="xref">Chronik</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE21" from="id (Bibliographie)" to="DITTO" teiform="xref">Bibliographie</xref><lb teiform="lb"/>
+<xref targorder="u" doc="JGOETHE22" from="id (Werktitel)" to="DITTO" teiform="xref">Werktitel und Gedichtanfänge</xref>
+</cell></row></table></p><p teiform="p"><table teiform="table"><row role="data" teiform="row"><cell role="data" rows="1" cols="1" teiform="cell"><xref targorder="u" doc="JGOETHE0" from="id (Anfang)" to="DITTO" teiform="xref"><figure rend="intern" entity="PFEILOB" teiform="figure"></figure></xref>Zur nächsthöheren Ebene<lb teiform="lb"/></cell><cell role="data" rows="1" cols="1" teiform="cell"></cell><cell role="data" rows="1" cols="1" teiform="cell"><xref targorder="u" doc="JGOETHE18" from="id (Werkkommentare)" to="DITTO" teiform="xref"><figure rend="intern" entity="PFEILRE" teiform="figure"></figure></xref>Zum Kommentar</cell></row></table></p><p id="jg2" teiform="p"><anchor id="chronologie" teiform="anchor"/><emph teiform="emph">Chronologische Auswahl</emph><note place="unspecified" anchored="yes" teiform="note">Die chronologische Gliederung entspricht weitgehend der von Morris und Fischer-Lamberg. Die Gliederung ist z. T. so kleinteilig, daß gelegentlich ein unangemessener Festlegungszwang entsteht. So ist z.B. die Datierung der <title type="Goethewerk" teiform="title">Prometheus</title>-Ode nach wie vor umstritten, und die Entstehung des 'Urfaust' zieht sich Sicherheit über mehrere Jahre hin. Wenn die Chronologie wichtig ist, sollte immer auch der Kommentar zu Rate gezogen werden!  </note>:</p><p id="jg3" teiform="p">Frankfurt 1749-1765<lb teiform="lb"/>Leipzig 1765-1768<lb teiform="lb"/>Frankfurt 1768-1770<lb teiform="lb"/>Straßburg 1770-1771/8<lb teiform="lb"/>Frankfurt 1771-72/5<lb teiform="lb"/>Wetzlar 1772/6-9<lb teiform="lb"/>Frankfurt 1772/9-1773<lb teiform="lb"/>Frankfurt 1774/1-6<lb teiform="lb"/>Rheinreise 1774/7-8<lb teiform="lb"/>Frankfurt 1774/8-12<lb teiform="lb"/>Frankfurt 1775/1-5<lb teiform="lb"/>Schweiz 1775/5-7<lb teiform="lb"/>Frankfurt/Weimar  1775/8ff.<lb teiform="lb"/></p></div1></body></text></tei.2>
