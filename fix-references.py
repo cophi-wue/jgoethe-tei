@@ -213,4 +213,7 @@ def main(
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:])
+    args = sys.argv[1:]
+    if args:
+        args[0] = Path(args[0])
+    main(*args)

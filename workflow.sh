@@ -1,26 +1,27 @@
 #!/bin/sh
+set -e
 
 # This workflow converts the original SGML TEI version from the CD to a P5 based version,
 # with the intermediate P4 based version used by the old edition.
 TOOLS=$(pwd)
 
 mkdir conversion
-git worktree add --locked conversion/0-CD CD
+git worktree add conversion/0-CD CD
 cd conversion
 cp -rp 0-CD 1-references
 
 # Move files to modern locations, fix references, write graphics.xml
 "$TOOLS"/fix-references.py 1-references
 
-cp -rp 1-references 2-XML
+cp -rp 1-references 2-P3-XML
 cd 2-P3-XML
 
 # prepare iso*.ent files to create unicode codepoints
-"$TOOLS"/ent2unicode.py
+"$TOOLS"/ent2unicode.py iso*.ent
 
 # actually translate and cleanup the files
 for sgml in *.sgm; do
-  "$TOOLS"/sgml2xml.sh "${sgml}" | xsltproc "$TOOLS"/tei2tei.xsl >"${sgml%%.sgm}.xml"
+  "$TOOLS"/sgml2xml.sh "${sgml}" | xsltproc "$TOOLS"/tei2tei.xsl - >"${sgml%%.sgm}.xml"
 done
 rm ./*.sgm ./*.ent
 cd ..
@@ -38,4 +39,8 @@ cd ..
 cp -rp 3-oldapp-XML 4-P5
 cd 4-P5
 p4totei jgoethe.xml jgoethe-p5.xml
+#
+# resolve @url references to relative paths into the actual image files
+saxon -xsl:"$TOOLS/inline_graphics_urls.xsl" -s:jgoethe-p5.xml -o:jgoethe.xml
+rm jgoethe-p5.xml
 cd ..
